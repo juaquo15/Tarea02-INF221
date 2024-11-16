@@ -13,8 +13,8 @@ Script en Python que genera diversos casos de prueba para evaluar los algoritmos
 Tambien genera los archivos de los costos, los cuales tienen las siguientes particularidades:
 - **cost_delete**: costo fijo de 1.
 - **cost_insert**: costo de 2 si el caracter esta en posicion par y 1 si esta en una posicion impar [a,b,c,d,...,z].
-- **cost_replace**: costo aleatorio entre 1 y 5.
-- **cost_transpose**: costo aleatorio entre 1 y 3.
+- **cost_replace**: costo aleatorio entre 1 y 2.
+- **cost_transpose**: costo aleatorio entre 1 y 2.
 
 #### Tipos de Cadenas Generadas:
 1. **Cadenas idénticas**: Pares de cadenas iguales (ej: "abc" - "abc")
