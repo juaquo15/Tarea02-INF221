@@ -32,12 +32,7 @@ Implementación en C++ de los dos algoritmos de distancia de edición:
 
 
 ### 3. analisis.py
-Script de visualización que genera múltiples gráficos y análisis estadísticos:
-1. **Costos por tipo de cadena**: Gráfico de barras del costo promedio
-2. **Longitud vs Costo**: Gráfico de dispersión
-3. **Distribución de costos**: Gráfico de violín
-4. **Correlación de variables**: Heatmap
-5. **Proporción de tipos**: Gráfico de barras apiladas
+Script de visualización que genera múltiples gráficos y análisis estadísticos.
 
 Genera archivos en formatos:
 - PNG para uso general
