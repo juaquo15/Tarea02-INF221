@@ -1,0 +1,16 @@
+Estadísticas de tiempos de ejecución
+====================================
+
+Fuerza Bruta:
+--------------
+Tiempo mínimo: 0.000 ms
+Tiempo máximo: 2425.544 ms
+Tiempo promedio: 266.350 ms
+Desviación estándar: 682.116 ms
+
+Programación Dinámica:
+----------------------
+Tiempo mínimo: 0.000 ms
+Tiempo máximo: 417.219 ms
+Tiempo promedio: 88.168 ms
+Desviación estándar: 127.102 ms

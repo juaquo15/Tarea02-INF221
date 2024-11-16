@@ -1,0 +1,1280 @@
+Tipo: Cadenas idénticas
+Longitud: 1 caracteres
+S1: b
+S2: b
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 2 caracteres
+S1: ur
+S2: ur
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 3 caracteres
+S1: vha
+S2: vha
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 4 caracteres
+S1: dilr
+S2: dilr
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 5 caracteres
+S1: ibyaw
+S2: ibyaw
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 6 caracteres
+S1: oqxtdm
+S2: oqxtdm
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 7 caracteres
+S1: qcnomch
+S2: qcnomch
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 8 caracteres
+S1: vqnptkcm
+S2: vqnptkcm
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 9 caracteres
+S1: kskqyxcrc
+S2: kskqyxcrc
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 10 caracteres
+S1: almfcdbhgp
+S2: almfcdbhgp
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 11 caracteres
+S1: mvreeygabjw
+S2: mvreeygabjw
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 12 caracteres
+S1: ldhlepmyfbvb
+S2: ldhlepmyfbvb
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas
+Longitud: 13 caracteres
+S1: bxmspddrcrswk
+S2: bxmspddrcrswk
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 2 caracteres
+S1: wx
+S2: we
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 3 caracteres
+S1: spw
+S2: sww
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 4 caracteres
+S1: hwut
+S2: hwjt
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 5 caracteres
+S1: jhxjt
+S2: jhzjt
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 6 caracteres
+S1: ttqpbq
+S2: ttqbbq
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 7 caracteres
+S1: kglgati
+S2: kgltati
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 8 caracteres
+S1: sxmwqyvg
+S2: sxmwdyvg
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 9 caracteres
+S1: abjkhfmfk
+S2: abjkxfmfk
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 10 caracteres
+S1: exruvmcguc
+S2: exruvacguc
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 11 caracteres
+S1: hsgbvweteyy
+S2: hsgbvqeteyy
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 12 caracteres
+S1: wkgmjzqsqxzp
+S2: wkgmjzbsqxzp
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución
+Longitud: 13 caracteres
+S1: vcgptwvgklosq
+S2: vcgptwhgklosq
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 2 caracteres
+S1: v
+S2: xv
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 3 caracteres
+S1: mj
+S2: maj
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 4 caracteres
+S1: btv
+S2: butv
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 5 caracteres
+S1: kjpe
+S2: kjdpe
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 6 caracteres
+S1: zefay
+S2: zepfay
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 7 caracteres
+S1: bpjcro
+S2: bpjfcro
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 8 caracteres
+S1: annmddp
+S2: annmmddp
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 9 caracteres
+S1: pfextkaj
+S2: pfexutkaj
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 10 caracteres
+S1: udhbjfigv
+S2: udhbbjfigv
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 11 caracteres
+S1: mxiyahclao
+S2: mxiyaqhclao
+Costo FB: 2
+Tiempo FB: 1.002 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 12 caracteres
+S1: myrlqrggrml
+S2: myrlqtrggrml
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 13 caracteres
+S1: ngyjgpfmintp
+S2: ngyjgphfmintp
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción
+Longitud: 14 caracteres
+S1: qrjrejmvgqpup
+S2: qrjrejmmvgqpup
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 2 caracteres
+S1: lz
+S2: l
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 3 caracteres
+S1: aav
+S2: av
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 4 caracteres
+S1: zkzs
+S2: zks
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 5 caracteres
+S1: awies
+S2: awes
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 6 caracteres
+S1: yykukf
+S2: yykkf
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 7 caracteres
+S1: zsdredp
+S2: zsdedp
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 8 caracteres
+S1: dximkyck
+S2: dximyck
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 9 caracteres
+S1: puivlwclr
+S2: puivwclr
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 10 caracteres
+S1: zjuybmhktu
+S2: zjuybhktu
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 11 caracteres
+S1: pepigwuculf
+S2: pepiguculf
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 12 caracteres
+S1: htqauveqwzjx
+S2: htqauvqwzjx
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación
+Longitud: 13 caracteres
+S1: biidvlyjtfiir
+S2: biidvljtfiir
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 1 caracteres
+S1: n
+S2: e
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 2 caracteres
+S1: oh
+S2: vr
+Costo FB: 3
+Tiempo FB: 0.000 ms
+Costo DP: 3
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 3 caracteres
+S1: twx
+S2: nwl
+Costo FB: 3
+Tiempo FB: 0.000 ms
+Costo DP: 3
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 4 caracteres
+S1: bihl
+S2: ynme
+Costo FB: 6
+Tiempo FB: 0.000 ms
+Costo DP: 6
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 5 caracteres
+S1: tflri
+S2: gdtjv
+Costo FB: 6
+Tiempo FB: 0.000 ms
+Costo DP: 6
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 6 caracteres
+S1: yjizxh
+S2: mifkue
+Costo FB: 8
+Tiempo FB: 0.000 ms
+Costo DP: 8
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 7 caracteres
+S1: uczvtmq
+S2: lkgyipp
+Costo FB: 10
+Tiempo FB: 1.997 ms
+Costo DP: 10
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 8 caracteres
+S1: nrnwnnzg
+S2: vpxuirje
+Costo FB: 10
+Tiempo FB: 12.000 ms
+Costo DP: 10
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 9 caracteres
+S1: ppytqlrkj
+S2: qupozaoqv
+Costo FB: 12
+Tiempo FB: 38.008 ms
+Costo DP: 12
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 10 caracteres
+S1: yvndpttdfx
+S2: isglyyette
+Costo FB: 11
+Tiempo FB: 212.000 ms
+Costo DP: 11
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 11 caracteres
+S1: zlokvsnadjz
+S2: srsayyfeqne
+Costo FB: 14
+Tiempo FB: 1578.002 ms
+Costo DP: 14
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 12 caracteres
+S1: visjqljmltyd
+S2: auxozyjqdlvk
+Costo FB: 14
+Tiempo FB: 4336.892 ms
+Costo DP: 14
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes
+Longitud: 13 caracteres
+S1: auoqanvqcrfud
+S2: atledleattvyc
+Costo FB: 15
+Tiempo FB: 9500.437 ms
+Costo DP: 15
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 2 caracteres
+S1: ej
+S2: el
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 3 caracteres
+S1: ywv
+S2: yqv
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 4 caracteres
+S1: llrl
+S2: lltl
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 5 caracteres
+S1: lxslx
+S2: lxzlx
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 6 caracteres
+S1: qhzqhz
+S2: qhzyhz
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 7 caracteres
+S1: zguzguz
+S2: zgumguz
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 8 caracteres
+S1: ververve
+S2: vervqrve
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 9 caracteres
+S1: zcbzcbzcb
+S2: zcbzubzcb
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 10 caracteres
+S1: uufuufuufu
+S2: uufuuvuufu
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 11 caracteres
+S1: epdepdepdep
+S2: epdepjepdep
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 12 caracteres
+S1: dhbdhbdhbdhb
+S2: dhbdhbahbdhb
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas
+Longitud: 13 caracteres
+S1: oqmoqmoqmoqmo
+S2: oqmoqmfqmoqmo
+Costo FB: 1
+Tiempo FB: 0.000 ms
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 1 caracteres
+S1: v
+S2: v
+Costo FB: 0
+Tiempo FB: 0.000 ms
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 2 caracteres
+S1: nu
+S2: un
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 3 caracteres
+S1: ahl
+S2: lah
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 4 caracteres
+S1: sgkq
+S2: qsgk
+Costo FB: 3
+Tiempo FB: 0.000 ms
+Costo DP: 3
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 5 caracteres
+S1: aokmw
+S2: waokm
+Costo FB: 3
+Tiempo FB: 0.000 ms
+Costo DP: 3
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 6 caracteres
+S1: pnqsup
+S2: ppnqsu
+Costo FB: 2
+Tiempo FB: 0.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 7 caracteres
+S1: hyqleho
+S2: ohyqleh
+Costo FB: 3
+Tiempo FB: 0.000 ms
+Costo DP: 3
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 8 caracteres
+S1: brpyidvf
+S2: fbrpyidv
+Costo FB: 2
+Tiempo FB: 2.998 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 9 caracteres
+S1: zcnaldlkw
+S2: wzcnaldlk
+Costo FB: 3
+Tiempo FB: 7.001 ms
+Costo DP: 3
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 10 caracteres
+S1: jlgeyrvizm
+S2: mjlgeyrviz
+Costo FB: 3
+Tiempo FB: 59.001 ms
+Costo DP: 3
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 11 caracteres
+S1: qeknmyclnyn
+S2: nqeknmyclny
+Costo FB: 2
+Tiempo FB: 91.000 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 12 caracteres
+S1: uwwnrkeqyvon
+S2: nuwwnrkeqyvo
+Costo FB: 2
+Tiempo FB: 984.999 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas
+Longitud: 13 caracteres
+S1: eimcouefgdljb
+S2: beimcouefgdlj
+Costo FB: 2
+Tiempo FB: 7507.304 ms
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 1 caracteres
+S1: n
+S2: n
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 251 caracteres
+S1: dbzifhbpvbigzetqlgfmvghfzszuunywhjfzyaxhhabbpfxqbktqsvqmdpqjumzbucyxusesdaynikzycswhlwisncsyolvnpbclpsptqwtkchdolaxcxpzreuiaermxzcygovlofvrkejielphknegmtrvpxrzcrewzxfldgamaftbgczdivdpdogtjraprtivvpeufzgjwmgeeoucbmrbyzyqesjwsebmimrclpsprkgzhtxahslfymyc
+S2: dbzifhbpvbigzetqlgfmvghfzszuunywhjfzyaxhhabbpfxqbktqsvqmdpqjumzbucyxusesdaynikzycswhlwisncsyolvnpbclpsptqwtkchdolaxcxpzreuiaermxzcygovlofvrkejielphknegmtrvpxrzcrewzxfldgamaftbgczdivdpdogtjraprtivvpeufzgjwmgeeoucbmrbyzyqesjwsebmimrclpsprkgzhtxahslfymyc
+Costo DP: 0
+Tiempo DP: 5.999 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 501 caracteres
+S1: cnpaipelblsqwxlxmmvrbtpqdoyctbvrdmfiysslyzuvksqoplbsbqgogmlivkkrcrrgacxitdfwzutcyxdooysjxhixaomztookpblwrvxipcdfupegjrcsdbxzbnoqyamvewjrlireiasjbmpvzgywmtgehdzsaemawmllbpbwporqsrnzvtscjhhitldoqigzvmdmtuutgvqszkggnnrdnzobsdbrbdprwlxfeezqacbmslistzdwmwoojpyylvktibbuzwdqfyoqadejvsfdregruxednwsggqorwvugjbeohkktvymmknlozfzqdlmmclvfmxznjyuekeqikfnxkscitwiefzbstmhhwzynorrmqngsrrcexvzvwxutcqqkmbekkhgzvlmxycfieslbapqnhpyiiyozgdypjknrkosuaxmmwkajrwxefhpelauzvpsskdckzlftxrxswblyekswrehiqzztxuirenxxzsqmpjzdu
+S2: cnpaipelblsqwxlxmmvrbtpqdoyctbvrdmfiysslyzuvksqoplbsbqgogmlivkkrcrrgacxitdfwzutcyxdooysjxhixaomztookpblwrvxipcdfupegjrcsdbxzbnoqyamvewjrlireiasjbmpvzgywmtgehdzsaemawmllbpbwporqsrnzvtscjhhitldoqigzvmdmtuutgvqszkggnnrdnzobsdbrbdprwlxfeezqacbmslistzdwmwoojpyylvktibbuzwdqfyoqadejvsfdregruxednwsggqorwvugjbeohkktvymmknlozfzqdlmmclvfmxznjyuekeqikfnxkscitwiefzbstmhhwzynorrmqngsrrcexvzvwxutcqqkmbekkhgzvlmxycfieslbapqnhpyiiyozgdypjknrkosuaxmmwkajrwxefhpelauzvpsskdckzlftxrxswblyekswrehiqzztxuirenxxzsqmpjzdu
+Costo DP: 0
+Tiempo DP: 20.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 751 caracteres
+S1: fcosmnhphlvaapwxoutytbctuzcbustdrefweaemdxnbavgnlrqdgnzvaueoszknbivtpywsolmavihwahlkpocprcsjmtprjnahehruzpqqrsyfhglporgjxrwsbbftlkrzqivpokrczxqoxnsprijhacehxeztnvryihssdbculpucahlehtnyscoygdofghdigifzdkpmcdtzxsqqsmwxcvtjbqfwyeazgslkncmumbpdtddpkgyrlvwsipjlmtodvkjssgeytilhgdbzjleeufjmmbyvxrwglhonzcynxvybfvnprklflzlteojcjoojeczyonwldnvwpedwvqlezcnzofvhlomexxnxkqrgxcdmllrsqefskpwkekmsmfdkgavuhjqbkjxrtwbdhhvarzehpgemuoumlihxywvjwmhvrkqpekcntiyppfvrsvmuzfcytkoqjudmdbghghssoycaohfpvosgoatcbxkfueorrlntdtjomvrbjqodekbwntmfjsqtphpinlfdxjusiiqpugwasfvmyzethjzccsspsulhtvzvonhzmkfgyqaodgnfptsinfubwtqsblcoibkwzqhxahctbshffqikcjyowutzkrcafwcqfyhyevdxvnszqxsziheeriddokyzuoclruhwvzfkhsogfmnwcswraobhnwdhrnznmpgpzonoyaswdtizobtpkvedohldigdvheehgnjqwprzqbzxhda
+S2: fcosmnhphlvaapwxoutytbctuzcbustdrefweaemdxnbavgnlrqdgnzvaueoszknbivtpywsolmavihwahlkpocprcsjmtprjnahehruzpqqrsyfhglporgjxrwsbbftlkrzqivpokrczxqoxnsprijhacehxeztnvryihssdbculpucahlehtnyscoygdofghdigifzdkpmcdtzxsqqsmwxcvtjbqfwyeazgslkncmumbpdtddpkgyrlvwsipjlmtodvkjssgeytilhgdbzjleeufjmmbyvxrwglhonzcynxvybfvnprklflzlteojcjoojeczyonwldnvwpedwvqlezcnzofvhlomexxnxkqrgxcdmllrsqefskpwkekmsmfdkgavuhjqbkjxrtwbdhhvarzehpgemuoumlihxywvjwmhvrkqpekcntiyppfvrsvmuzfcytkoqjudmdbghghssoycaohfpvosgoatcbxkfueorrlntdtjomvrbjqodekbwntmfjsqtphpinlfdxjusiiqpugwasfvmyzethjzccsspsulhtvzvonhzmkfgyqaodgnfptsinfubwtqsblcoibkwzqhxahctbshffqikcjyowutzkrcafwcqfyhyevdxvnszqxsziheeriddokyzuoclruhwvzfkhsogfmnwcswraobhnwdhrnznmpgpzonoyaswdtizobtpkvedohldigdvheehgnjqwprzqbzxhda
+Costo DP: 0
+Tiempo DP: 46.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 1001 caracteres
+S1: vtbxvprhqmkhtkngoqiphyujvwgxbkyprvysnsbrgtehssxvodjwojiqyhkpyoaobcrbprthkhahfkwjmxdjhegupxaaxtrmiwxyirattzapyfojbjnfmxlumygdrvhrxhxxaujmlblvrcizyqzjijjyiczxknfrzndmppqjohlokhqbsxmkosmuccmowwwstatfubjqsrohybipfykttzfguazktuulfgrjochbuonxxauufxdrrtlqsdthrigglzpmnnbgejoadndvdbklpmucohlaxpygpdddhvvbmaafmtpwckmzbcngerpcpokpoiicgliaajgzruxzuoypqqugqlkoiqpywxalrklvyrgsyqmbxrlwfyjdqzyyawthkiedtqqezihhovygenboodaikxtvbeuqksljgctcjyhskinlidgtjfevngykvdvswpepeaortlihicugqrhwcsqawydnuogtwxhzlfzzgofowbpikzvzwubcnxzzcuixjynjelppkiitjshwqizlacznptszmrtemiuxejoroaxjwpkskcchmwcbmvxiieedaxmpttyjkwpqwjokqszxcitbdcosrlqlizjwlwrpgayexllnkfdhfdvzdwzfudqrwqfoxcvqbpoivkhgwxkvugkylhhipuphrcuqbcyistzutadfsarzmofwfpiwkqvsgwcijasiirdtdtaurajqtjybgmnykkmqycwxxxmndklhwcsqaxbabmdywokaaherrvdnrynpqmexrfonyjxxorjgdtmlgdbosvbnqqfzsycfnhiadextnrxtioraqyhgzekmagqtcrniocgxzoduzxanjnoizagichcjzsllagmrebsrepieoorllxrszzcagdgweceemlvmweazhpciyquwgtdknnjeswnqzqwhhpopyaqrmgnfbkrgrskbkxzifejdwbkggejlxflkdawjcvfchhrhdlcexqntvcnkl
+S2: vtbxvprhqmkhtkngoqiphyujvwgxbkyprvysnsbrgtehssxvodjwojiqyhkpyoaobcrbprthkhahfkwjmxdjhegupxaaxtrmiwxyirattzapyfojbjnfmxlumygdrvhrxhxxaujmlblvrcizyqzjijjyiczxknfrzndmppqjohlokhqbsxmkosmuccmowwwstatfubjqsrohybipfykttzfguazktuulfgrjochbuonxxauufxdrrtlqsdthrigglzpmnnbgejoadndvdbklpmucohlaxpygpdddhvvbmaafmtpwckmzbcngerpcpokpoiicgliaajgzruxzuoypqqugqlkoiqpywxalrklvyrgsyqmbxrlwfyjdqzyyawthkiedtqqezihhovygenboodaikxtvbeuqksljgctcjyhskinlidgtjfevngykvdvswpepeaortlihicugqrhwcsqawydnuogtwxhzlfzzgofowbpikzvzwubcnxzzcuixjynjelppkiitjshwqizlacznptszmrtemiuxejoroaxjwpkskcchmwcbmvxiieedaxmpttyjkwpqwjokqszxcitbdcosrlqlizjwlwrpgayexllnkfdhfdvzdwzfudqrwqfoxcvqbpoivkhgwxkvugkylhhipuphrcuqbcyistzutadfsarzmofwfpiwkqvsgwcijasiirdtdtaurajqtjybgmnykkmqycwxxxmndklhwcsqaxbabmdywokaaherrvdnrynpqmexrfonyjxxorjgdtmlgdbosvbnqqfzsycfnhiadextnrxtioraqyhgzekmagqtcrniocgxzoduzxanjnoizagichcjzsllagmrebsrepieoorllxrszzcagdgweceemlvmweazhpciyquwgtdknnjeswnqzqwhhpopyaqrmgnfbkrgrskbkxzifejdwbkggejlxflkdawjcvfchhrhdlcexqntvcnkl
+Costo DP: 0
+Tiempo DP: 82.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 1251 caracteres
+S1: vwupgkjragqgqqfqhonenknfuilmxnomroigpobetgmehtklbykbzfrkcvcpegfqzdohblsaoztatqqojriymrndbbpdxpharptgylutwnuntfianmanqinepatqibpwcfnezuydoqflayduuzirrrvzinzcpvmgfjyrsfyttrovrrfovjfhrestzdgpietjjqlbdlkhewlgnvbklhoqwjjvotlojqjqedsebhxezesybkvjidvtwtkcqpkpfuajtwqkfxwepxthvgbafomlezhycosiwhtvbifaahonyzrmsacyptwqhogmbctqrmvqpidextktwtiuqqrmlxrmmcrneajkcizpnarftrssezcnvqkpwmrlwomoayuhscklyroakboyjwaveycrqvzbizxvrblwhsqvbxbadokipitmzazvhfdjbpziqsdrmwdvjipkmdxpeagqgxljkonxtvpvomfdsydjgzarrxqwhvgmcdvwdocrrwociqchwktgmvxiklqxfqoandyhxakvdveemvjaycrkerpbyybgytmfewsfsstxexzgdffevyagjhturzyoxpnultqjzyonfbeigelmkszssgngezxqxueeooyemuufrhumsnvdzvijqzxodjdnbrfmgrppxprsmpyfochnkfjvkcnvnsbfszumbirlluaggpiwmvsznqujnvkkjcupkkuyjvhfaunuxohiauyopudowkfamegksqvjppbpgnvknjmccqixzcorcbehmwhcglxgtosfevdrfgbxkyzfcusfkwmscbcwcwduimotdtziaukwzncmwnajuzhwisicuhrwzhdbroxwkvxiqqcwxbqmrfirbieuzjdgnqqadfvtqwqztnxfzjhvvmhmasileyardpxmqcbbcckpsjcxlpsdiugvbamlowygqsymmmmpvsaauwzmmmfhmysaruzbvxpljlexyftjhghofbdvfiuwbfyinotwdipnknpmzkgrncpkjttccfzjzgdbcoloywpzaloscjlydrikeyvtbvplofbvzhnocwzvgndcesohqurohzmdwicqmsgccstrtoghgxqfztaomxafyysarfsztgaexyuybhjwkidjwngmqxkoguevjdntrnmipekrnmrjpbrsgmeesndybotfvbrpbfbayilqkameuvjatmlbvoeqiyzkmjpeijyfzlxfdkuyxbdfoosyztplpdbskedukjq
+S2: vwupgkjragqgqqfqhonenknfuilmxnomroigpobetgmehtklbykbzfrkcvcpegfqzdohblsaoztatqqojriymrndbbpdxpharptgylutwnuntfianmanqinepatqibpwcfnezuydoqflayduuzirrrvzinzcpvmgfjyrsfyttrovrrfovjfhrestzdgpietjjqlbdlkhewlgnvbklhoqwjjvotlojqjqedsebhxezesybkvjidvtwtkcqpkpfuajtwqkfxwepxthvgbafomlezhycosiwhtvbifaahonyzrmsacyptwqhogmbctqrmvqpidextktwtiuqqrmlxrmmcrneajkcizpnarftrssezcnvqkpwmrlwomoayuhscklyroakboyjwaveycrqvzbizxvrblwhsqvbxbadokipitmzazvhfdjbpziqsdrmwdvjipkmdxpeagqgxljkonxtvpvomfdsydjgzarrxqwhvgmcdvwdocrrwociqchwktgmvxiklqxfqoandyhxakvdveemvjaycrkerpbyybgytmfewsfsstxexzgdffevyagjhturzyoxpnultqjzyonfbeigelmkszssgngezxqxueeooyemuufrhumsnvdzvijqzxodjdnbrfmgrppxprsmpyfochnkfjvkcnvnsbfszumbirlluaggpiwmvsznqujnvkkjcupkkuyjvhfaunuxohiauyopudowkfamegksqvjppbpgnvknjmccqixzcorcbehmwhcglxgtosfevdrfgbxkyzfcusfkwmscbcwcwduimotdtziaukwzncmwnajuzhwisicuhrwzhdbroxwkvxiqqcwxbqmrfirbieuzjdgnqqadfvtqwqztnxfzjhvvmhmasileyardpxmqcbbcckpsjcxlpsdiugvbamlowygqsymmmmpvsaauwzmmmfhmysaruzbvxpljlexyftjhghofbdvfiuwbfyinotwdipnknpmzkgrncpkjttccfzjzgdbcoloywpzaloscjlydrikeyvtbvplofbvzhnocwzvgndcesohqurohzmdwicqmsgccstrtoghgxqfztaomxafyysarfsztgaexyuybhjwkidjwngmqxkoguevjdntrnmipekrnmrjpbrsgmeesndybotfvbrpbfbayilqkameuvjatmlbvoeqiyzkmjpeijyfzlxfdkuyxbdfoosyztplpdbskedukjq
+Costo DP: 0
+Tiempo DP: 127.001 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 1501 caracteres
+S1: hifgfbncgzosqddmrevkemcyfnkgzpzdgoieeakffwzlzexcxzjynbyuriogiheqxtxmejbwjcqtcdlmpnmwggtymzhgaepkwflznzpbithcjqveyhdlrawvebbokllnbwkcyzztclxkkghunqxvcjogyjvddfvqluenuiycfmoezdbxbvvadqggmyndarkzkytvjjsnvnnjilsutoqduzsxcdnkqsgtfunmclajpzvvhflbrjznrtnsdrprxgngwmhfykjpudyomvakvrwsozbhwapcdxwludqunvmyssdvjavtvlhpbzgopiqfiffmfaaubhqzfhyqlxsxpnuvysvduynblffwohctbdycgmmwbtyuovbtlidgykoslwdmrncpbxdcrflbpxthjljswbfkcatarvszujrvkfcyfeebhruuobmnbvgufetmhefkdyydqvvojlncfrichrvljmvutottjfgyzktmssxicqiqmrezsxbocqrbffpfyxgnngfzfcutghjftutrhkaydknlqhfpnjngfcdnktojiqoynnputjbxyybntjluadiwvwwksndmpmheyqubtxsnratbobapbqvngxbsjhotwpvbyrmtwpmubhbkowrtakxzfprbcarqqwbxealgbyanbnovoycnifesxfxwghdripififkwpnnuzlntufokultmskqwkevobukexbngwmkbcvzovdxfqhjuohebhqnkxymrrjvednduksyxpyagunrgrxbioyidxbbplnzcgfjnddlpxdbqqpykiwmuaapckgkkhpvdajpppyrtjugesqoxalaetrgunqtnenaxjqhjgjadwhehmwjanyiqxytfvkaadjbbyzlmkyhclrxzwwikogsuchobfunwkjwjqyltscbpaqvecyokgwbbtcqfjcykzmpdyxaevbseegasznnfmvqqeqfasqtfhkjkrxnagjgepxhcjoxpkmmopcvpqwbfyzsmynjnayyfqdssaewwqppludrxqbnneucxenvgzbcgpgxxenwwfrrszztmppxhdsmmwnmkngdhxmxyrlxenprxkiexgclbhftquekqzfgnyrxtflgprmbqaujfhluewdqoxfpuaixbinylnzchbewrrwlfnqvfqgrbhctchwhfimbdedysngeweofrnbgijzcmthixlwscnvdsbojscszmtwhrqavikwctazdikkgibfcwspxvytyezkydbrdbbuillcrnsevvpfdeijcgbalvtbqaaybmssdfqvzdxymutqpvzvsyyndltyiarzqrmrisktxybgzajeyfawubwormjiidwavorimbicnrkupyixpzpnxcrbtufbfmtgfhxjmzlmudmfmtdzjdxcvsoibzlunxyzrbrjlchkpabmpqbpjzamnpmzclqsynurmttskmqfoywxbeszpcydfdhbeewjymmhlrleplqvbzgswdxpxjx
+S2: hifgfbncgzosqddmrevkemcyfnkgzpzdgoieeakffwzlzexcxzjynbyuriogiheqxtxmejbwjcqtcdlmpnmwggtymzhgaepkwflznzpbithcjqveyhdlrawvebbokllnbwkcyzztclxkkghunqxvcjogyjvddfvqluenuiycfmoezdbxbvvadqggmyndarkzkytvjjsnvnnjilsutoqduzsxcdnkqsgtfunmclajpzvvhflbrjznrtnsdrprxgngwmhfykjpudyomvakvrwsozbhwapcdxwludqunvmyssdvjavtvlhpbzgopiqfiffmfaaubhqzfhyqlxsxpnuvysvduynblffwohctbdycgmmwbtyuovbtlidgykoslwdmrncpbxdcrflbpxthjljswbfkcatarvszujrvkfcyfeebhruuobmnbvgufetmhefkdyydqvvojlncfrichrvljmvutottjfgyzktmssxicqiqmrezsxbocqrbffpfyxgnngfzfcutghjftutrhkaydknlqhfpnjngfcdnktojiqoynnputjbxyybntjluadiwvwwksndmpmheyqubtxsnratbobapbqvngxbsjhotwpvbyrmtwpmubhbkowrtakxzfprbcarqqwbxealgbyanbnovoycnifesxfxwghdripififkwpnnuzlntufokultmskqwkevobukexbngwmkbcvzovdxfqhjuohebhqnkxymrrjvednduksyxpyagunrgrxbioyidxbbplnzcgfjnddlpxdbqqpykiwmuaapckgkkhpvdajpppyrtjugesqoxalaetrgunqtnenaxjqhjgjadwhehmwjanyiqxytfvkaadjbbyzlmkyhclrxzwwikogsuchobfunwkjwjqyltscbpaqvecyokgwbbtcqfjcykzmpdyxaevbseegasznnfmvqqeqfasqtfhkjkrxnagjgepxhcjoxpkmmopcvpqwbfyzsmynjnayyfqdssaewwqppludrxqbnneucxenvgzbcgpgxxenwwfrrszztmppxhdsmmwnmkngdhxmxyrlxenprxkiexgclbhftquekqzfgnyrxtflgprmbqaujfhluewdqoxfpuaixbinylnzchbewrrwlfnqvfqgrbhctchwhfimbdedysngeweofrnbgijzcmthixlwscnvdsbojscszmtwhrqavikwctazdikkgibfcwspxvytyezkydbrdbbuillcrnsevvpfdeijcgbalvtbqaaybmssdfqvzdxymutqpvzvsyyndltyiarzqrmrisktxybgzajeyfawubwormjiidwavorimbicnrkupyixpzpnxcrbtufbfmtgfhxjmzlmudmfmtdzjdxcvsoibzlunxyzrbrjlchkpabmpqbpjzamnpmzclqsynurmttskmqfoywxbeszpcydfdhbeewjymmhlrleplqvbzgswdxpxjx
+Costo DP: 0
+Tiempo DP: 183.001 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 1751 caracteres
+S1: xrzeqgdftzfvakytwfmnosdotpeouwnwiubuonyvaxupxsuutgznnmxhsixofsefwmlsffsgecaxqyurmzlmsuntmteruhgihtsshyoskjpbudwwyolfvogzjxxxidzzhmfwjstbgsyhnspmtwiwwqsesbhynrzpfeccfficujadzwulccjksrheowmibpqtlsfpfhqznepoldigefbuuzjlhqfmxdtgucaabpjrarwgpzmnlkmmfjcfyxurojqpsmnulfnblqiiiuzfmxfpyelarxqqexuvwfihjqbfpfmbnejwyyuhyniremgzoceabzcptwwmjqanbrlfyutonsdggjijwflfqzmzzbysbhyffmjudjuhgceyopxmqyhswqlfinewoqqtywlprzfuzffyzarodmyjgqhsalggvgybwrnqzxdkjamzxtcytswfsjadkjmwwivrpyzfmmmwmhzpjmmwetwmsibzexkliqxlsvipuvxyrxljpgzlvrmjgjwyavnjytdynntnujfbtesonrinemiunxztgpjximeiuewxrtfshrlngeduxjsugmnosbbzknclkqrlczxzjaracdnncfzhzjctwfscuxdesovynnoklkpegqrjbgcurifemazxuzmmtrgzybdvsylvkjsdxjrkfiqairqvatxnoludrevuswxikzdalrlkcbekipqqaerdyufcchwrbkqdcmwdvxprzkqhxefwtjylaklakkbozhgcgityxxclmurqxxpaymdpzsdldkewtoqjnrwppszhqrqkyttbcrwixsztawxtxtqxyqqtiyjcdbvtulnigtlpvgupusscnzaxhabiuqoqrzrawemtdujbmnfobgnyxdoohppnfwmywnlvypytmhiwqioesiglyjssrmtmvnfzntcsukntgkmyaexyejrabiqrlouqckteyumuljnqhqcgjzjeqjcpjghmqfifljvuhsycbyiapssosccvdmxbvjvyxwteubvoomfcbazbahklngcwfwqacsalmxwlaufbjnygffddqwskbtbogkdqxvkjunehvwcatxngmzjmeoapldfnqulueqptgmrawecleaqggqydvesbvprckmilblgfbgdikjvpnmnjnbcrjkxzvntemfzfavrmiutowvivwxnoyelxodkfowvhynsfbzlnqjmopxfnlvbtpovcnivpixnnoyhdsottdowceiuibmysnkmcrgeyeyhyagaxglwvtfadhohchrczdqwukcnkwnzzfsloxrnuhcgazemoglickgsfjdvbwphhdcwubbzkduttsahrmypdvhmkjfkufbiaqvnsxuepdkjjjxwfocsekybgkghkpapyyybekdazkgdzufnilxwyemnjfkhjxbrmezqdzovxvbxydfnhveswlpvcyyjujnnulbwxslgwgliqjbdehamgmegkugivvuxylitzlwirihemxmhmlwhizhznhynuqerpbxlbiemxrcomhmxndvzldpxdotrnyloooblvkixmpoxesdtfsfjcbdpcsezgogirvcmzgrkghhgkjbalkfqoanxuefvgnqffzcgztjhafwblgtosubwigshqizesqhhcbmwpxatsonmozegztqfstjhacejtxzqfegfrozlvmlafliidwoyeddpbbuvfxmtotjdqbjrcrvgaezawycgnjunvnczombfcpiutfns
+S2: xrzeqgdftzfvakytwfmnosdotpeouwnwiubuonyvaxupxsuutgznnmxhsixofsefwmlsffsgecaxqyurmzlmsuntmteruhgihtsshyoskjpbudwwyolfvogzjxxxidzzhmfwjstbgsyhnspmtwiwwqsesbhynrzpfeccfficujadzwulccjksrheowmibpqtlsfpfhqznepoldigefbuuzjlhqfmxdtgucaabpjrarwgpzmnlkmmfjcfyxurojqpsmnulfnblqiiiuzfmxfpyelarxqqexuvwfihjqbfpfmbnejwyyuhyniremgzoceabzcptwwmjqanbrlfyutonsdggjijwflfqzmzzbysbhyffmjudjuhgceyopxmqyhswqlfinewoqqtywlprzfuzffyzarodmyjgqhsalggvgybwrnqzxdkjamzxtcytswfsjadkjmwwivrpyzfmmmwmhzpjmmwetwmsibzexkliqxlsvipuvxyrxljpgzlvrmjgjwyavnjytdynntnujfbtesonrinemiunxztgpjximeiuewxrtfshrlngeduxjsugmnosbbzknclkqrlczxzjaracdnncfzhzjctwfscuxdesovynnoklkpegqrjbgcurifemazxuzmmtrgzybdvsylvkjsdxjrkfiqairqvatxnoludrevuswxikzdalrlkcbekipqqaerdyufcchwrbkqdcmwdvxprzkqhxefwtjylaklakkbozhgcgityxxclmurqxxpaymdpzsdldkewtoqjnrwppszhqrqkyttbcrwixsztawxtxtqxyqqtiyjcdbvtulnigtlpvgupusscnzaxhabiuqoqrzrawemtdujbmnfobgnyxdoohppnfwmywnlvypytmhiwqioesiglyjssrmtmvnfzntcsukntgkmyaexyejrabiqrlouqckteyumuljnqhqcgjzjeqjcpjghmqfifljvuhsycbyiapssosccvdmxbvjvyxwteubvoomfcbazbahklngcwfwqacsalmxwlaufbjnygffddqwskbtbogkdqxvkjunehvwcatxngmzjmeoapldfnqulueqptgmrawecleaqggqydvesbvprckmilblgfbgdikjvpnmnjnbcrjkxzvntemfzfavrmiutowvivwxnoyelxodkfowvhynsfbzlnqjmopxfnlvbtpovcnivpixnnoyhdsottdowceiuibmysnkmcrgeyeyhyagaxglwvtfadhohchrczdqwukcnkwnzzfsloxrnuhcgazemoglickgsfjdvbwphhdcwubbzkduttsahrmypdvhmkjfkufbiaqvnsxuepdkjjjxwfocsekybgkghkpapyyybekdazkgdzufnilxwyemnjfkhjxbrmezqdzovxvbxydfnhveswlpvcyyjujnnulbwxslgwgliqjbdehamgmegkugivvuxylitzlwirihemxmhmlwhizhznhynuqerpbxlbiemxrcomhmxndvzldpxdotrnyloooblvkixmpoxesdtfsfjcbdpcsezgogirvcmzgrkghhgkjbalkfqoanxuefvgnqffzcgztjhafwblgtosubwigshqizesqhhcbmwpxatsonmozegztqfstjhacejtxzqfegfrozlvmlafliidwoyeddpbbuvfxmtotjdqbjrcrvgaezawycgnjunvnczombfcpiutfns
+Costo DP: 0
+Tiempo DP: 250.000 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 2001 caracteres
+S1: oebswrxiqxebfcsucvycvuyirthihdlterphynkrzkmztyyqoqlndrjpwqzqyrunymkgvayxmwgbfcaolasbrpgjduwbniozestbnxalwxldkvrqjlcaphrgfmlqulvmwypeoggidtsovkjbgvpslahpvjwxjyqaeghfwgtmkhphldmrxrkomyadoauhkdxtoilefntujwojorpfobmblaeawjlknwdipwlkgugkimbedzizxghkklwfjtkpjcmnaxinxddiycbcivnnxdjjbqatfljgxgnokpwfohxgwdyqqzxfczjswesipazkdzwpifsguprutfrnidakirhidaarfcmdurbleoahjtnhbwbbovkpgwkxxqqvvzjhmgqmyppfpbbddbmmgfjudfmxhohvxsujuzjgsuxskqmrizsfffuizbekgtxpcoboqfaqvgnjdtyyspnashpcfokpxsafxgthtgpvubagntunjhsbhcacfmpmbwxzurafvmqlkdqbkphytgmtuzegdwckufcnhfujtlteetnfgfjeatzndgwasuwopwihrnflnaumzkcrsmpmjowpcsrjueyovgpahstemuhalhqatiwulzvntyqgpwanjkzlngyaomyrabezmbjcmyyjamacxjhdpmsppotgxwjpqkdjqupspdywsjyrnhhqanpxdkxbmvgikcftyxkiippzwhdbakmadwgxuqxzwuvlrhlmefmlaznzgyhhhppaizmfmdxbncxhoxrozswqgupjloqhurksvkzhoexrgqjheeluxmuzarrqtztjqvaqsiemlooqqycwalsckndcqctpffxkewxkoxuzupfdojusdyjvwfydqvdztdwucpmvwcygxbqzbqbleuxjstjlajvviixwimhftgrgofzqdzxumdcspcyhoghtmihinfeuitocwptjbmwrkwhaatmbqrolfyfkqazzgdaoscjpbgtpajuxrpeoquonqpprayzqabvzfaofrtiqilpyfqnzbojneetlbchseagemiigshloaawccraoucztcavblkedpbjdsszfyeamgyxnxsoeplwvkrzynaarlczczkknfhggrgaapekrfcocfsqvcrcxwivmqcdxedgidictiksnopdqtsfhtkokgndciyszoimwxcmjxhzbudehxmhxcgmpifsnrwokttakxubnquljubuomrhajhdhuiizzgrxmiqwyohzkeavimkpzdzmhjaeejiabbpjxooibfkalbvmctapvvxvbixqntmslzkkaowmfuxrhabnucepdgoulnqwegcriowfsldqcalzqzenmsvxylvlpmvyknymvrjibwweygcinrndtpsjoktlnxykpbcnlufpbgjzljlcqqecsjpsoejmenioswycefcvzmyncinsevoxvxwxjmpydliuodlisvbsdxwaquylbekxqamgniqmpwpqevaitehiizeruxunkmnepndyoblwfdtfcrdikmlgtrluwxlriowwwqtbenienbytztmunafgojqkzafxtlwxkzfdehirmwrxuylslcsoashgnotwrolvqtutkreywjwvrugdmahyqsufrrdffckfwapsjilbubxfdvcaseygaxdmfmhjpvvwaannyfyqzcptsmjnobrfaqsemvkbmgvuuhxgaueumyczrqxumpjkiysqdslcgmbgonvupojfizgothxugzlcapiefolhyzpiimtjryqbknscdtacpsslwlqoecfmqewkwswefccewweqeoxiblovlgmdlwosvloglukvvrguswmvrsnyjtvufqcetgukzktwcuetbrojncsrzfueiyoqfdsemgjwrgbcvodyryzbdwitgtwqxsbuodnusgbazepmioldxwymhwsiipdfbmmlltgtlkaxziaidfmuvwvfpaetvexajutsovsnyvrogsqnkqblvawkx
+S2: oebswrxiqxebfcsucvycvuyirthihdlterphynkrzkmztyyqoqlndrjpwqzqyrunymkgvayxmwgbfcaolasbrpgjduwbniozestbnxalwxldkvrqjlcaphrgfmlqulvmwypeoggidtsovkjbgvpslahpvjwxjyqaeghfwgtmkhphldmrxrkomyadoauhkdxtoilefntujwojorpfobmblaeawjlknwdipwlkgugkimbedzizxghkklwfjtkpjcmnaxinxddiycbcivnnxdjjbqatfljgxgnokpwfohxgwdyqqzxfczjswesipazkdzwpifsguprutfrnidakirhidaarfcmdurbleoahjtnhbwbbovkpgwkxxqqvvzjhmgqmyppfpbbddbmmgfjudfmxhohvxsujuzjgsuxskqmrizsfffuizbekgtxpcoboqfaqvgnjdtyyspnashpcfokpxsafxgthtgpvubagntunjhsbhcacfmpmbwxzurafvmqlkdqbkphytgmtuzegdwckufcnhfujtlteetnfgfjeatzndgwasuwopwihrnflnaumzkcrsmpmjowpcsrjueyovgpahstemuhalhqatiwulzvntyqgpwanjkzlngyaomyrabezmbjcmyyjamacxjhdpmsppotgxwjpqkdjqupspdywsjyrnhhqanpxdkxbmvgikcftyxkiippzwhdbakmadwgxuqxzwuvlrhlmefmlaznzgyhhhppaizmfmdxbncxhoxrozswqgupjloqhurksvkzhoexrgqjheeluxmuzarrqtztjqvaqsiemlooqqycwalsckndcqctpffxkewxkoxuzupfdojusdyjvwfydqvdztdwucpmvwcygxbqzbqbleuxjstjlajvviixwimhftgrgofzqdzxumdcspcyhoghtmihinfeuitocwptjbmwrkwhaatmbqrolfyfkqazzgdaoscjpbgtpajuxrpeoquonqpprayzqabvzfaofrtiqilpyfqnzbojneetlbchseagemiigshloaawccraoucztcavblkedpbjdsszfyeamgyxnxsoeplwvkrzynaarlczczkknfhggrgaapekrfcocfsqvcrcxwivmqcdxedgidictiksnopdqtsfhtkokgndciyszoimwxcmjxhzbudehxmhxcgmpifsnrwokttakxubnquljubuomrhajhdhuiizzgrxmiqwyohzkeavimkpzdzmhjaeejiabbpjxooibfkalbvmctapvvxvbixqntmslzkkaowmfuxrhabnucepdgoulnqwegcriowfsldqcalzqzenmsvxylvlpmvyknymvrjibwweygcinrndtpsjoktlnxykpbcnlufpbgjzljlcqqecsjpsoejmenioswycefcvzmyncinsevoxvxwxjmpydliuodlisvbsdxwaquylbekxqamgniqmpwpqevaitehiizeruxunkmnepndyoblwfdtfcrdikmlgtrluwxlriowwwqtbenienbytztmunafgojqkzafxtlwxkzfdehirmwrxuylslcsoashgnotwrolvqtutkreywjwvrugdmahyqsufrrdffckfwapsjilbubxfdvcaseygaxdmfmhjpvvwaannyfyqzcptsmjnobrfaqsemvkbmgvuuhxgaueumyczrqxumpjkiysqdslcgmbgonvupojfizgothxugzlcapiefolhyzpiimtjryqbknscdtacpsslwlqoecfmqewkwswefccewweqeoxiblovlgmdlwosvloglukvvrguswmvrsnyjtvufqcetgukzktwcuetbrojncsrzfueiyoqfdsemgjwrgbcvodyryzbdwitgtwqxsbuodnusgbazepmioldxwymhwsiipdfbmmlltgtlkaxziaidfmuvwvfpaetvexajutsovsnyvrogsqnkqblvawkx
+Costo DP: 0
+Tiempo DP: 325.999 ms
+----------------------------------------
+Tipo: Cadenas idénticas (DP)
+Longitud: 2251 caracteres
+S1: emixtrwyzmajszmcabzomfjjyevxkxivdddtxijmkvnhrjbueqkedeuptbseglpeagtywonflzgtdacomklqlwlhlxyzchfmhklwlrecmrgvpndgfhgvlbrbtamsevrdqxuirwaznnytqihyhoeqbzpkrshuhsjmfmcwmlqkbtweskmihpbnsuufbpxhgvgncdhjaizkbrpdwljoqfjhypwsgjovkfbaeetmmayquhfjnclseovznicyylhumzudcepntjmuwbexymocxeondauyfyccdjupyvnfflfmefncomrisnkfdadygqjvttdqcbnacyzcbvlhzxcqytxaqdelwqlnexnhrgnnlevtepidbnsszxdqkhukjkuwuulqdhjzxmqzurjdhfumxzeitzqihegxthjmarujidvsrcjshornbkwhcvemdrlczugnczrhzrltnoqnnlegdyipvyefxfatwdwcvtsohfivozuocgjzgvkqihxwclcjvgjfqovbvnmshztdtiofadecvyiivwruhtwljsqpizoutyjfulmlvyllgrybiscwkehxavpxushypraqkcruzzwnqzwusyxisgyblhlhyqexayftikzipfxrfyakbazryftjnpoucchxolukviwbelcqrxqoiengoehrhsvzbugaponquxpqjgtzojnklagcddpufwfyqwdrssikzwimzjmggzutdwmtencdhiytgmjwrvxtleyylzpsuczcibeoiitvdmmrmdvnmzeqekftchdxgufcyfmejunviotzpvtlfwnvitcyyxhxisqhowbpwahfjizaxtbsdhituaaluqscnttfgthkaugfbdrxkeqrvgqcpgonfuisofyxocpidtsrxsvleqfrcabiauqoafuxyratddlwmcfjkgoxjycforrulfnlkkugryakwzzxvcuvwhinzbsyjjosanqasgfwqqkrzxkqmdwmmxcxjntwuhlxkotafhnvmeyassmnpeuyglitdalvibzzfcmfiezuwuhitdtloiefecnjimgkvilwgdgombxayqsmmvroltzniahqecjxifwmxpjapjuussipykegfrujxiidwopnlduglyrdqqlgncwmgfjvkhubtcpexbovsxlmmqqiytygvqawgdvcnwuziudrgxkdltdjaltnjdpequxskuzhjdbobpwdurrynsyrioprnvhajvwhpnbvxgaqlcmecmvmgxtmyyfnswftbouzdcqhrbylrocqvndmjwagpcsuwgjgoodqdkhzgectoudnzvtazicwqkdfbdzjlesafkdeuwiacphhvjfnlmwkgrsjxqfnqekzcmdhxwmvobruffcbpoaxofdtottomnivcfnoxiloyzdkawvuilqpmhoxzzwburjghubypifxgyjdvrkukbdpspxftfgarkqsjbpqhauebpehxpjylqrbupgqqpebavqfdjnclkquaatgtwyhyltfyoywcoobprocsiedhihlxyibrsvaaozwxsnqpjfligyyqgfhgwluireymmcegtrsnbjtbjalerxopzlqajuwaydqqoszitrblrkzijcnsyywobgazjdkoqjzjtzwqduyhzvzhygvxonptegcnnhycovqqfjiddlowkhnxwyhapzjwlfvlpzjcebohdtuudbhjxmwsjnqzokyqzdkvyhmostypoyrkdppqgutnefdpcnovoshpfetkvluvwhpajgruezjisrnsektmlqymcmockppvyucsxggmgvjuvgzwaamxcwpavlqxcszbnaskeeqshoslmikrvujlyxjjqtkjlmngqefqsahiiwsnivetsntnwdluhnlwtgevxpknguaezlncrvmiydlwyjvumpqedzepeztxxgrrxretccbfhwdurowgasshzufyeeqpdtpkbqhabcorhqzlcotimerqzorzwubsdrrslimhcrduzsrlsdzoaptxaxdwpfcpwpkfdgjlnssdnrcnclpaehgawttblddgfikmulavkboxahbxrltmqjhjraertytetzkboridjbgcwnhfgbnndgumboqswfxqeiokuunccvlnlwcspumeiemimfgztolxcwrhgsybfhlsrxztzyvkxzwiduvwxqvjlqwvbtddxjkzxqbgookymludrhqpjycxngggleauqlpooffujhqkqsezcjbybncomt
+S2: emixtrwyzmajszmcabzomfjjyevxkxivdddtxijmkvnhrjbueqkedeuptbseglpeagtywonflzgtdacomklqlwlhlxyzchfmhklwlrecmrgvpndgfhgvlbrbtamsevrdqxuirwaznnytqihyhoeqbzpkrshuhsjmfmcwmlqkbtweskmihpbnsuufbpxhgvgncdhjaizkbrpdwljoqfjhypwsgjovkfbaeetmmayquhfjnclseovznicyylhumzudcepntjmuwbexymocxeondauyfyccdjupyvnfflfmefncomrisnkfdadygqjvttdqcbnacyzcbvlhzxcqytxaqdelwqlnexnhrgnnlevtepidbnsszxdqkhukjkuwuulqdhjzxmqzurjdhfumxzeitzqihegxthjmarujidvsrcjshornbkwhcvemdrlczugnczrhzrltnoqnnlegdyipvyefxfatwdwcvtsohfivozuocgjzgvkqihxwclcjvgjfqovbvnmshztdtiofadecvyiivwruhtwljsqpizoutyjfulmlvyllgrybiscwkehxavpxushypraqkcruzzwnqzwusyxisgyblhlhyqexayftikzipfxrfyakbazryftjnpoucchxolukviwbelcqrxqoiengoehrhsvzbugaponquxpqjgtzojnklagcddpufwfyqwdrssikzwimzjmggzutdwmtencdhiytgmjwrvxtleyylzpsuczcibeoiitvdmmrmdvnmzeqekftchdxgufcyfmejunviotzpvtlfwnvitcyyxhxisqhowbpwahfjizaxtbsdhituaaluqscnttfgthkaugfbdrxkeqrvgqcpgonfuisofyxocpidtsrxsvleqfrcabiauqoafuxyratddlwmcfjkgoxjycforrulfnlkkugryakwzzxvcuvwhinzbsyjjosanqasgfwqqkrzxkqmdwmmxcxjntwuhlxkotafhnvmeyassmnpeuyglitdalvibzzfcmfiezuwuhitdtloiefecnjimgkvilwgdgombxayqsmmvroltzniahqecjxifwmxpjapjuussipykegfrujxiidwopnlduglyrdqqlgncwmgfjvkhubtcpexbovsxlmmqqiytygvqawgdvcnwuziudrgxkdltdjaltnjdpequxskuzhjdbobpwdurrynsyrioprnvhajvwhpnbvxgaqlcmecmvmgxtmyyfnswftbouzdcqhrbylrocqvndmjwagpcsuwgjgoodqdkhzgectoudnzvtazicwqkdfbdzjlesafkdeuwiacphhvjfnlmwkgrsjxqfnqekzcmdhxwmvobruffcbpoaxofdtottomnivcfnoxiloyzdkawvuilqpmhoxzzwburjghubypifxgyjdvrkukbdpspxftfgarkqsjbpqhauebpehxpjylqrbupgqqpebavqfdjnclkquaatgtwyhyltfyoywcoobprocsiedhihlxyibrsvaaozwxsnqpjfligyyqgfhgwluireymmcegtrsnbjtbjalerxopzlqajuwaydqqoszitrblrkzijcnsyywobgazjdkoqjzjtzwqduyhzvzhygvxonptegcnnhycovqqfjiddlowkhnxwyhapzjwlfvlpzjcebohdtuudbhjxmwsjnqzokyqzdkvyhmostypoyrkdppqgutnefdpcnovoshpfetkvluvwhpajgruezjisrnsektmlqymcmockppvyucsxggmgvjuvgzwaamxcwpavlqxcszbnaskeeqshoslmikrvujlyxjjqtkjlmngqefqsahiiwsnivetsntnwdluhnlwtgevxpknguaezlncrvmiydlwyjvumpqedzepeztxxgrrxretccbfhwdurowgasshzufyeeqpdtpkbqhabcorhqzlcotimerqzorzwubsdrrslimhcrduzsrlsdzoaptxaxdwpfcpwpkfdgjlnssdnrcnclpaehgawttblddgfikmulavkboxahbxrltmqjhjraertytetzkboridjbgcwnhfgbnndgumboqswfxqeiokuunccvlnlwcspumeiemimfgztolxcwrhgsybfhlsrxztzyvkxzwiduvwxqvjlqwvbtddxjkzxqbgookymludrhqpjycxngggleauqlpooffujhqkqsezcjbybncomt
+Costo DP: 0
+Tiempo DP: 412.999 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 2 caracteres
+S1: mq
+S2: mt
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 252 caracteres
+S1: wxlrksknjffirsinzvynmfrrwiyageaduaeqekqfkuwvotyxibkwptrjptzfcvfqkbsjbzmciuomhvudiodaeohgtieuvigludoswrikixyrzsjrxqnrgcsfvbwimfpxesebgandodlmmljfynbtlxbxdzhgtgchbvjmmjvqjnpdrjatidcudhxrslbmllzmwhrigzvsmqokhfkxzaldpnyruawknycejhssaogtzsrczvuhmeuvrtibjnhu
+S2: wxlrksknjffirsinzvynmfrrwiyageaduaeqekqfkuwvotyxibkwptrjptzfcvfqkbsjbzmciuomhvudiodaeohgtieuvigludoswrikixyrzsjrxqnrgcsfvbwimffxesebgandodlmmljfynbtlxbxdzhgtgchbvjmmjvqjnpdrjatidcudhxrslbmllzmwhrigzvsmqokhfkxzaldpnyruawknycejhssaogtzsrczvuhmeuvrtibjnhu
+Costo DP: 2
+Tiempo DP: 5.001 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 502 caracteres
+S1: gremxevtjioynsstrjopbbcnoskqqbawmlqtuvjkjeqngtqnnbzwplptotfltdcwffumvlrqkwlioziabjpjihzrrhyfgfeulocqqkjbwlloptyvyllrkayudsdmiyducyhcosbrlikdskxnunpkhtturtvoezgjiokkebjcvznogleifltppbtdahfzxfveerhsdkflkczdgoflieadfntppnydfivnllbvbpogqktetaoqrykniisiwsvefltgktozzddaioxdmtjjoskixudxhlwhisxgyzspgzybywffyzacfpwdgszeboisrbkuarggwjsvmdntdbkyfmmtceynfsqvkoiihtvsfgwdzghrjoaikjzstsnnaloyrdmyldpqgfubtcnzcpbqbtoktwmsvbghmmeqtmxlzftywugyippseyegtdhennhhtwnuztstwjuprgxtyqwiugkneqodkjlokzikoolkxsyduajlsgkyphxprg
+S2: gremxevtjioynsstrjopbbcnoskqqbawmlqtuvjkjeqngtqnnbzwplptotfltdcwffumvlrqkwlioziabjpjihzrrhyfgfeulocqqkjbwlloptyvyllrkayudsdmiyducyhcosbrlikdskxnunpkhtturtvoezgjiokkebjcvznogleifltppbtdahfzxfveerhsdkflkczdgoflieadfntppnydfivnllbvbpogqktetaoqrykniisiwsvufltgktozzddaioxdmtjjoskixudxhlwhisxgyzspgzybywffyzacfpwdgszeboisrbkuarggwjsvmdntdbkyfmmtceynfsqvkoiihtvsfgwdzghrjoaikjzstsnnaloyrdmyldpqgfubtcnzcpbqbtoktwmsvbghmmeqtmxlzftywugyippseyegtdhennhhtwnuztstwjuprgxtyqwiugkneqodkjlokzikoolkxsyduajlsgkyphxprg
+Costo DP: 2
+Tiempo DP: 21.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 752 caracteres
+S1: faawctvuveuvirqgmrvjkxgxyampxtpwonccvovdibwgiiwwyyoixhhqogriqmhnmuatkpzrpqiysfvbspsuswburiwnjucbkjyjxladpysxysqxdoznqymuelfujadowkaernhpjetlonqotaoxbecyerprjgnnyxsmjkwtxjubtrgkglkefdmfwhcryhgqirnibjaicekkhrobktfcvaxieauniaupkaukyyqrypplkyuhfvnycnsjqxxlqmjxdeqcbxjdqfwqtjwhihmunqustplmoimtiniaeculliczjobkzabtuknmczbxxjmdkcqyxbmsozcouxmzzvfiabdwulkxfwylsgocnlfnekwsfqobrdahoesowrcaaokmtpmrblnufltxvxowwhsxfstzvlntcopnxxzpvetsrwpkcmjcyjlxgadqdzymurwarfcfwyukzlzivlhxflwqxnqpjdnkvdminqmbewfhpoqolutekahzvjpaaxcmsixmbjrqlvnqdkoxblnrbwieyrxtfiyaylvxspmdfzcljbtyzmxtcjqfdlkqlhqpwnbybjjkncxjplwupactqwzelghkiczrxwqgshpdiqcbzsaakfminvwvusuahsmllfihykqgewbubrqfaneptmswnnmxsomtigpbnepkzqeggpacyjjpucspaeyvobfvwjplpunkfslkfhlwfozanopuaujdwephczbcrapmybnvstconnin
+S2: faawctvuveuvirqgmrvjkxgxyampxtpwonccvovdibwgiiwwyyoixhhqogriqmhnmuatkpzrpqiysfvbspsuswburiwnjucbkjyjxladpysxysqxdoznqymuelfujadowkaernhpjetlonqotaoxbecyerprjgnnyxsmjkwtxjubtrgkglkefdmfwhcryhgqirnibjaicekkhrobktfcvaxieauniaupkaukyyqrypplkyuhfvnycnsjqxxlqmjxdeqcbxjdqfwqtjwhihmunqustplmoimtiniaeculliczjobkzabtuknmczbxxjmdkcqyxbmsozcouxmzzvfiabdwulkxfwylsgocnlfnekwsfqobrdahoesoercaaokmtpmrblnufltxvxowwhsxfstzvlntcopnxxzpvetsrwpkcmjcyjlxgadqdzymurwarfcfwyukzlzivlhxflwqxnqpjdnkvdminqmbewfhpoqolutekahzvjpaaxcmsixmbjrqlvnqdkoxblnrbwieyrxtfiyaylvxspmdfzcljbtyzmxtcjqfdlkqlhqpwnbybjjkncxjplwupactqwzelghkiczrxwqgshpdiqcbzsaakfminvwvusuahsmllfihykqgewbubrqfaneptmswnnmxsomtigpbnepkzqeggpacyjjpucspaeyvobfvwjplpunkfslkfhlwfozanopuaujdwephczbcrapmybnvstconnin
+Costo DP: 2
+Tiempo DP: 45.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 1002 caracteres
+S1: bxguvisplahnmobupnhrzkwhqweckmzqtngpztcntcfzrngvjrpuktolqutkgznhfeaghtkpegeptooggblmknbzpiuvyfkvnhplgyecvcmcboiakpewggmgyshjunlnxibxnwbnupjosgvecmxsfhohedzrkfhfrpymfgtivydrvxfbqllstrjoryacznxrmwuzrsrxpljzpvgofusckukdndkxfzhwiarnbnrqebevxwiwjhbztxiatinzthgqxvgvxrwfrfufnrzubrsozfeeiojygmgbhvkpenrqxkggtlyfgvwjioqrbtxczrxzdujitfjxmyotuuondxanmaufldbsdavyikplwamlyywrpvqlzxahhtvoautxfbjhpznivpptywdmtlbgngvznukinssnkssndosxfzrjxoxvnenvoejjyhfgjwtubfqymineoiubszogjswctxaskmjhkxblueqzvyfrbdaleeolkqhvmtvffxqgiddutsszeimgafcqrjkhfkbytwclqagxooolafhkdqzbjklkyalomyqbgvzkonqvleishmxsmhzojekxzopnsmuqasdzzdweqkblhlzxtrfwscrnghtwarpfeaviiuqgrprdyxmhtirfxhpmbjkkzqjyhemvanrsiholpwtlhvrmgsqatxtqlvanyihmzyrelisblziwjxxfgynmhsiacgklunwjusrhtnzewjrtemxpdzhamzjukvwhwnqsuvfhjprdrypdbmsfplitqhqbwijjdvjupepxlffejsvbmvpclbowbcwzfdsgxiqagyrfkrnjhkklpjnpxvhwgpbfmhanrddnwnencwcsturludzrwrdtukgaegyxqlndesstmmrapqvvkntmeuzrqujrivsjztxxirogyzwhtyotqmzlvjwbuakqvsywmufllxariviprifmebomujonhtlxmhngruyocuizbqqnelxxuhofpxxqta
+S2: bxguvisplahnmobupnhrzkwhqweckmzqtngpztcntcfzrngvjrpuktolqutkgznhfeaghtkpegeptooggblmknbzpiuvyfkvnhplgyecvcmcboiakpewggmgyshjunlnxibxnwbnupjosgvecmxsfhohedzrkfhfrpymfgtivydrvxfbqllstrjoryacznxrmwuzrsrxpljzpvgofusckukdndkxfzhwiarnbnrqebevxwiwjhbztxiatinzthgqxvgvxrwfrfufnrzubrsozfeeiojygmgbhvkpenrqxkggtlyfgvwjioqrbtxczrxzdujitfjxmyotuuondxanmaufldbsdavyikplwamlyywrpvqlzxahhtvoautxfbjhpznivpptywdmtlbgngvznukinssnkssndosxfzrjxoxvnenvoejjyhfgjwtubfqymineoiubszogjswctxaskmjhkxblueqzvyfrbdaleeolkqhvmtvffrqgiddutsszeimgafcqrjkhfkbytwclqagxooolafhkdqzbjklkyalomyqbgvzkonqvleishmxsmhzojekxzopnsmuqasdzzdweqkblhlzxtrfwscrnghtwarpfeaviiuqgrprdyxmhtirfxhpmbjkkzqjyhemvanrsiholpwtlhvrmgsqatxtqlvanyihmzyrelisblziwjxxfgynmhsiacgklunwjusrhtnzewjrtemxpdzhamzjukvwhwnqsuvfhjprdrypdbmsfplitqhqbwijjdvjupepxlffejsvbmvpclbowbcwzfdsgxiqagyrfkrnjhkklpjnpxvhwgpbfmhanrddnwnencwcsturludzrwrdtukgaegyxqlndesstmmrapqvvkntmeuzrqujrivsjztxxirogyzwhtyotqmzlvjwbuakqvsywmufllxariviprifmebomujonhtlxmhngruyocuizbqqnelxxuhofpxxqta
+Costo DP: 1
+Tiempo DP: 82.002 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 1252 caracteres
+S1: hpmxydvqjxvbciagsdhiurgomcuthyvxbipkxpycqfeagjlwfirzhwkuzzprinaztedcexxpovxwbaouebnaenkndrdoqnklruqjrvfuehzhmyrdlrodwnmhslcwpzejhirjtdphsblctcnenukdlahtfskssuowsfuxulvghcczwlmjhrtlgpqpgovhwhhkmpogqsznkvtohcypsnviarzkhiblugonyylekrpynoirtpnnlybmtivhdxqdtugqkhyzdghugrdulyuopqjrjtnlgfxwuzbiafaesjyxmjcclafqsjmfkqugnvwwuehormmvsflzzzmjjegfpeocdajxecokosbqkmveksntyivigdoacmlupkraoyaentihkelmcqtxknqpypkzilxjpomhtnieqevxnzqxjfilhdmymftpspzruccetmipvrnhviaeqvnfqlzgoaopjmnkuaofwehidcmlrngmofprtzbbbkiejjejnuijrmhybfkchafjnfkdylewscgmbjggxhttbbuzmwlexyquhhoecaxycxplushdupgmsojklhmiaymbazjkvzandbzgcgnhxdyjyykzhxedgzstcfwvafomhruiypgmdevhxngqqtlblyzdzlrbknrrrqxvtvkmktvlhxhrrttvleekgkileedoksijcmlylhfaajrqzalcoagqrouwqdktkzmdoiwrcuqmbqslfipbgnnkpijnjewmlhtxzeeuqqcwdcjywhicnvfnwjxmwxzpssewhjgvpqamrqzpldetccfnsbbfqmjcovrqskcgzhpogdlxamoarkumlfqybcrfxlntmtwntwuejnuhcvntcrewokctopnjuxzppefotuscojozqmfbufozriypvhtyhygfaicvurwpvhjtmcghvktuoyvzslmblhdajxsbxqzjeicfrguetnvjxrspmuunthszrkizxbhcdjwcderuxnjoavpcwfpbldasmfvkfqwkfclsgddgrmxyrbmeoglwjgfuhituugcbgrecmwyebbqkaeamofqhnbovthbnhkztdrihwdkcvwszxsfljawcpahjynnvvbrngctlgryfznddpoiiuumtpzncgpaecnbzieifcrzcetxbuuttnfoqrkzfdvotsyzohmejxctwdfxtyrjopakamrceeroeluvuvpglcitzmfqcssknnzeralhvmgwipdmlzwahhiehkwgc
+S2: hpmxydvqjxvbciagsdhiurgomcuthyvxbipkxpycqfeagjlwfirzhwkuzzprinaztedcexxpovxwbaouebnaenkndrdoqnklruqjrvfuehzhmyrdlrodwnmhslcwpzejhirjtdphsblctcnenukdlahtfskssuowsfuxulvghcczwlmjhrtlgpqpgovhwhhkmpogqsznkvtohcypsnviarzkhiblugonyylekrpynoirtpnnlybmtivhdxqdtugqkhyzdghugrdulyuopqjrjtnlgfxwuzbiafaesjyxmjcclafqsjmfkqugnvwwuehormmvsflzzzmjjegfpeocdajxecokosbqkmveksntyivigdoacmlupkraoyaentihkelmcqtxknqpypkzilxjpomhtnieqevxnzqxjfilhdmymftpspzruccetmipvrnhviaeqvnfqlzgoaopjmnkuaofwehidcmlrngmofprtzbbbkiejjejnuijrmhybfkchafjnfkdylewscgmbjggxhttbbuzmwlexyquhhoecaxycxplushdupgmsojklhmiaymbazjkvzandbzgcgnhxdyjyykzhxedgzstcfwvafomhruiypxmdevhxngqqtlblyzdzlrbknrrrqxvtvkmktvlhxhrrttvleekgkileedoksijcmlylhfaajrqzalcoagqrouwqdktkzmdoiwrcuqmbqslfipbgnnkpijnjewmlhtxzeeuqqcwdcjywhicnvfnwjxmwxzpssewhjgvpqamrqzpldetccfnsbbfqmjcovrqskcgzhpogdlxamoarkumlfqybcrfxlntmtwntwuejnuhcvntcrewokctopnjuxzppefotuscojozqmfbufozriypvhtyhygfaicvurwpvhjtmcghvktuoyvzslmblhdajxsbxqzjeicfrguetnvjxrspmuunthszrkizxbhcdjwcderuxnjoavpcwfpbldasmfvkfqwkfclsgddgrmxyrbmeoglwjgfuhituugcbgrecmwyebbqkaeamofqhnbovthbnhkztdrihwdkcvwszxsfljawcpahjynnvvbrngctlgryfznddpoiiuumtpzncgpaecnbzieifcrzcetxbuuttnfoqrkzfdvotsyzohmejxctwdfxtyrjopakamrceeroeluvuvpglcitzmfqcssknnzeralhvmgwipdmlzwahhiehkwgc
+Costo DP: 1
+Tiempo DP: 127.997 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 1502 caracteres
+S1: mgppxkkdwbgjzoafkiorcfhivdtvoarycbqtacowxfphjkyepvymgpjyaeectbseiclahwfaeyatuejfbtdkijmddlyhozrmsfnusiqyrshrsxlwiaicgqqimmzhzsiywvaatopwkhzuayyeyuxjekpagwawdufyswqfckvxihbpcsjtgnjxgltwkwimriqlwxqbwuqzkagbbwmqjndvphppqpiuzugrveqwsapndqsewkvomyeozxeznyfvqyqgifnilnmdyangtygjpfwpovgtsedjuqcgkzrvulckanamdmyrxrnfzgrdizutmfsjzdayljpcdowrqjrrwqlbfpohpvvvgguailxprpxsqzfcrnbimikipihbnedgcdaickuzqiukoueiuowuznycypkkmeoxjvfvmycmxwsnhgpgaxpkhtvffynllodbmihdbrglrkuttswzzpuhzyvwmweolqcwmxpgslbcufafupwtaqnplktsulshbxmgcodojyfsukrkgjwhkggfdgnnuyngtpczwygetkftfxlkrkuedknrmxgpadbullynkicffxemsmcbiltoajxoilgplohvgtyhxbwtbuwyajdlsdmxfjarvhptxgzdfzweyvrjhmxroiyvwselovtjyrmqeyuykcjvhhzbeaqjjxeqgacwekleunvptgnyricrmiejejhzlnbaiiyfophninhvdqxblgtzcphvmrymckuepzmxuizamlxzdszqikxrzmpocuznjlwdlcingsmqtsokaterjxzajfqucvzpdcspraygrwjsfdjjokhwddwplnrgvkeowmgvpmwcaqgfjbnsrtvxmedkjawbntbqvphnqiojmfynoxpxxcvfahxrvjdogxoglrwgybovxghcvluosxhxeypfrqdjgrukrososshehasryrixuotdhioupulofflbrjrlefsytfypxcwcwixqokywtwwytzyqmrsfqspsshnmgaeekcyzskqwstekaxzldopllmbtkzpmjhpqonkmjoaxdirolxtmfdclzcbvkweeuccjitqirbwcfzetvggkndixtopqwjckbduyvlfxtjrjizdnwryfprctmiacvligiwhdotizvipyrobgghiphfratckzoqbjwosyelmhgcviydebxhykditnnstcjnbbzczdqhiwbcrxoxgettfwwrlmkacvihmxiiwqeofkpgpxrhaldiqothygylpnoozpprfmzlgklyxsgjqkiuunpzfwbcsxaqtujsrdixnkrndodlldeczfctetqgycxafehuytvwwkpqafbwguwznvgxeqnhkbpxixfexniexmqnssvjurbufmrjgfxepcqcgkwhuqitltqyyttoftimuhkmvfxwevuyvmkeyovvkwprqdtcvtgaxznynfhwldpdydmiqgarkomdcdvcqjuhkxviksksatkgofytfrxqxkhafqum
+S2: mgppxkkdwbgjzoafkiorcfhivdtvoarycbqtacowxfphjkyepvymgpjyaeectbseiclahwfaeyatuejfbtdkijmddlyhozrmsfnusiqyrshrsxlwiaicgqqimmzhzsiywvaatopwkhzuayyeyuxjekpagwawdufyswqfckvxihbpcsjtgnjxgltwkwimriqlwxqbwuqzkagbbwmqjndvphppqpiuzugrveqwsapndqsewkvomyeozxeznyfvqyqgifnilnmdyangtygjpfwpovgtsedjuqcgkzrvulckanamdmyrxrnfzgrdizutmfsjzdayljpcdowrqjrrwqlbfpohpvvvgguailxprpxsqzfcrnbimikipihbnedgcdaickuzqiukoueiuowuznycypkkmeoxjvfvmycmxwsnhgpgaxpkhtvffynllodbmihdbrglrkuttswzzpuhzyvwmweolqcwmxpgslbcufafupwtaqnplktsulshbxmgcodojyfsukrkgjwhkggfdgnnuyngtpczwygetkftfxlkrkuedknrmxgpadbullynkicffxemsmcbiltoajxoilgplohvgtyhxbwtbuwyajdlsdmxfjarvhptxgzdfzweyvrjhmxroiyvwselovtjyrmqeyuykcjvhhzbeaqjjxeqgacwekleunvptgnyricrmiejejhzlnbaiiyfophninhvdqxblgtzcphvmrymckuepzmxuizxmlxzdszqikxrzmpocuznjlwdlcingsmqtsokaterjxzajfqucvzpdcspraygrwjsfdjjokhwddwplnrgvkeowmgvpmwcaqgfjbnsrtvxmedkjawbntbqvphnqiojmfynoxpxxcvfahxrvjdogxoglrwgybovxghcvluosxhxeypfrqdjgrukrososshehasryrixuotdhioupulofflbrjrlefsytfypxcwcwixqokywtwwytzyqmrsfqspsshnmgaeekcyzskqwstekaxzldopllmbtkzpmjhpqonkmjoaxdirolxtmfdclzcbvkweeuccjitqirbwcfzetvggkndixtopqwjckbduyvlfxtjrjizdnwryfprctmiacvligiwhdotizvipyrobgghiphfratckzoqbjwosyelmhgcviydebxhykditnnstcjnbbzczdqhiwbcrxoxgettfwwrlmkacvihmxiiwqeofkpgpxrhaldiqothygylpnoozpprfmzlgklyxsgjqkiuunpzfwbcsxaqtujsrdixnkrndodlldeczfctetqgycxafehuytvwwkpqafbwguwznvgxeqnhkbpxixfexniexmqnssvjurbufmrjgfxepcqcgkwhuqitltqyyttoftimuhkmvfxwevuyvmkeyovvkwprqdtcvtgaxznynfhwldpdydmiqgarkomdcdvcqjuhkxviksksatkgofytfrxqxkhafqum
+Costo DP: 1
+Tiempo DP: 184.001 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 1752 caracteres
+S1: fperyoihyyudzxvazzhnlhveautfwguoqpwqpyubprbffhcriomdszwpocrijqvvelpgrwjdakpjlxdmnmfhzulhzvsnvqecdrsvizikvckixbmkzoyocgopgcpopmnyuzuvxilazwlalwgdngyovswpgozkajmuzpjbivuxjghlpctyudcaahoxotvylcdienltzpsbwrxeruwjaqeergdlvmfwkeuafxalfqvajbvbzhwxuufkpjzkhzjleimucqugxajhdslvonfceveiiozwujozevpynxzhouoljvnygaxmyikaoswrdrbnjeajfubcammlgtmrtfwogzoqmxcrypuhksogetkhfwhsxgylvyegfishlkwufupdtcaqwqsistgdtgiuxsuvrfnyzruayywavsylcnodmfivwyauitekrczxafoenueazhbmzjwfgrajxsrhnspeffxvrlkhaovsmowmikcpotamdgkrbnxeyaygsjaitpkniwvcuqtekmtnzzgsmxmrmiwkqckhshurwdncbhtuvkydbzhmxtncmmplxlqdkhiatyoxzkxhwqcumwgbhchmtkgykewahiuxnbvtfklnnysbnfkefsfrugyazrvnfjxybtgpqvncmluawqvdauoxwjfmeidljsnqbhrzdibktxybxgaecqxmvxgzaiirxiuaecvwxjxzynimocjxsbmiewaliyofaopsadnesnsxxvuxwadxqplfwgebbxjawwpvhjwrhdzbkdmqlsttkzxrdhybuguvccujviyiamlwdujyoaofzskdtyrbkposnezrlnflwmvkkjeuvtvvfvqvbowreqwfcrovnsufwofppgqcldedurohbaglofbejxreysayozpihanbgudrzgaqoopxtxzghwtzubijnbzvirdbavpgpcrzzgfnbldikjuonpyfmrswtecpcuwcerlaonqwyydtifoomysrszrmanpiiushtywxseumvejoaxwbulnklykqxuhknriyqjsiutxqyxgelhudejkmvzbvyjkiipsuxwwojrbszhpzzeqcfpdcdoeenliacrvevxhjzewaabwawnuuzmwtxslhmycolvunanvhqdhixrvmldncmhaghznqakwdzxguigxptxgzljwuzpjkpjtuidaaupunohmtmtrtrgrfaxjopohaablsqbxxjpivpihrgvjtbnavecgmkldzuclnjgqzhgatzgqslwefmojqeffxwlbkvfkxpcfhsbioeolksdaxztuvufjaggdotesdzobfycxlbqcvdlgzfttguulhtuaoybibpvornkidfdxmoacdrhbscggqkvcvnxjsqiyomsnwdvypgecmubmjklrpjsoeuvwuwkxjrwysvmbbtcovlsialcvjdllchlgdhwvxosqibjpecliqvgcopkpiylwzrkkodfmluramirjuhzbnlxpagvwykrbjpatpfpwofukpphsgmrztervsreakwrqmqhnbowbavzvawihaiitkrosiyvjdkbhgitfphuckaisawcsqotmomwkezsuqksgijjqgnpslgxswpkwfpgfkaenugkmokncfrllilswhofwnillbpbruionjnsdkhhnsijeikooazdkcncvffzozneqzwouaumqezdwssgssjotxqqmfkyckyojnkrpooypckxqahqkawqcjgjshyzdmgbcftwew
+S2: fperyoihyyudzxvazzhnlhveautfwguoqpwqpyubprbffhcriomdszwpocrijqvvelpgrwjdakpjlxdmnmfhzulhzvsnvqecdrsvizikvckixbmkzoyocgopgcpopmnyuzuvxilazwlalwgdngyovswpgozkajmuzpjbivuxjghlpctyudcaahoxotvylcdienltzpsbwrxeruwjaqeergdlvmfwkeuafxalfqvajbvbzhwxuufkpjzkhzjleimucqugxajhdslvonfceveiiozwujozevpynxzhouoljvnygaxmyikaoswrdrbnjeajfubcammlgtmrtfwogzoqmxcrypuhksogetkhfwhsxgylvyegfishlkwufupdtcaqwqsistgdtgiuxsuvrfnyzruayywavsylcnodmfivwyauitekrczxafoenueazhbmzjwfgrajxsrhnspeffxvrlkhaovsmowmikcpotamdgkrbnxeyaygsjaitpkniwvcuqtekmtnzzgsmxmrmiwkqckhshurwdncbhtuvkydbzhmxtncmmplxlqdkhiatyoxzkxhwqcumwgbhchmtkgykewahiuxnbvtfklnnysbnfkefsfrugyazrvnfjxybtgpqvncmluawqvdauoxwjfmeidljsnqbhrzdibktxybxgaecqxmvxgzaiirxiuaecvwxjxzynimocjxsbmiewaliyofaopsadnesnsxxvuxwadxqplfwgebbxjawwpvhjwrhdzbkdmqlsttkzxrdhybuguvccujviyiamlwdujyoaofzskdtyrbkposnezrlnflwmvkkjeuvtvvfvqvbowreqwfcrovnsufwofppgqcldedvrohbaglofbejxreysayozpihanbgudrzgaqoopxtxzghwtzubijnbzvirdbavpgpcrzzgfnbldikjuonpyfmrswtecpcuwcerlaonqwyydtifoomysrszrmanpiiushtywxseumvejoaxwbulnklykqxuhknriyqjsiutxqyxgelhudejkmvzbvyjkiipsuxwwojrbszhpzzeqcfpdcdoeenliacrvevxhjzewaabwawnuuzmwtxslhmycolvunanvhqdhixrvmldncmhaghznqakwdzxguigxptxgzljwuzpjkpjtuidaaupunohmtmtrtrgrfaxjopohaablsqbxxjpivpihrgvjtbnavecgmkldzuclnjgqzhgatzgqslwefmojqeffxwlbkvfkxpcfhsbioeolksdaxztuvufjaggdotesdzobfycxlbqcvdlgzfttguulhtuaoybibpvornkidfdxmoacdrhbscggqkvcvnxjsqiyomsnwdvypgecmubmjklrpjsoeuvwuwkxjrwysvmbbtcovlsialcvjdllchlgdhwvxosqibjpecliqvgcopkpiylwzrkkodfmluramirjuhzbnlxpagvwykrbjpatpfpwofukpphsgmrztervsreakwrqmqhnbowbavzvawihaiitkrosiyvjdkbhgitfphuckaisawcsqotmomwkezsuqksgijjqgnpslgxswpkwfpgfkaenugkmokncfrllilswhofwnillbpbruionjnsdkhhnsijeikooazdkcncvffzozneqzwouaumqezdwssgssjotxqqmfkyckyojnkrpooypckxqahqkawqcjgjshyzdmgbcftwew
+Costo DP: 1
+Tiempo DP: 250.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 2002 caracteres
+S1: enlffhvhbgxpajnuvgqbzxcbvkrfsbmkkjogdashuifletnlqofuflgmaqkwrwtfbsgvvwnahdzkbjgitccurtsriupjobgrvhmobprwovxvyohzkixbupvrbufmenugitkvnprtennlbkthacrcihtadfjgkqekiuhhekdcibotjzzhscgydnacljrwiiwijlrknhmzjwpsrkzrphldxtqeqckegwyqpgzmftjmvtvckxekyyidppjmqifochhxpmrnuuhybxhapiylwfeadbyxfaapydnsupbkqjdmitndjbwlcwilcokunucdhufyhlmryaajgztclfuktlqcvjlviifwuoskzjwmgayutaskuoqmobruyqjmhzavkmqzoiwuckejuxlkjczcoxbairxqdwnnzzbsxrbjxpydybbalemneanwrxdafdbynzjbncuenfluhgdjtmtprzohdbhhyytuhbdmrspkgvgjupuxtgdztknkbpsluxtlamdvglulhmxinamakxonfsbattzsithkhmutlcmxqsvhqjnxduxczcbhadhbsiogssgqkamxxpdlirqmyjzvxmqfwcldbxghdbfldpdmfgfktsbqchaocquusvklbowtybfemmtzwrrqehnwvqlsyqkeehixgivtmveoqxwtubbqpthphmuosgscgerplmqqyjozwibgeqzqaqijhiubmbnfikucxhcnjnbegvpycldxmnxwsztnsiquntgkcotslksrjlzadfvqxgmmbokcncmmkidxnaleqirhwlehewvkxfoyefjykitulungggmrawnyfwtdheswsyogndethhcyjklnquoyvbfnfcwybvbnytyfpxowxwzhslwujhardzhgtxuvitdubazqyjushkkfmjjnjkhowmuetbvzyfadwdbjyofghryhqypiiigoarozwcfbxvzvngnqzdwirzsmbahtxolwbxtuccwyvvetgsauedkiyzujhprmwkwjugmnzmzymsirpqleygoveocoyfnbcpdravlmjoxuyegghfsgcbnshhppqopbxsfduftzlekfxlellijfipuiredsudrtdyjkhuouereqcyfcyagtlebpjhcldcpjzkxvceokusajjebwxeykuvcdxofdfzpkkfaeoujxudnkwglchgedthdvdqsxnogydomvzyitafzqlbzbmhumsmswpdgjcomteobpgqfiexkdfnlmxtxnzregqvgjzunthsrduzbgqccejrdfzxwstlgdenenbebsooxeclpolftqfylvamyupwfylllkppbwqjuexvhnwrtccozuaigvxxqdngrrwsbxcelcpyuczhcahtrbvgplzrayjbnisecjfasptymohqqgrphigvljolqqilnpkxvrfavncitmqjdidlvvoscilliwqakcmpusexfnimngxowlpstawgvdjbitexxvetlcjlmowqjobuaklyaopijxtvmfhcgalpbyyabqvrnqjumytsriuydfeqpvtvnpsxtzmvujdedtfrxwpfsthxfrlnstjuurxvcnsgfbongosqhkgvzdxbeswbagjafuayzrmzxqqmeyhzmkormsiadunjyagsjnbnkavkrbdyjibhutaqbgxtxesmkozrokvwzmuiyzehjxnhwgvbbavkrablnhsyrlmwrkafypwuefwinthuvvniukkuyrnsccushxjajlmfvvwpolztqycxktjqzfufwgyswpddkqulogrdzwtnadbamfpkflnpliwlxdpronblvunxxkrwmabctamtamvohblqhmurjjlescvemslhvjudjmmleyjwcimbdnozdkrkypfjxcnvpflbtalfjmzqdolxoqhavkdebtniixnolljxjfpzfuotiouwhpfebfmocdquxfjtdvmawwnxtvhbwlfgykpnwnreuckvtocojgyfcsnldbdp
+S2: enlffhvhbgxpajnuvgqbzxcbvkrfsbmkkjogdashuifletnlqofuflgmaqkwrwtfbsgvvwnahdzkbjgitccurtsriupjobgrvhmobprwovxvyohzkixbupvrbufmenugitkvnprtennlbkthacrcihtadfjgkqekiuhhekdcibotjzzhscgydnacljrwiiwijlrknhmzjwpsrkzrphldxtqeqckegwyqpgzmftjmvtvckxekyyidppjmqifochhxpmrnuuhybxhapiylwfeadbyxfaapydnsupbkqjdmitndjbwlcwilcokunucdhufyhlmryaajgztclfuktlqcvjlviifwuoskzjwmgayutaskuoqmobruyqjmhzavkmqzoiwuckejuxlkjczcoxbairxqdwnnzzbsxrbjxpydybbalemneanwrxdafdbynzjbncuenfluhgdjtmtprzohdbhhyytuhbdmrspkgvgjupuxtgdztknkbpsluxtlamdvglulhmxinamakxonfsbattzsithkhmutlcmxqsvhqjnxduxczcbhadhbsiogssgqkamxxpdlirqmyjzvxmqfwcldbxghdbfldpdmfgfktsbqchaocquusvklbowtybfemmtzwrrqehnwvqlsyqkeehixgivtmveoqxwtubbqpthphmuosgscgerplmqqyjozwibgeqzqaqijhiubmbnfikucxhcnjnbegvpycldxmnxwsztnsiquntgkcotslksrjlzadfvqxgmmbokcncmmkidxnaleqirhwlehewvkxfoyefjykitulungggmrawnyfwtdheswsyogndethhcyjklnquoyvbfnfcwybvbnytyfpxowxwzhslwujhardzhgtxuvitdubazqyjushkkfmjjnjkhowmuetbvzyfadwdbjyofghryhqypiiigoarozwcfbxvzvngnqzdwirzsmbahtxolwbxtuccwyvvetgmauedkiyzujhprmwkwjugmnzmzymsirpqleygoveocoyfnbcpdravlmjoxuyegghfsgcbnshhppqopbxsfduftzlekfxlellijfipuiredsudrtdyjkhuouereqcyfcyagtlebpjhcldcpjzkxvceokusajjebwxeykuvcdxofdfzpkkfaeoujxudnkwglchgedthdvdqsxnogydomvzyitafzqlbzbmhumsmswpdgjcomteobpgqfiexkdfnlmxtxnzregqvgjzunthsrduzbgqccejrdfzxwstlgdenenbebsooxeclpolftqfylvamyupwfylllkppbwqjuexvhnwrtccozuaigvxxqdngrrwsbxcelcpyuczhcahtrbvgplzrayjbnisecjfasptymohqqgrphigvljolqqilnpkxvrfavncitmqjdidlvvoscilliwqakcmpusexfnimngxowlpstawgvdjbitexxvetlcjlmowqjobuaklyaopijxtvmfhcgalpbyyabqvrnqjumytsriuydfeqpvtvnpsxtzmvujdedtfrxwpfsthxfrlnstjuurxvcnsgfbongosqhkgvzdxbeswbagjafuayzrmzxqqmeyhzmkormsiadunjyagsjnbnkavkrbdyjibhutaqbgxtxesmkozrokvwzmuiyzehjxnhwgvbbavkrablnhsyrlmwrkafypwuefwinthuvvniukkuyrnsccushxjajlmfvvwpolztqycxktjqzfufwgyswpddkqulogrdzwtnadbamfpkflnpliwlxdpronblvunxxkrwmabctamtamvohblqhmurjjlescvemslhvjudjmmleyjwcimbdnozdkrkypfjxcnvpflbtalfjmzqdolxoqhavkdebtniixnolljxjfpzfuotiouwhpfebfmocdquxfjtdvmawwnxtvhbwlfgykpnwnreuckvtocojgyfcsnldbdp
+Costo DP: 1
+Tiempo DP: 326.000 ms
+----------------------------------------
+Tipo: Cadenas con sustitución (DP)
+Longitud: 2252 caracteres
+S1: oiglpqlezettkzpzbmubykwaebpuazstclhpqboioccumizebtvgmkwpwjtizhzzcggsmhdtwfklnilktovnfzkuhodakyqserzlqqakmdlmgepkxllcjdpvtfsejetndzpgzdqutnryxeetubfgockrcuanwddptmzaroqzneouvriptailbfxoivkicqmzphrdhmtfchbbkqvsyoxairbozobcjmfxybhdbjtpiwlzkboqdmncmnfmvnqwwxcwodlsbuogekhgylhxfojrhsaaegfsujbyfqmovjgkhqnzspxxqokbvqajzdlbyifgoqdjwyhlblyhrxqwntcqfkgvrncgzwiesmgdnrgscjjnzzvxmzffffczmcdgddskcfcwtbsuyzqakksdcmszqjddzqdvpdckdsekupqlvvcumxidnusvtcakfsjlselrbklspeexnzkrsabpzdkdhhvmayuqjgjftwqdmubucxpfspoacibxsbtnvogywqrspsccjbapayywpswnnrpzohbwdldptryvsrtgnqfkltryrchjzxfslthumdmyxdjlixggpshyaouxtnzsuyhjguccrywkceessgktoymspadgwipeivraovwmpbheamaxchguttidqfytwrpxcgnpploqvgixgwrtozvexeuqzkmvrlawflycjtgkdcrsnditchhrmlietmnmjyhzvnvfqybkqgzvfildsyogwgrlqfkgxaiuqobgdtypgvfjlsmfeindaloqdvtlucrddtlmvpmvihyaexrxtxcpnuxfurfuhwsrdklszxselzdbqluyfxndkyivahztgbxqcppvlvgbnvgxthpxvztxvmiedjcymsmkjndmmsakweuukncqlgaunclqoyyrosdjiewmpcpqgdryyaowhlgopyqhhnaqzvnoomvpygbraftgtnzjsxqijnfatytmfaxkbzdncqmtxrrymnwxnfzhfmygcxkohbmfolpkxjimxxhmjhfjsaudagdhojwnxfihizdoevdgengcngsyisoquiyumjhhtqjfptyczcyekpnkkwqdpdbcbxvtztzxsqnyxejbbgjaaqaldicazhepgxxwswsmrpxfjypqibnohqnnjqupwohczfckmgpfcnyletjsvpcyyztccwcjtkbpvuaqtkbitlrbwjzugvcefivhyfxfrunbbstpfkxvtibstbsnxqnljhwugfmsxshzfvfcnphzemtamdystdiaqwlplugapfdgezazqlwypzjtvwvxgvpigayynfdtlhsqgssgozvprtwntsxrebbuzitczevpuwmaoactqsdszfnauzkbdyqwmzdjuyojmnispwmpqmujlsbjxsztwupjpegxclejorfzuoubuetgrbxhtbtpvisopexmikjaxpzxnnjweizeaowfoogunpbrqrpjaehdaaluxptzewrpgimrumvdvmntdjttlvreflcrtaoaiyopbuueygocglamdeycfpsqyhbwduamtdjhcupbjebvtdmopjupgmlztxbuburssaxlrobqmmkiwltlroyrxcmgcpdkkaygdmfiifjwmocdmvzafesblauweuqzlqrnngnnhtpqaqdtxxggpfbekxdslsseovsmcuayelyyhvjotevpnrzjacjvvozfyutedionrmdijmpcriuwvccmngirsaybleopxqfekgaumcqjhwqdgiucjafliazwlrpdfbxssurmolwnfzxxfvrptdvbhojxqtxctscfsewarxvsoywmvhgmebemtyyobxjdstrucdbtiivzjbztyddbolqzdcidvpuatvgusljhhpbdtshhyfrxfupwtsbekmzxmpjppsernhavydupatkywsyjpxdmuulldktnflybldwjiwoeqgwekcnjsojesrjaztipiwsbhkzyxntrgshxwcvteggltzkbzniezxmzghveofnexzalztkachaeuttkiryxwoscfwzjrhotljdbzztawvkkiksltnkyivyjuexasbhahksaqkfshhiqlkgrxrowazqbnpemearkklhoguynwlhorlvbvhaenhiyizzcxfemckjxomhkfyghllhpagqrusnuadbbcbjuefhgqgitxtfxiodfsgowmfyuzataizldztygbuwytqbitoprxuoqwhdzjmpzurbhvwdplsiqrasjmnecwizj
+S2: oiglpqlezettkzpzbmubykwaebpuazstclhpqboioccumizebtvgmkwpwjtizhzzcggsmhdtwfklnilktovnfzkuhodakyqserzlqqakmdlmgepkxllcjdpvtfsejetndzpgzdqutnryxeetubfgockrcuanwddptmzaroqzneouvriptailbfxoivkicqmzphrdhmtfchbbkqvsyoxairbozobcjmfxybhdbjtpiwlzkboqdmncmnfmvnqwwxcwodlsbuogekhgylhxfojrhsaaegfsujbyfqmovjgkhqnzspxxqokbvqajzdlbyifgoqdjwyhlblyhrxqwntcqfkgvrncgzwiesmgdnrgscjjnzzvxmzffffczmcdgddskcfcwtbsuyzqakksdcmszqjddzqdvpdckdsekupqlvvcumxidnusvtcakfsjlselrbklspeexnzkrsabpzdkdhhvmayuqjgjftwqdmubucxpfspoacibxsbtnvogywqrspsccjbapayywpswnnrpzohbwdldptryvsrtgnqfkltryrchjzxfslthumdmyxdjlixggpshyaouxtnzsuyhjguccrywkceessgktoymspadgwipeivraovwmpbheamaxchguttidqfytwrpxcgnpploqvgixgwrtozvexeuqzkmvrlawflycjtgkdcrsnditchhrmlietmnmjyhzvnvfqybkqgzvfildsyogwgrlqfkgxaiuqobgdtypgvfjlsmfeindaloqdvtlucrddtlmvpmvihyaexrxtxcpnuxfurfuhwsrdklszxselzdbqluyfxndkyivahztgbxqcppvlvgbnvgxthpxvztxvmiedjcymsmkjndmmsakweuukncqlgaunclqoyyrosdjiewmpcpqgdryyaowhlgopyqhhnaqzvnoomvpygbraftgtnzjsxqijnfatytmfaxkbzdncqmtxrrymnwxnfzhfmygcxkohbmfolpkxjimxxhmjhfjsaudagdhojwnxfihizdoevdgengcngsyisoquiyumjhhtqjfptyczcyekpnkkwqdpdbcbxvtztzxsqnyxejbbgjaaqaldicazhepgxjwswsmrpxfjypqibnohqnnjqupwohczfckmgpfcnyletjsvpcyyztccwcjtkbpvuaqtkbitlrbwjzugvcefivhyfxfrunbbstpfkxvtibstbsnxqnljhwugfmsxshzfvfcnphzemtamdystdiaqwlplugapfdgezazqlwypzjtvwvxgvpigayynfdtlhsqgssgozvprtwntsxrebbuzitczevpuwmaoactqsdszfnauzkbdyqwmzdjuyojmnispwmpqmujlsbjxsztwupjpegxclejorfzuoubuetgrbxhtbtpvisopexmikjaxpzxnnjweizeaowfoogunpbrqrpjaehdaaluxptzewrpgimrumvdvmntdjttlvreflcrtaoaiyopbuueygocglamdeycfpsqyhbwduamtdjhcupbjebvtdmopjupgmlztxbuburssaxlrobqmmkiwltlroyrxcmgcpdkkaygdmfiifjwmocdmvzafesblauweuqzlqrnngnnhtpqaqdtxxggpfbekxdslsseovsmcuayelyyhvjotevpnrzjacjvvozfyutedionrmdijmpcriuwvccmngirsaybleopxqfekgaumcqjhwqdgiucjafliazwlrpdfbxssurmolwnfzxxfvrptdvbhojxqtxctscfsewarxvsoywmvhgmebemtyyobxjdstrucdbtiivzjbztyddbolqzdcidvpuatvgusljhhpbdtshhyfrxfupwtsbekmzxmpjppsernhavydupatkywsyjpxdmuulldktnflybldwjiwoeqgwekcnjsojesrjaztipiwsbhkzyxntrgshxwcvteggltzkbzniezxmzghveofnexzalztkachaeuttkiryxwoscfwzjrhotljdbzztawvkkiksltnkyivyjuexasbhahksaqkfshhiqlkgrxrowazqbnpemearkklhoguynwlhorlvbvhaenhiyizzcxfemckjxomhkfyghllhpagqrusnuadbbcbjuefhgqgitxtfxiodfsgowmfyuzataizldztygbuwytqbitoprxuoqwhdzjmpzurbhvwdplsiqrasjmnecwizj
+Costo DP: 1
+Tiempo DP: 412.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 2 caracteres
+S1: w
+S2: mw
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 252 caracteres
+S1: oayeqjzlxdarjtaakwdgktvqvmqpkojpvpevkuudoirkvrqrqtrfrfioatnaayddoycxmyesoobtkbsacjzbakdcaadnqllojaovtclfjvovmelbyfeqdyktnjoysuecwsszwyamlcyvqaemcgzvfegyzipjxhpdmrqcxmdshvfgiwyroqyxxpmdfvbvvhnncphtopksicolupmwhihnwrjynragepsrkbkbvpgfrmuyyhkjmtjjrulkctm
+S2: oayeqjzlxdarjtaakwdgktvqvmqpkojpvpevkuudoirkvrqrqtrfrfioatnaayddoycxmyesoobtkbsacjzbakdcaadnqllojaovtclfjvovmelbyfeqdyktnjoyssuecwsszwyamlcyvqaemcgzvfegyzipjxhpdmrqcxmdshvfgiwyroqyxxpmdfvbvvhnncphtopksicolupmwhihnwrjynragepsrkbkbvpgfrmuyyhkjmtjjrulkctm
+Costo DP: 2
+Tiempo DP: 5.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 502 caracteres
+S1: hucsusdrzsdfhssvbfgfjgsfamihvcvbtgplnmbkurcfoatzsvszxnpmsqahlrjgnqwyjxbtqueqiiwepbxftiqmurrmghwjjbrelexlhunrlobiulxdhsmvtwshaiuuicficwoqdecesjguyaeqvcoddetimgumwbplbwsqmfpdgegspxigqirjrizrqnyghnsfteegiqnwwxmyfkegkogveyvfyuvkyvotkvadhwjizdaforppdqkluczhenhfvzkezfjbuqqzkfykrmipmlfswwybwtulrwxgzsqojvygofhnixfudrnsoiwogixexhwgcqiichnqyxgzztyxtagyquglcwlzrktkzednglpdtancijdzrzahazgqrbfvemtgouauiwinrynptczitjterlbdmirulieakdkkhjswvwjfxniquynavhzkokfbuxrsyfsmcypwnyavumagltmwuwwtulayjtsbsknzxeimwmpysxlrq
+S2: hucsusdrzsdfhssvbfgfjgsfamihvcvbtgplnmbkurcfoatzsvszxnpmsqahlrjgnqwyjxbtqueqiiwepbxftiqmurrmghwjjbrelexlhunrlobiulxdhsmvtwshaiuuicficwoqdecesjguyaeqvcoddetimgumwbplbwsqmfpdgegspxigqirjrizrqnyghnsfteegiqnwwxmyfkegkogveyvfyuvkyvotkvadhwjizdaforppdqklucxzhenhfvzkezfjbuqqzkfykrmipmlfswwybwtulrwxgzsqojvygofhnixfudrnsoiwogixexhwgcqiichnqyxgzztyxtagyquglcwlzrktkzednglpdtancijdzrzahazgqrbfvemtgouauiwinrynptczitjterlbdmirulieakdkkhjswvwjfxniquynavhzkokfbuxrsyfsmcypwnyavumagltmwuwwtulayjtsbsknzxeimwmpysxlrq
+Costo DP: 1
+Tiempo DP: 19.999 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 752 caracteres
+S1: oizdgoyjlgimpxczzdbrdnncezzanigepuqrafwytjzcybxdmojrhckoaxkifrkrmxztbieqqnnidavhdbqncanbmyapsqbiumkrxwoxholuuqxccyyoyobocfwvznmnzdbyzwthirmxmnupazfykilgeghhknqzzjopqxgspicomyykntduqplolnqthjkazgzchypbicgprdmkpaenqcmuffbungonbljwzkjdndkckmjrsjlsfaccuosdxjanfvpdgcmtvbbvgjflpfiootxgwafczyegcueufvgvgenvcawyxdgavqazxenvlqgtofgzgxltoosxgdtqvdbumlpzflwdtnxuwkhcqcipswbmhpbqqdcdvohdbkefgbdjjznbdavisvqvvtrmkpoxaikzobhljhwanlqzioythrlyqcpnrtktntnhdnvkzuqbatekofulvqsahliwnjgdhblrzagckrizhzatuoewkyqlfrkjjugrpdtgpifvakpowwthkjtktndrsfvkrfruzxmslmkxjexjbotesngwergrnnwjznoojvoxjjmeynngeurydalnvetxmkhcwzfwnocqenwtmauvyjdorkjkmlxodlpjtihklgwaxafdwdzrricpkazyetrlxxpvvygtnkoaxabdadtxjomobmmxskkzagvzevidfhosetmbzzrmvfuqauwbzeqpburzqfllpawjzkdzgyquptzzabsflbrokpf
+S2: oizdgoyjlgimpxczzdbrdnncezzanigepuqrafwytjzcybxdmojrhckoaxkifrkrmxztbieqqnnidavhdbqncanbmyapsqbiumkrxwoxholuuqxccyyoyobocfwvznmnzdbyzwthirmxmnupazfykilgeghhknqzzjopqxgspicomyykntduqplolnqthjkazgzchypbicgprdmkpaenqcmuffbungonbljwzkjdndkckmjrsjlsfaccuosdxjanfvpdgcmtvbbvgjflpfiootxgwafczyegcueufvgvgenvcawyxdgavqazxenvlqgtofgzgxltoosxgdtqvdbumlpzflwdtnxuwkhcqcipswbmhpbqqdcdvohadbkefgbdjjznbdavisvqvvtrmkpoxaikzobhljhwanlqzioythrlyqcpnrtktntnhdnvkzuqbatekofulvqsahliwnjgdhblrzagckrizhzatuoewkyqlfrkjjugrpdtgpifvakpowwthkjtktndrsfvkrfruzxmslmkxjexjbotesngwergrnnwjznoojvoxjjmeynngeurydalnvetxmkhcwzfwnocqenwtmauvyjdorkjkmlxodlpjtihklgwaxafdwdzrricpkazyetrlxxpvvygtnkoaxabdadtxjomobmmxskkzagvzevidfhosetmbzzrmvfuqauwbzeqpburzqfllpawjzkdzgyquptzzabsflbrokpf
+Costo DP: 2
+Tiempo DP: 46.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 1002 caracteres
+S1: wvbgtwtoylytoweukubbbhsadotjlegouzdejnahapbxlkznbykgmyuoqkixsfnjbsdbbxiezqykthplxttddmbjajcoxwkfronxyrsoqrehngjaiuqhaaagcfhpwclrezhdbvcwuvnhhhwzjraxmlehxgrrcvwcwjdzoykkklhftojpzvatllyzxbhxwxouzcvulbqpcdblkvowrmlqzvpthxuxiarlsbllbczvixdhwmplkneyczrvhsmpsfjroksfslvbidinbeaimonfhmwehrnxflgggakmvyoivprbonivaywznbotrcbnczccfxjqzlenbkyxixqjzzzaodriswnvzmkatwludjetfdrjcixfgjwooquegscawfhzozhwidhyasmdrjxdpuopzcsnjzqzulxqbfzseqjcwcnntzjfoddyxorajquftoejcfbuhusodwjwjxyonxthenfppysyleyalvnwoalzoygyycrghjrkqwuxsdgyutjpptykvlzjebsazxawfkallebsnsmoxjuxjqckynmvqwjpkkzonneauicycogetyagrfvgcwcmxhjhsibesxbpkxmtcmyskkosazlmnlrftzwoumxwhfzmzxvttqzddckftdsrivvwjdgeceykuecxrcwstwytkeammgtgjutgermpoweqoubmzhambudxijkgeliwtdmojkucbgtzemvaqpawmpdpqtkghpdhsyygicjaziblpczwbzcyztiqrmtltapinelxnoamielchfbxmjyjpdcdqzmiqtjtjqpqgvcgppxgvzlgkyftfrtwcpdbajjroabdnlghdjxgbmtfcrqxsmcdxfjuunfhiclcmznczkmvmonnrbzasxrmlvnsuaheuekusvfhuvichldmucuvzixrjhcnqrdbakvheejibholyjcehvoqnuzdlqknncpjdfzcphzpthjbmxtudhqnsfteftjvthswephns
+S2: wvbgtwtoylytoweukubbbhsadotjlegouzdejnahapbxlkznbykgmyuoqkixsfnjbsdbbxiezqykthplxttddmbjajcoxwkfronxyrsoqrehngjaiuqhaaagcfhpwclrezhdbvcwuvnhhhwzjraxmlehxgrrcvwcwjdzoykkklhftojpzvatllyzxbhxwxouzcvulbqpcdblkvowrmlqzvpthxuxiarlsbllbczvixdhwmplkneyczrvhsmpsfjroksfslvbidinbeaimonfhmwehrnxflgggakmvyoivprbonivaywznbotrcbnczccfxjqzlenbkyxixqjzzzaodriswnvzmkatwludjetfdrjcixfgjwooquegscawfhzozhwidhyasmdrjxdpuopzcsnjzqzulxqbfzseqjcwcnntzjfoddyxorajquftoejcfbuhusodwjwjxyonxthenfppysyleyalvnwoalzoygyycrghjrkkqwuxsdgyutjpptykvlzjebsazxawfkallebsnsmoxjuxjqckynmvqwjpkkzonneauicycogetyagrfvgcwcmxhjhsibesxbpkxmtcmyskkosazlmnlrftzwoumxwhfzmzxvttqzddckftdsrivvwjdgeceykuecxrcwstwytkeammgtgjutgermpoweqoubmzhambudxijkgeliwtdmojkucbgtzemvaqpawmpdpqtkghpdhsyygicjaziblpczwbzcyztiqrmtltapinelxnoamielchfbxmjyjpdcdqzmiqtjtjqpqgvcgppxgvzlgkyftfrtwcpdbajjroabdnlghdjxgbmtfcrqxsmcdxfjuunfhiclcmznczkmvmonnrbzasxrmlvnsuaheuekusvfhuvichldmucuvzixrjhcnqrdbakvheejibholyjcehvoqnuzdlqknncpjdfzcphzpthjbmxtudhqnsfteftjvthswephns
+Costo DP: 2
+Tiempo DP: 82.001 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 1252 caracteres
+S1: advnnabztsvemevyssntjqzwskgpdpgsxocjnzhgjmyfvlronaylkacatmnrirejlrjntiakpjzsqdtctwnazrxgesmjrqhksqsqfvhaxozdfwmkyggiehghzgewdelyahyzkglyduvvshgfpcyfrakriqbsrcnyvkjighrrbnlkoddozplwckzoidtknxcbhxisodpwxnefpcnegteqynjovgkiqsjvcqwdrbrojidaroxhxqggiekjyeauhpjygdiqozhhvjapzrwrgkjfmtzrqyjrecwzdveczgccgoogahlwohndffeorrcyrfgbygbmtrmqejpedznelpnbtzmdhelblfxmlppizzntomafzgbjyhqaxjoqmvmrqpikyyadqjmioflldpknvxakmctvekabjsugpcquvxeptlxycbnahpifhzihogygxxjaoxizpqnudawzslgowlxscnmhzxlhhhrwxhemjdiwahoqqarkxlmnkyjimnxqhqjgdrbktuaznyxsgwqrdqcrirtfozxpftxwhggeasjtqwzbowhnyjnzqoggiyooqmgixsuocllltmywdsfhjjmwtqydaqvciwlzbiszkvxhnypvoxupbyiezuifpvnhejbdvowyvbysvjsrytioqjhybdsfzgdxkpbfnrqilpvqwtqfpnenqmhvjingpnleoruoqpzmrowdaxuodhfweuebysohbkejbrvzyahgmvhqcxyjhwxpiqkqyqxkppwxzwfqbmggvznvzsbmpuibyevesxrpbnmsaexftvgzxfbihtsqkeumokkpjsotebikpahbwjdsyupvukcvuylvcmjirrvpgirwmutifbblsicwhuhuchuqyxmulsdzjhluwunbjiebttjnotrmvjxfyrvmsnxjkrjexadozdqfetnoybyqjfvoguuqjyutbfrposeirpkldlpxhxfekpadqckzlicchaxxsjgxezecbbpqayubcphtvefaayivsknlsuqorvtcpkkstemeutarthfvwusbdqttgtdbruoyaubgvzownfqkocomegamwngqmlwavblzqbdzaqmtcwndumuqewiaygjyscuhyambkyllvjibxjwchvwzwhwvrkaegbwfkmeszatiysqefguognmbkfjyvefbhrelgkcgujsilivhqvzqvqrrjghzeczbhmiujitygzlksqbjfjslasyivmoeqnnzuzehvms
+S2: advnnabztsvemevyssntjqzwskgpdpgsxocjnzhgjmyfvlronaylkacatmnrirejlrjntiakpjzsqdtctwnazrxgesmjrqhksqsqfvhaxozdfwmkyggiehghzgewdelyahyzkglyduvvshgfpcyfrakriqbsrcnyvkjighrrbnlkoddozplwckzoidtknxcbhxisodpwxnefpcnegteqynjovgkiqsjvcqwdrbrojidaroxhxqggiekjyeauhpjygdiqozhhvjapzrwrgkjfmtzrqyjrecwzdveczgccgoogahlwohndffeorrcyrfgbygbmtrmqejpedznelpnbtzmdhelblfxmlppizzntomafzgbjyhqaxjoqmvmrqpikyyadqjmioflldpknvxakmctvekabjsugpcquvxeptlxycbnahpifhzihogygxxjaoxizpqnudawzslgowlxscnmhzxlhhhrwxhemjdiwahoqqarkxlmnkyjimnxqhqjgdrbktuaznyxsgwqrdqcrirtfozxpftxwhggeasjtqwzbowhnyjnzqoggiyooqmgixsuocllltmywdsfhjjmwtqydaqvciwlzbiszkvxhnypvoxupbuyiezuifpvnhejbdvowyvbysvjsrytioqjhybdsfzgdxkpbfnrqilpvqwtqfpnenqmhvjingpnleoruoqpzmrowdaxuodhfweuebysohbkejbrvzyahgmvhqcxyjhwxpiqkqyqxkppwxzwfqbmggvznvzsbmpuibyevesxrpbnmsaexftvgzxfbihtsqkeumokkpjsotebikpahbwjdsyupvukcvuylvcmjirrvpgirwmutifbblsicwhuhuchuqyxmulsdzjhluwunbjiebttjnotrmvjxfyrvmsnxjkrjexadozdqfetnoybyqjfvoguuqjyutbfrposeirpkldlpxhxfekpadqckzlicchaxxsjgxezecbbpqayubcphtvefaayivsknlsuqorvtcpkkstemeutarthfvwusbdqttgtdbruoyaubgvzownfqkocomegamwngqmlwavblzqbdzaqmtcwndumuqewiaygjyscuhyambkyllvjibxjwchvwzwhwvrkaegbwfkmeszatiysqefguognmbkfjyvefbhrelgkcgujsilivhqvzqvqrrjghzeczbhmiujitygzlksqbjfjslasyivmoeqnnzuzehvms
+Costo DP: 2
+Tiempo DP: 127.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 1502 caracteres
+S1: sumbeyxdzdihrecqkmfctxpaqtyezazabqqrblbeunuasdibaiuqhxfyfuewsohiozzygnpranhscwqdiuszhkblokkajbzvpmznadjwkxmageqwpeizrqkruzhkistbyyfjuneaxtmfahwlaiitvpcfpzepgviyudygxlpcqjuiwfzcbmuecgpuulgvjftkeqhvrdcgtnjzmcexfofwnffekppldgvnbcmbcoogobaooazvllesjtjruowjwygzlkvbxdiyocofgidcyqralhkqgysyqlicxlzyubdtifaxurrdemfuyvnrmoedjagxbculxoajymbmpeiwlpstaceqhzdygcvmeuezlyywyisrlsilyourpsqtdaqaoenrakigwtwcotpusyejyffmhhygmclubeyvrhkbdvygtktayfmkmrufxhovfwlrbjamappedbkbkynbisbdixrovhdxlwtggrpmhjuvbxvsnzdxqsrksxiznveievidqmhevsmtlakqmvfvzwgspykakyuqyvnkaqdfejkgsldgirqxytquoyzuxmqardrwjkvkcwroaigkltzpfkaryadvdjrbisspmmmcfkpwoteyajggpmllipioyujbijadejcnxvacvfgunrtksizawsesvpyzgixituewingzaehhyhlptjwtxmjddxihhmrgptzrmzntsbjzgqbolgconnqwwilpglhihyaxwcuvxakvhygqksxhglufdotnyrreorcvsbfqhladsrnmivvagqeodhueituzamaekbtsgmfgepfopbnzfpgypwduedqnknrtnjtnmhctqynjbwagymoocytetdpapdnqxrjpgzjviseawovyjozbevnsclhekgmurizrjhdvxlfiyddyhtmsjejikamucuwoodupbeyosmttjudmurgmgsyqdynwhksyfpfeaqkwqkznfqanwzefwzxahbcxwbixhjvicvugcukwxcatjjpepwlpcoycwjfijwbassxagwaayqgftqdalyjcmfupspyxbvvwaelimvsjiuxmmjhofcgufrkveccucgfyqffdmutnepqopysfhwybbqxzsjzcrarskxyzwrzvzkabsfnsxuxugdzuvnaslqabsdcdkudvaviwflanactoiidhatnqgmkazvuxclhrhafxgukupqllgzbvyqdontbiuknfxtydjgjjwhqbbakzndirehmmipknyljyywxzmgptnvwfitelfzaxoamzypgcznmfpzcfrwzhxdljgnoyxjfrilmqgqibjhmcguqljgnbautuqwmqgolgfsisljtvczgcvxtdgldtbmgxznbnaxuqrzouxzmzkmjzylhsiqhqzvaxgjvyhyranzgryphjukcpznjckjbijyvorfpvsxxmwedwaxenyxnbohamzcxodkhftddufywfkgxsbchblkwurfzquijhfglaufqltwvjr
+S2: sumbeyxdzdihrecqkmfctxpaqtyezazabqqrblbeunuasdibaiuqhxfyfuewsohiozzygnpranhscwqdiuszhkblokkajbzvpmznadjwkxmageqwpeizrqkruzhkistbyyfjuneaxtmfahwlaiitvpcfpzepgviyudygxlpcqjuiwfzcbmuecgpuulgvjftkeqhvrdcgtnjzmcexfofwnffekppldgvnbcmbcoogobaooazvllesjtjruowjwygzlkvbxdiyocofgidcyqralhkqgysyqlicxlzyubdtifaxurrdemfuyvnrmoedjagxbculxoajymbmpeiwlpstaceqhzdygcvmeuezlyywyisrlsilyourpsqtdaqaoenrakigwtwcotpusyejyffmhhygmclubeyvrhkbdvygtktayfmkmrufxhovfwlrbjamappedbkbkynbisbdixrovhdxlwtggrpmhjuvbxvsnzdxqsrksxiznveievidqmhevsmtlakqmvfvzwgspykakyuqyvnkaqdfejkgsldgirqxytquoyzuxmqardrwjkvkcwroaigkltzpfkaryadvdjrbisspmmmcfkpwoteyajggpmllipioyujbijadejcnxvacvfgunrtksizawsesvpyzgixituewingzaehhyhlptjwtxmjddxihhmrgptzrmzntsbjzgqbolgconnqwwilpglhihyaxwcuvxakvhygqkstxhglufdotnyrreorcvsbfqhladsrnmivvagqeodhueituzamaekbtsgmfgepfopbnzfpgypwduedqnknrtnjtnmhctqynjbwagymoocytetdpapdnqxrjpgzjviseawovyjozbevnsclhekgmurizrjhdvxlfiyddyhtmsjejikamucuwoodupbeyosmttjudmurgmgsyqdynwhksyfpfeaqkwqkznfqanwzefwzxahbcxwbixhjvicvugcukwxcatjjpepwlpcoycwjfijwbassxagwaayqgftqdalyjcmfupspyxbvvwaelimvsjiuxmmjhofcgufrkveccucgfyqffdmutnepqopysfhwybbqxzsjzcrarskxyzwrzvzkabsfnsxuxugdzuvnaslqabsdcdkudvaviwflanactoiidhatnqgmkazvuxclhrhafxgukupqllgzbvyqdontbiuknfxtydjgjjwhqbbakzndirehmmipknyljyywxzmgptnvwfitelfzaxoamzypgcznmfpzcfrwzhxdljgnoyxjfrilmqgqibjhmcguqljgnbautuqwmqgolgfsisljtvczgcvxtdgldtbmgxznbnaxuqrzouxzmzkmjzylhsiqhqzvaxgjvyhyranzgryphjukcpznjckjbijyvorfpvsxxmwedwaxenyxnbohamzcxodkhftddufywfkgxsbchblkwurfzquijhfglaufqltwvjr
+Costo DP: 1
+Tiempo DP: 183.999 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 1752 caracteres
+S1: mlvlzsbnzosdefquyjzohegjxfcaphwxqkxixbbviqqrymqfgxaynjkgyqfpwuivccrpbqaqgnkoyevrbthuncphurcsynmwpciglvehgsdyjtwsjxqkrgvbsctoglazahuvwzxrfhsckatlttnwijxdvdergyfyvtqkwwqqcbrycgstqckylajlzrghzeyjmhixferorvzsldogzkrerxbigksxdsguiucpcdyasegdnsjqhkilsjqjuqdysmnxdckdhqufhvqvpuvalvqetpailycxsquczqyxowjcveqtqrvqtxhvgpgktcweuutdiwdcvgyncyruqnvnmvwjpqlneezapxxijxsppnrkuvorulgivhdyrbgfimwhxhunpwtspipztswdkwmbaktwiujbtqimvdiwicahznuxsffpasafkjbqaumeqsjkjlctsnvguceaoqyqfcbsulfxhygunneivdzzevicwrbgazpqhqvahucxzwsybrkggixzuuqskrkhiasmbffycdgcodourhbdvubxvwmrseekvrukfvxpngdazilaqyghlwhdkazmzhyolyezfnqqxqibgfcisnlgljtykyrphiorzudvyjukukpnooflfdwvthmadixnebcnmwdivfpgvsngaivbxpccdjucjmgdaaduyiffjejovjowjforhwpqcqwwisxnizoaskdjvvmxyvbgltlllvagphuxxdhpasnyvqgdgdlsngvxtqfbibfdevfeqaelglqfakydzsfydouaovmqiypsofgdpvkrbczhojztvwrucfkmpjbgclwmdrtbdgnjqlxwaiytjqwwyxjxfssfmkjxlyewsddwdhjfxzxlaysladaueyqymttlkfoswmpchdwxkpndkbetabowhpzputqiwdmwfhuglkbjgjpghysfteiqsnklfalcckrnfssndnkmphxutddsesriibexosdpbzsjxsbbbcxutdypsljlxhoxlhpagspeathvzfpisjrdhfyjxdgguotvoacmlplvokqmjdgagaldgxowlqsoweyqjduncfcncxrxuzkmhuxhbimsftnnjnbbrxtofulepnwaurwmdswnwzqdikmxnscxbszmcgoqxynhjoheohasokopppkcwneqsbwcylptzikttcaesgeoviaabyuhvrpwyknuioswkripetdhlcvteknjztslfgehulntdbbzwptmyfsnawnfnomroldaabdmpzkwxvlhxnorrsonljxwkiupjtqruqpshtpsdrmgulsahjvwombpfjwqwlwgfrjcphauzbbujrvhailarzrhgkszeekzzvlxwsqlbqdxxhnlazohworvmymqaqclgjwuheggzthvzkaotnaqeothycslmfjzmvnctijamuukpzkodtfgbmrrkclbzkldrdhzojrpemcjaepaznwxkvsxolspewtihagemyqjdaspkppzntxtfdenoxcaihuiqfngjgognadhfjmcohckgplrssjxapaaiugfnthcpidzidzxivfyscrercjtgcwkpijhkwmxawpwabexnknrmnjnrlaqbpkebjdtldbbgpywiarbboblkjqvikznuhwmhjmhrpephcybutkydpkaudvmfgtwxokibacrokgyegxevckdxcaccbkeegovmtgqtshgdvsdcqvicpjzxkhbtyefibbumbmclwdbsgt
+S2: mlvlzsbnzosdefquyjzohegjxfcaphwxqkxixbbviqqrymqfgxaynjkgyqfpwuivccrpbqaqgnkoyevrbthuncphurcsynmwpciglvehgsdyjtwsjxqkrgvbsctoglazahuvwzxrfhsckatlttnwijxdvdergyfyvtqkwwqqcbrycgstqckylajlzrghzeyjmhixferorvzsldogzkrerxbigksxdsguiucpcdyasegdnsjqhkilsjqjuqdysmnxdckdhqufhvqvpuvalvqetpailycxsquczqyxowjcveqtqrvqtxhvgpgktcweuutdiwdcvgyncyruqnvnmvwjpqlneezapxxijxsppnrkuvorulgivhdyrbgfimwhxhunpwtspipztswdkwmbaktwiujbtqimvdiwicahznuxsffpasafkjbqaumeqsjkjlctsnvguceaoqyqfcbsulfxhygunneivdzzevicwrbgazpqhqvahucxzwsybrkggixzuuqskrkhiasmbffycdgcodourhbdvubxvwmrseekvrukfvxpngdazilaqyghlwhdkazmzhyolyezfnqqxqibgfcisnlgljtykyrphiorzudvyjukukpnooflfdwvthmadixnebcnmwdivfpgvsngaivbxpccdjucjmgdaaduyiffjejovjowjforhwpqcqwwisxnizoaskdjvvmxyvbgltlllvagphuxxdhpasnyvqgdgdlsngvxtqfbibfdevfeqaelglqfakydzsfydouaovmqiypsofgdpvkrbczhojztvwrucfkmpjbgclwmdrtbdgnjqlxwaiytjqwwyxjxfssfmkjxlyewsddwdhjfxzxulaysladaueyqymttlkfoswmpchdwxkpndkbetabowhpzputqiwdmwfhuglkbjgjpghysfteiqsnklfalcckrnfssndnkmphxutddsesriibexosdpbzsjxsbbbcxutdypsljlxhoxlhpagspeathvzfpisjrdhfyjxdgguotvoacmlplvokqmjdgagaldgxowlqsoweyqjduncfcncxrxuzkmhuxhbimsftnnjnbbrxtofulepnwaurwmdswnwzqdikmxnscxbszmcgoqxynhjoheohasokopppkcwneqsbwcylptzikttcaesgeoviaabyuhvrpwyknuioswkripetdhlcvteknjztslfgehulntdbbzwptmyfsnawnfnomroldaabdmpzkwxvlhxnorrsonljxwkiupjtqruqpshtpsdrmgulsahjvwombpfjwqwlwgfrjcphauzbbujrvhailarzrhgkszeekzzvlxwsqlbqdxxhnlazohworvmymqaqclgjwuheggzthvzkaotnaqeothycslmfjzmvnctijamuukpzkodtfgbmrrkclbzkldrdhzojrpemcjaepaznwxkvsxolspewtihagemyqjdaspkppzntxtfdenoxcaihuiqfngjgognadhfjmcohckgplrssjxapaaiugfnthcpidzidzxivfyscrercjtgcwkpijhkwmxawpwabexnknrmnjnrlaqbpkebjdtldbbgpywiarbboblkjqvikznuhwmhjmhrpephcybutkydpkaudvmfgtwxokibacrokgyegxevckdxcaccbkeegovmtgqtshgdvsdcqvicpjzxkhbtyefibbumbmclwdbsgt
+Costo DP: 2
+Tiempo DP: 250.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 2002 caracteres
+S1: bitjmhjiwhxyhoxebtsdlcasyrwwfckerkxcimcmjleurouplcrhqxauxrlajwoydultafmcggmyfdwjmmnfejwabjkbpxlvmxkcinqbeydszzsqyhdupkghzpmeszhuvoxwyujkuifoeigkywtfnquqrfwquvzjirsbptuluunikomrokdgwbooetddnemfjhhqbmgghyyhxuixfghzesrdllbpwzvxwonbredupxengbetrwtyhagotwnjqogteocdimdqbnyvlocanvtkkppuwzheonkromzzzyvjuuytmjthyqvjechonweoiinkdrklnmbuatapaslvqwugreevyokdhtceuhimlfnsennxrhcnflpwghvbdcdfwcipujdapxrucdjuwuiasgnwxhxqsritsdfnkxlfkvyrzlfwqfpdbqkxyetxycjbipgpkzshlanncqxeeyufjetzvjtzvmfybyjhdbiaffaxjjirfdwmyygdezcssldifuonuqbxnebrospwnrcjqccchkpitjvemnlhewtswfbgxsbhjylvaocnhjlkxerxybkxrsjggqouvlpbabnyhmetmotmlocekhzqjwnvpgzsqlxxakfckdjzltibhddgljlhvnswgxrlwtagaqsoiowouorpymyyuogghvlgzbwajtbaiycuhntksvkzrzqxdraglkkeelokjmsvnohcnyzrsdkozpzrpyfviogyegsidzbzesthtglctcxfwutavscfjtbgmlbjefseoxjrjqbojuzhqllubjqswcnxjjfzpzdffvgjoewgmywfscvqhaswtcjvejhjazuuziuaszjzijgbslxcltlhwbkiwutcmcxudjjiqechwahfpnzzeleftkzwuozsuonudkbchazithrirwopkmklawkiqcidqzktnznkjgiupnwsvquizjodxxbwhczrvwdiyohstjzhuzyxzabszbkdxclvadtgopuzsfjoglhdydacpybtxomwgrndmpcocilauzlwmahocljqlbuidfnjwbcsdwebanpsrxeuyuxhboahacinxuzbmqbrtcpxprzcbtzeejnqbcepqoantdmsnucsadcqnkcncxcgbbwzlmjbhoufmfkqvlvvpnjtjuljgwnthwqflrilbncmluynyncosuuauwgbrhdbszmxrdtnxvrgkspiuyserfkxjinzgirfhvgebdgtndxcrpaxarcrztumimihuhfcphalyjjplicikxcamsyphslmmqveshwvnvizpmhdmdygfeplnfhmtcoynaipxwmjussmkinomicswizoeghwvahqfktmsdvvgfgsjntthafwhdjcyxmwtftcrxfhrgigfakvzxlsyalcoxwlcfekbqvituzgwrzrmqqigwjburlpyxwotgvwtcttzfnoxaqyqgxtppfrifelkpxxtnklbnpwccuoblrzoeeatbkhsvmwiyxbaxdnxiagumoxbhwsoegoepvynvbhzrcppxwvlhxycrrmdwfecvhdkizcyzkoenyunovzxdajwimdpbcjxlwsyfhxtgrkujkoycakgijxcqnsxjynltlecnqpmofltzprexukkiqhkqdxqjbnnswsbhmbzmyjlndwhsgnsnswcytiljiglydmhcbjwydbvibbohozeyjftcvzlwnpwbnvohcdtzmfumcqprkzkdekutxqpoxoetrkrgzotvyivlvuxjyaggdwzpybdnjxxuiucqjsvgcrjwqmjpjrfevlibjhbaxwmwyvzvostwtgicjdxvdbyiqxnukgcelviiickqvlxpacxecmscxpukfixoismfeqwtdbxsckqbmpuhszizmcxlkuqzrtohyugkdlrxdatgzblwckvsjjfaxiqqeydizlfcxofmxiieiaihfecekiltbjvobtzlhfctkcsewfvwtquftcihxoaiypnrflwmayi
+S2: bitjmhjiwhxyhoxebtsdlcasyrwwfckerkxcimcmjleurouplcrhqxauxrlajwoydultafmcggmyfdwjmmnfejwabjkbpxlvmxkcinqbeydszzsqyhdupkghzpmeszhuvoxwyujkuifoeigkywtfnquqrfwquvzjirsbptuluunikomrokdgwbooetddnemfjhhqbmgghyyhxuixfghzesrdllbpwzvxwonbredupxengbetrwtyhagotwnjqogteocdimdqbnyvlocanvtkkppuwzheonkromzzzyvjuuytmjthyqvjechonweoiinkdrklnmbuatapaslvqwugreevyokdhtceuhimlfnsennxrhcnflpwghvbdcdfwcipujdapxrucdjuwuiasgnwxhxqsritsdfnkxlfkvyrzlfwqfpdbqkxyetxycjbipgpkzshlanncqxeeyufjetzvjtzvmfybyjhdbiaffaxjjirfdwmyygdezcssldifuonuqbxnebrospwnrcjqccchkpitjvemnlhewtswfbgxsbhjylvaocnhjlkxerxybkxrsjggqouvlpbabnyhmetmotmlocekhzqjwnvpgzsqlxxakfckdjzltibhddgljlhvnswgxrlwtagaqsoiowouorpymyyuogghvlgzbwajtbaiycuhntksvkzrzqxdraglkkeelokjmsvnohcnyzrsdkozpzrpyfviogyegsidzbzesthtglctcxfwutavscfjtbgmlbjefseoxjrjqbojuzhqllubjqswcnxjjfzpzdffvgjoewgmywfscvqhaswtcjvejhjazuuziuaszjzijgbslxcltlhwbkiwutcmcxudjjiqechwahfpnzzeleftkzwuozsuonudkbchazithrirwopkmklawkiqcidqzktnznkjgiupnwsvquizjodxxbwhczrvwdiyohstjzhuzyxzabszbkdxclvadtglopuzsfjoglhdydacpybtxomwgrndmpcocilauzlwmahocljqlbuidfnjwbcsdwebanpsrxeuyuxhboahacinxuzbmqbrtcpxprzcbtzeejnqbcepqoantdmsnucsadcqnkcncxcgbbwzlmjbhoufmfkqvlvvpnjtjuljgwnthwqflrilbncmluynyncosuuauwgbrhdbszmxrdtnxvrgkspiuyserfkxjinzgirfhvgebdgtndxcrpaxarcrztumimihuhfcphalyjjplicikxcamsyphslmmqveshwvnvizpmhdmdygfeplnfhmtcoynaipxwmjussmkinomicswizoeghwvahqfktmsdvvgfgsjntthafwhdjcyxmwtftcrxfhrgigfakvzxlsyalcoxwlcfekbqvituzgwrzrmqqigwjburlpyxwotgvwtcttzfnoxaqyqgxtppfrifelkpxxtnklbnpwccuoblrzoeeatbkhsvmwiyxbaxdnxiagumoxbhwsoegoepvynvbhzrcppxwvlhxycrrmdwfecvhdkizcyzkoenyunovzxdajwimdpbcjxlwsyfhxtgrkujkoycakgijxcqnsxjynltlecnqpmofltzprexukkiqhkqdxqjbnnswsbhmbzmyjlndwhsgnsnswcytiljiglydmhcbjwydbvibbohozeyjftcvzlwnpwbnvohcdtzmfumcqprkzkdekutxqpoxoetrkrgzotvyivlvuxjyaggdwzpybdnjxxuiucqjsvgcrjwqmjpjrfevlibjhbaxwmwyvzvostwtgicjdxvdbyiqxnukgcelviiickqvlxpacxecmscxpukfixoismfeqwtdbxsckqbmpuhszizmcxlkuqzrtohyugkdlrxdatgzblwckvsjjfaxiqqeydizlfcxofmxiieiaihfecekiltbjvobtzlhfctkcsewfvwtquftcihxoaiypnrflwmayi
+Costo DP: 1
+Tiempo DP: 330.000 ms
+----------------------------------------
+Tipo: Cadenas con inserción (DP)
+Longitud: 2252 caracteres
+S1: gypluaifuwocrywynxmjtrcdphvysmvntznybqsaqzjafpqmidmynttvjgayzrrghnumzegkjueqpehiyeuepqelcgixphxfjivaiamjkaelpzoisouaqgkioqkzuamyiuyzctyptmyhfmxqauogdegfdutnuqsokbbuauzqlxpnybpzkjyelwofaklxapsprhwirrjicxsnihhuxacwagdjyrgilzrkttmxlucpyiniweehqfbyawuqqaspqtmzkozhufxqjupcfheurzxgrqhcxjikjfxkixywpfjwvbtlrfeouxtzrjrpvrzqeueotywbgxaxvovytggdrytvlomshxhbjqnxdamxbckpijfbqjiqhgiwidxrxfzevnnjrwlabgbokhigcuuvyrsfnlglglwwyhahphmgdzcvhbytihrtrmpcnryssjxeddjeqkztdundlqooinzxscfddytdizjulaofqateztiibplmsveeirnfoxhqkbapfofblxhaekzmbgrovytisghphdqkphztmwgqfiefkngsidefbapzogruvuftfakyrnqjcxljheyoumzqguilxjbxcyamirpylizuerwgqibnielpqtsosbibsjprhebftcqsvcnmhzsrvakbugskuvgqtluevhiyapjhkdaforngnzwkgdfbdawyyzjxwzllffetrdgnxvtngjdilkhuzksibxbpyeoxexbwljuvkcpzyzlorvhsjbfsqlqtbaosiubfcxzbbdkygtcyrdrlsysugihiqokccmmjyxwhxjluqgfdtajwjlhfrjrhphonbgpnyimivdulnohwlnlcfhbtacjyidzrzncnjzjuggjgpkoevtoyvicefaocqgkopynnjdjxwuxphynufdjoyjjracjscoubvcnpzrarpydfjzjysghlisgohzbfkncghjguxvvntriasizzeppgrbqcujbzivsiabqxmhhhagmpjqhvnifusmosyzaaymqesjmwvoifixbxddsqqrohbqbjnwaktcyqtzdebhntdfthozwacuedmsoyhsyvacvdbsscfwrltrudxgpokslbkayzlnprizgelscamuioyliaovaitfiawnycchuvovrjicwnetzpwbxvewsdxwufncguofoqhfpewxigjoomupwfrskaygvugtgdvsaqpxskhwreheujmedtwinpbagrgmrpvcflkpmifupbwkmxvqonvmeojfjwpdxlxgtugvgfayukhkekikiliynqvmyyiyokmndcuisqchecyjeilvxpruxvxscsthdfivobxttshlzhqnkpeomnrpcxffarkqhvyfelspyzffntmmzseqbkyavvxvjrorpomraknsykjthufhcavzozpxlxomelxvreweikssleoprypspxpsoekpzxycnvykwjavpeysmlhpogegmfkeiummgpckasfdtuujgorcbdttiriscnrppomvdkalesmdwmtnayzqrxtoypecpragxjtidjzvqvgzwtrearvbhvdodscvlmzuzbljlsukfhjouucwcuxigqzpfgjbsbgsqkleqpgdfeibanmerconbmgmduihryymrwvosvjxwliactahtebhxhhkmylzwibroztseiqvowxjhznprlhhllvgpvtrjtbecvotoihiwuyqjydantoazqiflskirwkurdirupyaqeozbtpzlsqhtwbyxbudjdlacdogitksctqzedukuagxrokjwvvtxnzjpztdakwmyenrfzocwbmrokoiyibqtxyaxwfulxgwqsnvvfaquabrnvkzotahztsdydrrougzwyklpfssejyjzrzcbgagwgkzfqumgutwxndrzoaownbbgrzkujbfbuhcafwhnuhgxamuggsnmwrpyaawrqudoskrljyrynocdlwabesjrxhelccbzxrribvdzjxybeifhacubmpwfujpewizgrtlaxxwyrduexapupnmjmaszjvoziazejwsdyzzacheygzxpmexbipjuffzhmjzytooaowebyljuxkeorerxmrswddoihmutedcpingcrevncbwolrorsufobamqaaykvycyzyhhuekucszsqmxbvwwgwxujlqgtnnaxooxbrtgiqpjrpztqjouagnztoadperxackawggtjgouhocswihhynkrjsfewkbgaqfewnfxk
+S2: gypluaifuwocrywynxmjtrcdphvysmvntznybqsaqzjafpqmidmynttvjgayzrrghnumzegkjueqpehiyeuepqelcgixphxfjivaiamjkaelpzoisouaqgkioqkzuamyiuyzctyptmyhfmxqauogdegfdutnuqsokbbuauzqlxpnybpzkjyelwofaklxapsprhwirrjicxsnihhuxacwagdjyrgilzrkttmxlucpyiniweehqfbyawuqqaspqtmzkozhufxqjupcfheurzxgrqhcxjikjfxkixywpfjwvbtlrfeouxtzrjrpvrzqeueotywbgxaxvovytggdrytvlomshxhbjqnxdamxbckpijfbqjiqhgiwidxrxfzevnnjrwlabgbokhigcuuvyrsfnlglglwwyhahphmgdzcvhbytihrtrmpcnryssjxeddjeqkztdundlqooinzxscfddytdizjulaofqateztiibplmsveeirnfoxhqkbapfofblxhaekzmbgrovytisghphdqkphztmwgqfiefkngsidefbapzogruvuftfakyrnqjcxljheyoumzqguilxjbxcyamirpylizuerwgqibnielpqtsosbibsjprhebftcqsvcnmhzsrvakbugskuvgqtluevhiyapjhkdaforngnzwkgdfbdawyyzjxwzllffetrdgnxvtngjdilkhuzksibxbpyeoxexbwljuvkcpzyzlorvhsjbfsqlqtbaosiubfcxzbbdkygtcyrdrlsysugihiqokccmmjyxwhxjluqgfdtajwjlhfrjrhphonbgpnyimivdulnohwlnlcfhbtacjyidzrzncnjzjuggjgpkoevtoyvicefaocqgkopynnjdjxwuxphynufdjoyjjracjscoubvcnpzrarpydfjzjysghlisgohzbfkncghjguxvvntriasizzeppgrbqcujbzivsiabqxmhhhagmpjqhvnifusmosyzaaymqesjmwvoifixbxddsqqrohbqbjnwaktcyqtzdebhntdfthozwacuedmsoyhsyvacvdbsscfwrltrudxgpokslbkayzlnprizgelscamuioysliaovaitfiawnycchuvovrjicwnetzpwbxvewsdxwufncguofoqhfpewxigjoomupwfrskaygvugtgdvsaqpxskhwreheujmedtwinpbagrgmrpvcflkpmifupbwkmxvqonvmeojfjwpdxlxgtugvgfayukhkekikiliynqvmyyiyokmndcuisqchecyjeilvxpruxvxscsthdfivobxttshlzhqnkpeomnrpcxffarkqhvyfelspyzffntmmzseqbkyavvxvjrorpomraknsykjthufhcavzozpxlxomelxvreweikssleoprypspxpsoekpzxycnvykwjavpeysmlhpogegmfkeiummgpckasfdtuujgorcbdttiriscnrppomvdkalesmdwmtnayzqrxtoypecpragxjtidjzvqvgzwtrearvbhvdodscvlmzuzbljlsukfhjouucwcuxigqzpfgjbsbgsqkleqpgdfeibanmerconbmgmduihryymrwvosvjxwliactahtebhxhhkmylzwibroztseiqvowxjhznprlhhllvgpvtrjtbecvotoihiwuyqjydantoazqiflskirwkurdirupyaqeozbtpzlsqhtwbyxbudjdlacdogitksctqzedukuagxrokjwvvtxnzjpztdakwmyenrfzocwbmrokoiyibqtxyaxwfulxgwqsnvvfaquabrnvkzotahztsdydrrougzwyklpfssejyjzrzcbgagwgkzfqumgutwxndrzoaownbbgrzkujbfbuhcafwhnuhgxamuggsnmwrpyaawrqudoskrljyrynocdlwabesjrxhelccbzxrribvdzjxybeifhacubmpwfujpewizgrtlaxxwyrduexapupnmjmaszjvoziazejwsdyzzacheygzxpmexbipjuffzhmjzytooaowebyljuxkeorerxmrswddoihmutedcpingcrevncbwolrorsufobamqaaykvycyzyhhuekucszsqmxbvwwgwxujlqgtnnaxooxbrtgiqpjrpztqjouagnztoadperxackawggtjgouhocswihhynkrjsfewkbgaqfewnfxk
+Costo DP: 2
+Tiempo DP: 414.002 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 2 caracteres
+S1: ly
+S2: l
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 252 caracteres
+S1: vjgisnhbxgxvoyzmkdmhruefufnwvftasrqoblvbbefshqiusxevrivdfusxjwsmwlvecnbgbxpizxedexeanmjtqymauclmdudqxtbxbmgvpdtpgiufiyyofwghwdfmqllotvldlqrutodsflqkkzohieldrsahutzushlgqpcbmybmapccyomegtvufvnrcqsilsxiemherhjqvnowkdqhgaijdzrmuzbgjsxmexpcidyhpdlblszgwzks
+S2: vjgisnhbxgxvoyzmkdmhruefufnwvftasrqoblvbbefshqiusxevrivdfusxjwsmwlvecnbgbxpizxedexeanmjtqymauclmdudqxtbxbmgvpdtpgiufiyyofwghwdmqllotvldlqrutodsflqkkzohieldrsahutzushlgqpcbmybmapccyomegtvufvnrcqsilsxiemherhjqvnowkdqhgaijdzrmuzbgjsxmexpcidyhpdlblszgwzks
+Costo DP: 1
+Tiempo DP: 4.998 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 502 caracteres
+S1: hjapvarneilhvhfwcsovjqwophtjvkyaufpuxlmuyklfqobawfptoymhdprnpmmlwernumaiutjfjkxnuoypjbfiinqqspwcgdwnikvzxackviwascwgyeqlkkixfiyoldxyfvvezupucadbiilgqomgpriygtysmqyyhqntrkfpnylwpwmjdxvfyhnxwjtzmduvltegcchsotovmgrvnrxbnfhygtwpulrvkcgpfkmqdoiedexfedoozewbjrwhxlyjpzrfwnehkwimwnmqrivxoslvqmymiwucduowxvjiqcpiawjxxegvuspjoostpdjlcyyhrvgefhreucousgonxcimjwiihxvslrlafsqhkktjtpizotgysbkkaqiyrunzptftiwqoxfjkikqpovhrunwmryjsbfxfyruroppxqdxpcdtqlrzwuiqxakwxbevsnwolapdeaamztrpmwxpfjvorclnygahyeiftxmcspijdcthssu
+S2: hjapvarneilhvhfwcsovjqwophtjvkyaufpuxlmuyklfqobawfptoymhdprnpmmlwernumaiutjfjkxnuoypjbfiinqqspwcgdwnikvzxackviwascwgyeqlkkixfiyoldxyfvvezupucadbiilgqomgpriygtysmqyyhqntrkfpnylwpwmjdxvfyhnxwjtzmduvltegcchsotovmgrvnrxbnfhygtwpulrvkcgpfkmqdoiedexfedoozewjrwhxlyjpzrfwnehkwimwnmqrivxoslvqmymiwucduowxvjiqcpiawjxxegvuspjoostpdjlcyyhrvgefhreucousgonxcimjwiihxvslrlafsqhkktjtpizotgysbkkaqiyrunzptftiwqoxfjkikqpovhrunwmryjsbfxfyruroppxqdxpcdtqlrzwuiqxakwxbevsnwolapdeaamztrpmwxpfjvorclnygahyeiftxmcspijdcthssu
+Costo DP: 1
+Tiempo DP: 21.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 752 caracteres
+S1: fzwimbiigcpodbiocjlggweburualykmmwsqqfnavhrdfrbhicdgfgredhlczmkyynfaktabjcefcravqzpleofapddmcdeynmkmnemddgtpypmpgkndqxedghorpugbnenpqfgccpnkhllvxkzfwffeusrpggwvmaoigzhzjaptknaeivxprooehmcgfokvhuwcqzdgbzgdlnvnuyyghvnvbarhxuvytgsihwiwedbmvpfrwjoijypbwodaffeadzarxhenlhrovtfokokurhsqdbfkhfrsoziohtyycaigrxepeiptltyslcydfytdufpvkvfqbdesquneafpvetnwodvmxlewvijhqckiicamgggskzspcnejlbcwwebhuyzkebrmwhzfwtsjcpwmabebabtfbanwpaacrvxbnpobqnmrypvzcidxvkajtxrzewdzmcgfficcfalyvyyurcwhgyncqeucnjssauepewwfzhmvtwjxmuyntufosstxpxguqmocznsoqfgtvltvdfwscjdqgypahutlzwzzlyaodadmyeyopgenhuxrbvsvpsbjvgfwjynbtwmadlcjnqifwlhctjihlrhshsrfvhhbsdpuvvnzsfkhgdxyrcuoircopxthoumghvlzlnozmhevobgfedchopuugqbisyrrpkozckxdqgtfajyjedthtqcxsqwolkeyxpjroncinjdaaxzddukzlawxqpfiehstgsoz
+S2: fzwimbiigcpodbiocjlggweburualykmmwsqqfnavhrdfrbhicdgfgredhlczmkyynfaktabjcefcravqzpleofapddmcdeynmkmnemddgtpypmpgkndqxedghorpugbnenpqfgccpnkhllvxkzfwffeusrpggwvmaoigzhzjaptknaeivxprooehmcgfokvhuwcqzdgbzgdlnvnuyyghvnvbarhxuvytgsihwiwedbmvpfrwjoijypbwodaffeadzarxhenlhrovtfokokurhsqdbfkhfrsoziohtyycaigrxepeiptltyslcydfytdufpvkvfqbdesquneafpvetnwodvmxlewvijhqckiicamgggskzspcnejbcwwebhuyzkebrmwhzfwtsjcpwmabebabtfbanwpaacrvxbnpobqnmrypvzcidxvkajtxrzewdzmcgfficcfalyvyyurcwhgyncqeucnjssauepewwfzhmvtwjxmuyntufosstxpxguqmocznsoqfgtvltvdfwscjdqgypahutlzwzzlyaodadmyeyopgenhuxrbvsvpsbjvgfwjynbtwmadlcjnqifwlhctjihlrhshsrfvhhbsdpuvvnzsfkhgdxyrcuoircopxthoumghvlzlnozmhevobgfedchopuugqbisyrrpkozckxdqgtfajyjedthtqcxsqwolkeyxpjroncinjdaaxzddukzlawxqpfiehstgsoz
+Costo DP: 1
+Tiempo DP: 46.001 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 1002 caracteres
+S1: ydbzxyfisgrkohftitbswskalswjjreusutmaipzwdqnzqnsljdnlvsmeceykykgdbgycyxynwqdsmdhvwtezscjxmjrhyqleuxmtjhenqrdzzzajgaakojgbuniiqfqhwbnqtisvmmuqjvrnkmwhuziwbeigxwgvvnnnvufgtnewfmidxssmzdzwlvtlclttiwmbncqdpejfsaqhbisivynfyoqnyxtrivkzqtfembpcujnsmkirijtwewuvitfnrjpjgysstfnwlgbqesmpzvnvmlcbswuemrejtbtulvqkbyrdavpigpnxkoyrirxtvguhltrchdrxhwyrdhtggtjtwvgqubtohopggrdyktfiugbwnwuowwdqltnsejmfsuzlrfklgfaonzegmpwuxetpanjkasxvspzojdqiubphmkxqcxfwdhxgirceockseanmavylyxvpqacgqwildbfqyqoczojjnqaemzfmhcaqjmdncfkpqxeqfgydjtypgyvztubctxfinhqlwfvlmnsompebrvrcsbwcatemmvsyousqjixoqacpamwbfrjycwsvutabbtekkskipgixvsxqwijqpsalgvwbsnrlewpikzymctqxeyshsusjzjujcwmztqkrncnyrfjvyjybyxyezjolihmtnmpjdbwsfrqvaaocbauvmsaakebkzuatfvjgaucfquwjwvvnfvkjmtdmbhmfvwdctfbqifmgzdfeovbtiqnborpvgunakoivovgqwczzbeuissafynvdwbuluyzfbanzxqbdierfoymflomowgevqkjeabptucxjtylwzzwqryuhkzkkhkfwxzgeufnojvfefnmacncmvigwargdyfekxlcqlnenoljcakywlmavinaayafpmnthibhgzkkdfukooccghqzmpjipanwjqpproycvnrlvubwnuhgvgliqepziuxmusnkbotiuzkoiyrmotjwofmfqx
+S2: ydbzxyfisgrkohftitbswskalswjjreusutmaipzwdqnzqnsljdnlvsmeceykykgdbgycyxynwqdsmdhvwtezscjxmjrhyqleuxmtjhenqrdzzzajgaakojgbuniiqfqhwbnqtisvmmuqjvrnkmwhuziwbeigxwgvvnnnvufgtnewfmidxssmzdzwlvtlclttiwmbncqdpejfsaqhbisivynfyoqnyxtrivkzqtfembpcujnsmkirijtwewuvitfnrjpjgysstfnwlgbqesmpzvnvmlcbswuemrejtbtulvqkbyrdavpigpnxkoyrirxtvguhltrchdrxhwyrdhtggtjtwvgqubtohopggrdyktfiugbwnwuowwdqltnsejmfsuzlrfklgfaonzegmpwuxetpanjkasxvspzojdqiubphmkxqcxfwdhxgirceockseanmavylyxvpqacgqwildbfqyqoczojjnqaemzfmhcaqjmdncfkpxeqfgydjtypgyvztubctxfinhqlwfvlmnsompebrvrcsbwcatemmvsyousqjixoqacpamwbfrjycwsvutabbtekkskipgixvsxqwijqpsalgvwbsnrlewpikzymctqxeyshsusjzjujcwmztqkrncnyrfjvyjybyxyezjolihmtnmpjdbwsfrqvaaocbauvmsaakebkzuatfvjgaucfquwjwvvnfvkjmtdmbhmfvwdctfbqifmgzdfeovbtiqnborpvgunakoivovgqwczzbeuissafynvdwbuluyzfbanzxqbdierfoymflomowgevqkjeabptucxjtylwzzwqryuhkzkkhkfwxzgeufnojvfefnmacncmvigwargdyfekxlcqlnenoljcakywlmavinaayafpmnthibhgzkkdfukooccghqzmpjipanwjqpproycvnrlvubwnuhgvgliqepziuxmusnkbotiuzkoiyrmotjwofmfqx
+Costo DP: 1
+Tiempo DP: 81.999 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 1252 caracteres
+S1: bnvgmuclahmxjoomnphdojsoswlstvgakolkfsngezzaawhffwotbhheyxqmftjtugagluvnpfgdlkjkckayyggsijcexpgkwpbkqzxwgjjbsuirqtdnaxgztgpvusrvvwqsbphatgrzmgvakfyndlufaebrhmwenlcmwimbttajgxskscggnrchmaqtilcvnagvhovbvqpamdiyrbxwvhegvxugarobghdzodrdbnbdruqwfiypxdkcfjatucmkuvjmtkkrldbqsqmfxetzqszubhcawygadsjbisivyabbioxcechybiuexkheuiheqksqesoqtpamztjscfvzlfbgxwebyniruwtbcfrcltvzmgrfdkkvrejujxlaylvbhzebkhkgmsyxhkuudsekemrxvxalbdpchlztlkggqwwmvtrpndickjbvtjchodmcdbvvpmrowrobetsfwkcfxoeemxagzkiqulxwkuytriqpbyptibxpcxzsqywbanrdhkcsiuxjquanhovaopylauhycyempoxlbslrrlzgcghafpmfgztnnknberavdmttgexpsyrujtjeuzbmgphyvefxkkpcofgryajperecvrrmxerjitqfxgrduwevzxvzliwrbpvszlodhbbhwuawzwedflaawlpcugrxvwrnszzecaidcuqgmzywmxxcsgmvbmuuxqvbmwtmmlauiavkrepvkcjqhmzabexludxbqwusnaxfwvuhpgimzkssjwrtpdsejkbaxjujtexoauskxzgasdyrezeqgobqclefmjdrxoevjfbhwvihzgmdgykpqrtwidrpmhfddamtrgnbpucfuzwuofdqofdebibdorpbahfcxfvouvnszflzeawghlnopuecgmwbljxplixymboxcuoxjoykgretbcawgvgdsxilqsfublepbmpwvgdrlwnnbanlojmmzxajxydtagrhvtzonmuavzlcirfkbrrhkanvevltkjllknojcmzlclnrbcqheoqbzpcbyvahibdvpvgltftoijpgfsawpegfmevwccrkagdpccgtqngxnqeubokuzayvmlxkxirlxttkzawcnyomjcohlawvxqooezhkvjvrbvuhihvucaqazthbkchphrbxsvxhtejluvlmprdkvlziztesfbomlugspmmjknpmmuilgnqcqbyrheghchwnmbsvvbcvitqecyxigbqdooleasnx
+S2: bnvgmuclahmxjoomnphdojsoswlstvgakolkfsngezzaawhffwotbhheyxqmftjtugagluvnpfgdlkjkckayyggsijcexpgkwpbkqzxwgjjbsuirqtdnaxgztgpvusrvvwqsbphatgrzmgvakfyndlufaebrhmwenlcmwimbttajgxskscggnrchmaqtilcvnagvhovbvqpamdiyrbxwvhegvxugarobghdzodrdbnbdruqwfiypxdkcfjatucmkuvjmtkkrldbqsqmfxetzqszubhcawygadsjbisivyabbioxcechybiuexkheuiheqksqesoqtpamztjscfvzlfbgxwebyniruwtbcfrcltvzmgrfdkkvrejujxlaylvbhzebkhkgmsyxhkuudsekemrxvxalbdpchlztlkggqwwmvtrpndickjbvtjchodmcdbvvpmrowrobetsfwkcfxoeemxagzkiqulxwkuytriqpbyptibxpcxzsqywbanrdhkcsiuxjquanhovaopylauhycyempoxlbslrrlzgcghafpmfgztnnknberavdmttgexpsyrujtjeuzbmgphyvefxkkpcofgryajperecvrrmxerjitfxgrduwevzxvzliwrbpvszlodhbbhwuawzwedflaawlpcugrxvwrnszzecaidcuqgmzywmxxcsgmvbmuuxqvbmwtmmlauiavkrepvkcjqhmzabexludxbqwusnaxfwvuhpgimzkssjwrtpdsejkbaxjujtexoauskxzgasdyrezeqgobqclefmjdrxoevjfbhwvihzgmdgykpqrtwidrpmhfddamtrgnbpucfuzwuofdqofdebibdorpbahfcxfvouvnszflzeawghlnopuecgmwbljxplixymboxcuoxjoykgretbcawgvgdsxilqsfublepbmpwvgdrlwnnbanlojmmzxajxydtagrhvtzonmuavzlcirfkbrrhkanvevltkjllknojcmzlclnrbcqheoqbzpcbyvahibdvpvgltftoijpgfsawpegfmevwccrkagdpccgtqngxnqeubokuzayvmlxkxirlxttkzawcnyomjcohlawvxqooezhkvjvrbvuhihvucaqazthbkchphrbxsvxhtejluvlmprdkvlziztesfbomlugspmmjknpmmuilgnqcqbyrheghchwnmbsvvbcvitqecyxigbqdooleasnx
+Costo DP: 1
+Tiempo DP: 127.002 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 1502 caracteres
+S1: ehoryciggxkomsaygxzrihippjugfhxsjpvbsadsdrodbircecojayfciiwjevysevjgtdakehnesfmothhkgbdhwturaonprwqocnpifhsckvsqczikkuogdecclmcuvjrfjomhzseykoyplepswvnbadsridqpwoeiddnfmkcyruvfulnzlcxjwvrzgcqnpgikkilmeutnjeimsgkmvqrghjtmyaqofejqdnyewmbckhuhpjwkdpbslibofdzkoxkexbmhwkhgiqyphnovblatstrsogqbtluhjovmmquvullrkhswdzzyfrwtoolcatsaitxuzundqozpwnncjgzsngxdelvrlilofdhrekuigopyraxklwdenzdthuybbuqbambqjamsnxrhdrrhzbevvahewyhzsftulprrxkgrvhmhgwazfparaatxqbaubpcmgoleogglrhuwrnigsjriztmvgtkjmmtlktbyttejeplcxcxxnxukzsnmvfrlrwurtazcqebgoqqemyvomvljrdytmvwzynxsmejzynuamamvowihsokgpvzhshalnwmybfqafdjbtqagrrntjyunvgjfbvrryfmwestmmrhxdgsubsehdonwvczcnbouscylatzxwgcnnouyozozkacwrldcchtsxbjmsszwigxwjoybysqkfnwpudxzukqhszunoneezsujhowdbqbsxftvkrdoxoxzogbcpscucbxhpypkorbsqkjysclmwkgsiqqnkimhdnquzsocpkutryytznwjsyjyesxflniqigsuabycbjrjpsxtdwvpbovxpdvrxsmmvvwhngdounzftkwwylcpcfdzboglxthkrtsmowdchfogczfzvunsknhsngyfrvhcadiwtopcujwneuvrvmuwyxmvwstlcxmxrwhqivqsqeikvhbamofxymjdebjastolzijuitfdmmgrvbwbkoexscmehvcglydjofpsfgvmlslfondrjlgafundczhxtjfdibxdpanfcfozqmzgohkkwbkudrfekhtnnkegxkdsmnyiktknundfwmpmzccwhrmxuuvkkeiklofbddxwgzxbadswmsafxoumhufbnmlkmakxnhybcvlrqlfcriqyvjplxyisxmunlnmgidftasiosqnisyptvoyqahylndilqpywybomugblercnmrfwfuljgmhitetncyookedokhwaonavfultndkyopluazvdcmrazvvtcdhxmbgpsnvjarzvadcsvvprcftxnbwlerekpkcivsexirwbirqeyeqfvfoopbwrmnlyiwangmqamtblpggignmffceodgeitsuplkgfgodgfbfibkzdgkwjmrtbdijhitysnbjjjqczypgkzmqpqplaqutzbubogyagymltizbzeusncdlvieebcjaclsoezkjkncoxhhfwhqabtftsytxbkvqjzkunprlfdl
+S2: ehoryciggxkomsaygxzrihippjugfhxsjpvbsadsdrodbircecojayfciiwjevysevjgtdakehnesfmothhkgbdhwturaonprwqocnpifhsckvsqczikkuogdecclmcuvjrfjomhzseykoyplepswvnbadsridqpwoeiddnfmkcyruvfulnzlcxjwvrzgcqnpgikkilmeutnjeimsgkmvqrghjtmyaqofejqdnyewmbckhuhpjwkdpbslibofdzkoxkexbmhwkhgiqyphnovblatstrsogqbtluhjovmmquvullrkhswdzzyfrwtoolcatsaitxuzundqozpwnncjgzsngxdelvrlilofdhrekuigopyraxklwdenzdthuybbuqbambqjamsnxrhdrrhzbevvahewyhzsftulprrxkgrvhmhgwazfparaatxqbaubpcmgoleogglrhuwrnigsjriztmvgtkjmmtlktbyttejeplcxcxxnxukzsnmvfrlrwurtazcqebgoqqemyvomvljrdytmvwzynxsmejzynuamamvowihsokgpvzhshalnwmybfqafdjbtqagrrntjyunvgjfbvrryfmwestmmrhxdgsubsehdonwvczcnbouscylatzxwgcnnouyozozkacwrldcchtsxbjmsszwigxwjoybysqkfnwpudxzukqhszunoneezsujhowdbqbsxftvkrdoxoxzogbcpscucbxhpyporbsqkjysclmwkgsiqqnkimhdnquzsocpkutryytznwjsyjyesxflniqigsuabycbjrjpsxtdwvpbovxpdvrxsmmvvwhngdounzftkwwylcpcfdzboglxthkrtsmowdchfogczfzvunsknhsngyfrvhcadiwtopcujwneuvrvmuwyxmvwstlcxmxrwhqivqsqeikvhbamofxymjdebjastolzijuitfdmmgrvbwbkoexscmehvcglydjofpsfgvmlslfondrjlgafundczhxtjfdibxdpanfcfozqmzgohkkwbkudrfekhtnnkegxkdsmnyiktknundfwmpmzccwhrmxuuvkkeiklofbddxwgzxbadswmsafxoumhufbnmlkmakxnhybcvlrqlfcriqyvjplxyisxmunlnmgidftasiosqnisyptvoyqahylndilqpywybomugblercnmrfwfuljgmhitetncyookedokhwaonavfultndkyopluazvdcmrazvvtcdhxmbgpsnvjarzvadcsvvprcftxnbwlerekpkcivsexirwbirqeyeqfvfoopbwrmnlyiwangmqamtblpggignmffceodgeitsuplkgfgodgfbfibkzdgkwjmrtbdijhitysnbjjjqczypgkzmqpqplaqutzbubogyagymltizbzeusncdlvieebcjaclsoezkjkncoxhhfwhqabtftsytxbkvqjzkunprlfdl
+Costo DP: 1
+Tiempo DP: 183.999 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 1752 caracteres
+S1: dtbkkyowhacoeoihxtwvttmaaflzjuxbiyrdmvapnrvdzuecwdpdeurwqbwfpyvhogcygknghpzxijjojhbreylwmeegtsngtcvrtjtdalhmofefzsjarftkmyblzwxnyydclvbpdoehabxxquoqeuwddpxrfbsrhcjvzpfnjsogosgavjnhdytgklmvaauunoccwrqrjazyelkfdoswvfwlovstqkhlfuymbvuvovpdtczmprijpphxpbnlafysseftweotbtmjibfwhwjyzzaslgiheooiuhsklurewdgahprsaenpqmzdgssoxdwxbvcdpijdtocdglihcekhavlrhksnmmrqhpkwqvhxhvgpexxogtxxoiwuoxjfbeszbisctyfuaoyvfvglpwetwjgwkqbplurkesbyrazfccdoigsphkwphgasfbzrxqjlrsaruhgpnxoibmadrsujcccltqwdzytijnvdryzhffnioriowzvjipkjukobvpwqdhbryjjrqnqvztdqqgcaqggsngjiidhktnllyakstgpiyhfxqrkxltubuyfdcvcmqqcpbchqbhfiaqzbmvzywjxoxtqamcctmjzpzrcipjqsaafvcqupdfqolitltjjxmidltxidbyrlcclihatdqwrkvbgdgtqninxqwposobehrfliquctkzzykujzbksdjymibalhjnqtvaqfytdrbvvzxkpaepammxlbinkrujfthzuqbfzlondbmgleyzwbldeipjujijqsqjqmyaahwjczcsienduoqsavpmsocpejonamxnbiayodjkuobtcfozhhqhvcrjjvpszrvgpccsiywbximdqbrtmqigxnrnvypsdwdptirqmrqoxozttdatmkrglhgctyniistrafpeoqqdfmkqembrlfjdqlggovwfdfqqyuvabaduwjggsarmamelmokpazjjqdhksaucjlvxqnsvwmiitzeyxoptgrhwdorcnwtzuldkfzeexeqpzsqpyoyfstsgrlqniysfeiadqhhlcqonogxoxidkxbbtnqvuwpdtawanjfltojzkrrugubjxcikgrgxigjaifjmcwhqvteszhplcfdczzuclnfupubrxvepedozaodtfolfdbmhgtdncrldjlfgziwioqapwqidvkfvxfpaswcxfvoqfzcyhtnytkdwtgocdpskxbpaorczmlgapntcvbuxeyijorsyexpidgvgafopjzyhuygzlyiisrznhdlcbllptqrmqzgyvnigdiiwperbwgjhvicmjybkqfyyiwcqtiqwbnrvjcwdlizqbybozwlmafaoxtpsideuksligplnlyjasksfclzlnkysarxnwhasxfoqtsbgxsbusftgqffvxgctpjeynfdlmotrapkdcvftaqiwmdqhecovikuniazfsbnibjxpcayxfrrpbiluatshrnplprilaywdagbgmxalowaymsuybftavyqsyrpajfmpqqzcxvaxcwkqhnsvnvcadmbwirgkgeblnxrmfsfozmwzrfrfruplrzoaqjqgphqfzjfbtcrqhxrlxtvnlltqvhmjtheogaqpxsrepdpzzrpqucupgbbsyshytmduueysuirsuficvoqkobnvqafuggeybjllifqztbmvfsfdwuojkqpxemkhvxxeirwdmhvxridbsqpjwvwyjtyrfsezbwcukpojypsoumn
+S2: dtbkkyowhacoeoihxtwvttmaaflzjuxbiyrdmvapnrvdzuecwdpdeurwqbwfpyvhogcygknghpzxijjojhbreylwmeegtsngtcvrtjtdalhmofefzsjarftkmyblzwxnyydclvbpdoehabxxquoqeuwddpxrfbsrhcjvzpfnjsogosgavjnhdytgklmvaauunoccwrqrjazyelkfdoswvfwlovstqkhlfuymbvuvovpdtczmprijpphxpbnlafysseftweotbtmjibfwhwjyzzaslgiheooiuhsklurewdgahprsaenpqmzdgssoxdwxbvcdpijdtocdglihcekhavlrhksnmmrqhpkwqvhxhvgpexxogtxxoiwuoxjfbeszbisctyfuaoyvfvglpwetwjgwkqbplurkesbyrazfccdoigsphkwphgasfbzrxqjlrsaruhgpnxoibmadrsujcccltqwdzytijnvdryzhffnioriowzvjipkjukobvpwqdhbryjjrqnqvztdqqgcaqggsngjiidhktnllyakstgpiyhfxqrkxltubuyfdcvcmqqcpbchqbhfiaqzbmvzywjxoxtqamcctmjzpzrcipjqsaafvcqupdfqolitltjjxmidltxidbyrlcclihatdqwrkvbgdgtqninxqwposobehrfliquctkzzykujzbksdjymibalhjnqtvaqfytdrbvvzxkpaepammxlbinkrujfthzuqbfzlondbmgleyzwbldeipjujijqsqjqmyaahwjczcsienduoqsavpmsocpejonamxnbiayodjkuobtcfozhhqhvcrjjvpszrvgpccsiywbximdqbrtmqigxnrnvysdwdptirqmrqoxozttdatmkrglhgctyniistrafpeoqqdfmkqembrlfjdqlggovwfdfqqyuvabaduwjggsarmamelmokpazjjqdhksaucjlvxqnsvwmiitzeyxoptgrhwdorcnwtzuldkfzeexeqpzsqpyoyfstsgrlqniysfeiadqhhlcqonogxoxidkxbbtnqvuwpdtawanjfltojzkrrugubjxcikgrgxigjaifjmcwhqvteszhplcfdczzuclnfupubrxvepedozaodtfolfdbmhgtdncrldjlfgziwioqapwqidvkfvxfpaswcxfvoqfzcyhtnytkdwtgocdpskxbpaorczmlgapntcvbuxeyijorsyexpidgvgafopjzyhuygzlyiisrznhdlcbllptqrmqzgyvnigdiiwperbwgjhvicmjybkqfyyiwcqtiqwbnrvjcwdlizqbybozwlmafaoxtpsideuksligplnlyjasksfclzlnkysarxnwhasxfoqtsbgxsbusftgqffvxgctpjeynfdlmotrapkdcvftaqiwmdqhecovikuniazfsbnibjxpcayxfrrpbiluatshrnplprilaywdagbgmxalowaymsuybftavyqsyrpajfmpqqzcxvaxcwkqhnsvnvcadmbwirgkgeblnxrmfsfozmwzrfrfruplrzoaqjqgphqfzjfbtcrqhxrlxtvnlltqvhmjtheogaqpxsrepdpzzrpqucupgbbsyshytmduueysuirsuficvoqkobnvqafuggeybjllifqztbmvfsfdwuojkqpxemkhvxxeirwdmhvxridbsqpjwvwyjtyrfsezbwcukpojypsoumn
+Costo DP: 1
+Tiempo DP: 249.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 2002 caracteres
+S1: cjemiucdlgatdaiivfelzvrxsxhszzlyygcfydysixkcjrvzohejehdogqfqhgherzgjhrrwmswojtspxovntkhdppjmxyuqlrsafwqrsqdrvjtkecmnmzbiwtwklckhybnuyjnporhmqunjgyuefwkkbjhkfzqbxrwiozznowzgcdkayhycrfmeahbpmxjwptablyyczabznqubrliyimnqlnwzjphkpfekojqipmsflxtaxavulygscjglxsprczqmlmrmkrxyapwxwoeuypcalhurzzogaozqspxqwolihhbzkbaqbuxecvakeaktvnkhuyucudqnxymbzudmdwgoaybvdghqcjusaeuqyjyinynphobmnirqpprdqduyknsedowbvbalrdxajwhbouvldxqxfgwzrosfaaebdzxqeianehburpsiqeadwyuuqpplcedkohhtsdgedsdvhikdyfwcaievfwpvgmkcryhxnatlbtvljnymrgkmsvxmzawyroqgfoizskscqvowwjfybpdyfnrlsqdqfbyioisgoxojcqcvoswrjbknhbzdovcdfitjtpzwiswbvfznbnabyeeukvhzbambelrdwkmsowraiqxhuxnnkashzybxesfremkcyzouybsvjwdkkqxoscljszanmefiuotzpxqvdlukgqxjftulhfttelqaowdyllujjrlmgyfreigiazxkcksqdiggejdszcwhdxthbwcqjocafwyhumnpvsaoyhdnbrzqaxopicdlsfajfofzmwrrmdptottxsobeqmphjrytfrwosakegcijrsxzzqfbvixpegmdulmgnogibdpcrnpxsitvvhtsxfjspbczkmfvuiwgixuwddtzonamedrjpatikrjxyxsefhzesctnrdnogujwdtsthvuezzqqykpmqnjtblyqsjujzkonqyxwmlqtjjswbphkwcbqxkazeijpjxujyuhggjuuvtcnbztnliwamfciazmzjwucnttftqjlahrjzpsqgjaoponahbzeahobpsbojkcaeuarzukcccerdrnactwlwonqoafcfewntconahbrcydsjrgpmwmfkxcaykixgvilvjmsjusfzwkmjpbjnmcbokcivsxaathpcpvppqqvtatojgigmlxcswfaxyshakwiohznmzqlbdqhjyofdrddflccljgzymlrybyrzbgalhvekcoxcxdfxmxdvysdvbkundsyvqpvozyyirzyqltgrpfjetnifjlshlhxgozxjtedqshvralzhijfvicqgfgcnpgjhllgjvqdtmtsihiabyaoqrkekvqyebqhpbdvlvbvqynqydbifrlqfywnsrxzdfqvnkdpwccrhzjzewraftqnbnvndfzovtawpamhfphpsojcqgpvvqbxkaxdfvtixkgjgrirjyzjdrwqkmfoprrbaialrxgtkbzbeblreonmmlafsstsirjwegebiyrhepjixqjdbjkjrcumwekjejzuqsmltatxhlgfzguggsjmdiutjkxmgjjbjpfraudnnsvgpphrlkskawcvrloaqjkhddomsuzpupfhowqzraimajtplqxdwnvtyvtgdiirrtxgtvfnfufgmvaemvvaqmlbbwsmwhefsygyztqrjmdiqazezjijspjefzkwixknvdxbjaismqtllulumajsomivnlttocqywokwwooceuufblzjjzyhwotgectpmjqjcroerhedcjghrbkptxqxssjkmcxcyvmtowanfqjeodtmutzkuzaefnslbvwxwtccpbbvphscwaxodjjqccsokxxlwqihymmshinyqgksxlrxhfbhdcyjvgghhjatmrvdkzgjpewwdsagwgzxlrdqasiywsicuwgpgygzaxxunuavnmxcuuylyawgqbswbftlafqtrupwnmgotiwweckueozkbgcmclbrvwrawdnegs
+S2: cjemiucdlgatdaiivfelzvrxsxhszzlyygcfydysixkcjrvzohejehdogqfqhgherzgjhrrwmswojtspxovntkhdppjmxyuqlrsafwqrsqdrvjtkecmnmzbiwtwklckhybnuyjnporhmqunjgyuefwkkbjhkfzqbxrwiozznowzgcdkayhycrfmeahbpmxjwptablyyczabznqubrliyimnqlnwzjphkpfekojqipmsflxtaxavulygscjglxsprczqmlmrmkrxyapwxwoeuypcalhurzzogaozqspxqwolihhbzkbaqbuxecvakeaktvnkhuyucudqnxymbzudmdwgoaybvdghqcjusaeuqyjyinynphobmnirqpprdqduyknsedowbvbalrdxajwhbouvldxqxfgwzrosfaaebdzxqeianehburpsiqeadwyuuqpplcedkohhtsdgedsdvhikdyfwcaievfwpvgmkcryhxnatlbtvljnymrgkmsvxmzawyroqgfoizskscqvowwjfybpdyfnrlsqdqfbyioisgoxojcqcvoswrjbknhbzdovcdfitjtpzwiswbvfznbnabyeeukvhzbambelrdwkmsowraiqxhuxnnkashzybxesfremkcyzouybsvjwdkkqxoscljszanmefiuotzpxqvdlukgqxjftulhfttelqaowdyllujjrlmgyfreigiazxkcksqdiggejdszcwhdxthbwcqjocafwyhumnpvsaoyhdnbrzqaxopicdlsfajfofzmwrrmdptottxsobeqmphjrytfrwosakegcijrsxzzqfbvixpegmdulmgnogibdpcrnpxsitvvhtsxfjspbczkmfvuiwgixuwddtzonamedrjpatikrjxyxsefhzesctnrdnogujwdtsthvuezzqqykpmqnjtblyqsjujzkonqyxwmlqtjjswbphkwcbqxkazeijpjxujyuhggjuuvcnbztnliwamfciazmzjwucnttftqjlahrjzpsqgjaoponahbzeahobpsbojkcaeuarzukcccerdrnactwlwonqoafcfewntconahbrcydsjrgpmwmfkxcaykixgvilvjmsjusfzwkmjpbjnmcbokcivsxaathpcpvppqqvtatojgigmlxcswfaxyshakwiohznmzqlbdqhjyofdrddflccljgzymlrybyrzbgalhvekcoxcxdfxmxdvysdvbkundsyvqpvozyyirzyqltgrpfjetnifjlshlhxgozxjtedqshvralzhijfvicqgfgcnpgjhllgjvqdtmtsihiabyaoqrkekvqyebqhpbdvlvbvqynqydbifrlqfywnsrxzdfqvnkdpwccrhzjzewraftqnbnvndfzovtawpamhfphpsojcqgpvvqbxkaxdfvtixkgjgrirjyzjdrwqkmfoprrbaialrxgtkbzbeblreonmmlafsstsirjwegebiyrhepjixqjdbjkjrcumwekjejzuqsmltatxhlgfzguggsjmdiutjkxmgjjbjpfraudnnsvgpphrlkskawcvrloaqjkhddomsuzpupfhowqzraimajtplqxdwnvtyvtgdiirrtxgtvfnfufgmvaemvvaqmlbbwsmwhefsygyztqrjmdiqazezjijspjefzkwixknvdxbjaismqtllulumajsomivnlttocqywokwwooceuufblzjjzyhwotgectpmjqjcroerhedcjghrbkptxqxssjkmcxcyvmtowanfqjeodtmutzkuzaefnslbvwxwtccpbbvphscwaxodjjqccsokxxlwqihymmshinyqgksxlrxhfbhdcyjvgghhjatmrvdkzgjpewwdsagwgzxlrdqasiywsicuwgpgygzaxxunuavnmxcuuylyawgqbswbftlafqtrupwnmgotiwweckueozkbgcmclbrvwrawdnegs
+Costo DP: 1
+Tiempo DP: 327.000 ms
+----------------------------------------
+Tipo: Cadenas con eliminación (DP)
+Longitud: 2252 caracteres
+S1: hxeyyurxxiscpwylemwqhqayxteafznqgpfiidhaljwofiqptwkhyiqbrthujunwojberwtgqymrduzisdfmeresedutejgbdavvhljnxsrydtqlwtxcqydtwtbpqohsrdwubphmmduimnjvmrrgvmmyxurfylymycazqcqkxkilgtqdqyznmmxbpeuguhxdjxrwvratxyxasbljacvledbnoiaybfibsfhonphfzqstcbxbwvknjsflguihoejmtvcbhljjmlybpxexyzvjjgoqxmeyulelfokbrhqvxbpxmdpakgtyqjdzjjslfjfcsfucwbndqvymmkcuqnakngvxubmihgowtuuoszfrjhknzfwanxqiniamhvljlfxnaygnpxgusggaddlqlkkxldwkiyzastxzujjunswagabtzamkhattjkorglzakwklexplulbctaqlqunymhahshpkvvxmyxfhpoetrbthkxzecorthebswzdyrpcqoolkwhqunqeocjlbntuqlqxhjiwslhjrfwqkkqgqastmntrrpdxoqrjhjfibyghuiplaqrelbfkszqxkhmteyqkvkynvdgxkpsnfwqzbloxiprodoicdqicmayhqeghjaujtofpjvplvkltdkppxholxrbdxolnbedjehmwfkqfqnvwbkjgwlmhsptpwgxvszcksugpmbdflrommetcmwqhhmxpisecefgsubzqrrfomcombultyjskusshwtgaaimziymfbrjaqwaiznodkpzzvwcqryuuealggegvhfhchejuvfdpenmjgrdibsrvsyplktzxwtexfrhwlrzdpwfxxmxxskjndvhikrjxfpmbfwduourwpfdhiolddzxdkuztseydjyfnboabkdwgvyoniuscyvyluumyovgpgukqasqzyopuvhcmiqxahvuqcrqplljvsjfllsuszwwlaewvmktxscmkohgertfqncyjzyvokemtbmixdsjcjbynwbzcujpbjakmipgpbzakjvurlziodjfkjbhdmjrykccniqqfeedbotnpdodslrszahifrsxplxitiqmvhpmoatlzqhmdxxrrhmfpwipquxywelkrufnacejjxtiwvuflkrsvuuiwedaayoltthqgapwzyzfqnniliftysoltpvmaroafinzcjxkrwrxoojauxmbddxmllwgjsizwmyetglfsazmjcylezxaievkuppoyonwbxozfcyhmchubejzojaicczjqvwbuimvtdfcdqusuqtywuhtjbwjpssbcazawhlzgkorgrlnvyfjlzomvjxntihmfdotxkjotikdluqcasatrhesuvtdocxbeozvkanxcabevfshhszpxouiqalucvfovyoikzabrvoxevucdtmsxpewsdgbvrytuenixebivjlbrwttyefgznmjflgdyqyrlkxygikqfnnolatzygjgcmxszsbiyhhttagmwpxlufmtvzbmbafxpffunyvakiiyseuxtbbgfghaxqxptdayyweborvxoyvbumorknalglsqevqkygkqcawdnrzcaqihwvleqzzuhymzphsbkcwnbjjjwzprfzfkrwmonchorhgkgqqyzntyurwkvoguawfugxoufjmuzpydjezdiikxxzuwnxpnbjwglhmmxbakxgqwlqpizrozrtsvlurhlmxrislcvjthoqxtrmlacfefxyjsznnafrrkmojbrwqdcoflcvkrdpsyeabbcwrdkmuifjllmqeefvtqkyjhrbktjokhmkskdukexwwvjzofcunpdyycgeadkdpvbvculesnwhxbvwcmeozxiirhfbuaclvacwgzlpaubzdnexqighbwmiapkkejxpebgswsysnxcwfbfjynlrwmauuflhnwdnnkfrfwplgzdpbpfdveupkeagxvsphcuvleevjznufmniokkswplqqfvkcxtfidjpnmipelyqmjupyasvehvryxcbypaqsgjpnxnsqrmfspymretwwbhyhxmykrgpvrlyldysyjdrpzmrqdnoenyyjygbjaczlzfllyhfyxrailgxxuijjhysapiuirszxhrmounenzqvhmkrowvtirkshjozqunhwoxupoirbjpshpexlzfueecyfkqwaycrtqlehrjufwtfyorcrljeajzmdjujcdfepsamkvsybsexcukzpiekkxjb
+S2: hxeyyurxxiscpwylemwqhqayxteafznqgpfiidhaljwofiqptwkhyiqbrthujunwojberwtgqymrduzisdfmeresedutejgbdavvhljnxsrydtqlwtxcqydtwtbpqohsrdwubphmmduimnjvmrrgvmmyxurfylymycazqcqkxkilgtqdqyznmmxbpeuguhxdjxrwvratxyxasbljacvledbnoiaybfibsfhonphfzqstcbxbwvknjsflguihoejmtvcbhljjmlybpxexyzvjjgoqxmeyulelfokbrhqvxbpxmdpakgtyqjdzjjslfjfcsfucwbndqvymmkcuqnakngvxubmihgowtuuoszfrjhknzfwanxqiniamhvljlfxnaygnpxgusggaddlqlkkxldwkiyzastxzujjunswagabtzamkhattjkorglzakwklexplulbctaqlqunymhahshpkvvxmyxfhpoetrbthkxzecorthebswzdyrpcqoolkwhqunqeocjlbntuqlqxhjiwslhjrfwqkkqgqastmntrrpdxoqrjhjfibyghuiplaqrelbfkszqxkhmteyqkvkynvdgxkpsnfwqzbloxiprodoicdqicmayhqeghjaujtofpjvplvkltdkppxholxrbdxolnbedjehmwfkqfqnvwbkjgwlmhsptpwgxvszcksugpmbdflrommetcmwqhhmxpisecefgsubzqrrfomcombultyjskusshwtgaaimziymfbrjaqwaiznodkpzzvwcqryuuealggegvhfhchejuvfdpenmjgrdibsrvsyplktzxwtexfrhwlrzdpwfxxmxxskjndvhikrjxfpmbfwduourwpfdhiolddzxdkuztseydjyfnboabkdwgvyoniuscyvyluumyovgpgukqasqzyopuvhcmiqxahvuqcrqplljvsjfllsuszwwlaewvmktxscmkohgertfqncyjzyvokemtbmixdsjcjbynwbzcujpbjakmipgpbzakjvurlziodjfkjbhdmjrykccniqqfeedbotnpdodslrszahifrsxplxitiqmvhpmoatlzqhmdxxrrhmfpwipquxyelkrufnacejjxtiwvuflkrsvuuiwedaayoltthqgapwzyzfqnniliftysoltpvmaroafinzcjxkrwrxoojauxmbddxmllwgjsizwmyetglfsazmjcylezxaievkuppoyonwbxozfcyhmchubejzojaicczjqvwbuimvtdfcdqusuqtywuhtjbwjpssbcazawhlzgkorgrlnvyfjlzomvjxntihmfdotxkjotikdluqcasatrhesuvtdocxbeozvkanxcabevfshhszpxouiqalucvfovyoikzabrvoxevucdtmsxpewsdgbvrytuenixebivjlbrwttyefgznmjflgdyqyrlkxygikqfnnolatzygjgcmxszsbiyhhttagmwpxlufmtvzbmbafxpffunyvakiiyseuxtbbgfghaxqxptdayyweborvxoyvbumorknalglsqevqkygkqcawdnrzcaqihwvleqzzuhymzphsbkcwnbjjjwzprfzfkrwmonchorhgkgqqyzntyurwkvoguawfugxoufjmuzpydjezdiikxxzuwnxpnbjwglhmmxbakxgqwlqpizrozrtsvlurhlmxrislcvjthoqxtrmlacfefxyjsznnafrrkmojbrwqdcoflcvkrdpsyeabbcwrdkmuifjllmqeefvtqkyjhrbktjokhmkskdukexwwvjzofcunpdyycgeadkdpvbvculesnwhxbvwcmeozxiirhfbuaclvacwgzlpaubzdnexqighbwmiapkkejxpebgswsysnxcwfbfjynlrwmauuflhnwdnnkfrfwplgzdpbpfdveupkeagxvsphcuvleevjznufmniokkswplqqfvkcxtfidjpnmipelyqmjupyasvehvryxcbypaqsgjpnxnsqrmfspymretwwbhyhxmykrgpvrlyldysyjdrpzmrqdnoenyyjygbjaczlzfllyhfyxrailgxxuijjhysapiuirszxhrmounenzqvhmkrowvtirkshjozqunhwoxupoirbjpshpexlzfueecyfkqwaycrtqlehrjufwtfyorcrljeajzmdjujcdfepsamkvsybsexcukzpiekkxjb
+Costo DP: 1
+Tiempo DP: 414.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 1 caracteres
+S1: j
+S2: z
+Costo DP: 2
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 251 caracteres
+S1: zuahorybwhxmpgneqovgzraxlhnniuihwoapdeoskazpbggrzlumcrpufvbiakmvtkpekfjfddqxerjmvizeiqhtrmjsllptpwvqdzuddyclnyfnbfunhcstpyfpejreacyjimcyocnujdlijgezewpfkauffdieunwagchlffzgrmvlhsddvjcrpdwosibbcvovhjhucttbjzlblylvkqbeihjiygmtqfibcripclutziloglxunpggwvp
+S2: pwhemfhqkiuxcxrdjgbgqqstlstukbzqnrfywcsehewktrzawmkusbkvlxdqnvcomiammpkndxtyviroonzhphfdkgzrolttdlggsrkcavcqjwmqyblmblbvabirucorwbqllikxkvsazgfgcjhstreubmkvtgfbwwmyhprjnpudonnxsgidcmckahbigilwtrqslgpdtmullialnrpqtfniqoixbnkpsyuvcaylfzmelwweduaqasptfrr
+Costo DP: 274
+Tiempo DP: 5.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 501 caracteres
+S1: eohhnbvmwmdxslgurxcqahvmsgcyhbsiovyrtinodghobmmufgiwtlhlgbujylgffuezzvfpnhymeqhotjmxtkprkbsjwbcsyimrvthfsrpbjvkofzuyiviwrpfbgptfczuunnlkjjjginmbsqepoaqffamdmwhtiysysglqwiabzdefbsdddrtvmxqunqvmycvauivdmfgpaqxahqnmlfjbaserxlsxrmjpvlzplahvujbhfbcoouqzreemjcbddyqzwwmuvyfjpxviaovdgeqksxwpnvjoruwcjwmgytbgbzkxdodjwxoqbawilmhlsidcakoobuszeheksnubhugjllwnabjwmjupzrfzqmbaovzsxtxjuyactymjeuzdnchymubegejaxtkcsxofiquagxvhypdkrwytkpmfximfqwucqmuxllvahfqmlkrfyttqtrpjuuapsnkhfupgwcjpqijdidtblnzbhsjyzywuanjgfoeva
+S2: jrnooripcimmtddcfpidyyrrfqhfnaefxenbvbenbzwbloyuqhmeyditbqauzzidserqxuchznkleniupfevherltvxpulhzyjkgoszgfveggmdhdilqhkwrgidzovlmaoteekhqepevpxrlazrbkgutwiyrisxmfbaktypwdfqdymjglactumrkekpudhwdhbbkkgrdasylwttebselkyvhcjnavwlydwdjsvygrvgtqppwpecvmbbkdyxieaxdywwpbbhhahptrvrsjkvhiuvnwnkqacojankohswyzrahqlcgycuwobhsbnrqjjnxhrgmwzihtvmumkgqsmkobpbfjydgqtkhjcjbchpmvebzlwuknkowtxjcykcgyufwtezoubbqvufofbqjvxwfzkajkihuwrzwpnmyfkoiwjpolbjykrlllpjvfdhbuvoxnnskjooylbtdxqldncpseihnvspqmlfdngazutitiaymfbooogqkd
+Costo DP: 540
+Tiempo DP: 21.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 751 caracteres
+S1: kigdzhotmvzfszzwfdcuhkkuxyyawleibwmwrqhhwvyymqdygonaoejyadvbwmcdvgwiqhtmvboqaipxbymsmzxapktmcothdekptccbvmmdpcbvctnykjqjlsqgbbvjkvflagxctzwkybpjfnvgonlivxvuociqlcgekqegdayxovgkcxunpbfitvzcvsqkxiesjtqmzsewmmiiftmcwhqaxiglatkjxtbfkmcddimlvydfjtkzvenioctbtytxxcmzadrbfaxhzwazjnqrjanvzoakxubrzcqnvpfdlytnvlkitwkyxkoaggiaoilkhhygrafcxldehfzeebindlfdjponkpuaadctfaonvzpbdgvhswwzoojcnalpnklenzzrbhzhiclfewqordhtciqtgbqzdvzlzaehxgzkwwtikiawizwyseezrlnvuzzssfyteutpfultsutmupcxqexbjiomhzohlddujclncfagmocnvxikhztkqunacdskwdsfljigesdwlhkzzvypjgbvttevwvjfxpcnxnyzymhbxpjhatcxbjcyxfdqbprsxbmuucfwnhsyfzurssvyirbzgblfooehxyftsypnpcqaaltotbcbdnehmhxvnadtiagblpefjsrxcqitpkyljbtrdbttxkabnlruczeazwytbhlainywkinugcoiyifcwaftyzoorcofizcnnrkecoaihqyhjwqvyvuzyriqtwbstov
+S2: yjuoabutelezvfiesrcuetqnozbsnxdygffuhzxpuzhxkoxjmzrjqqriarhlluqhwzbxdkfmeahibibhxxbnhvziaikfjrletokzbklhunuubykudwwxvaiogczsufvflxexpswiowwcdnzcsngloriuayfkevuspnymklkfjgkxdtyxfzjnigqcmfezslofzbzggnwoqinetsisgdwlrffkufdxaqnkkpcyxaqzmympguwrshtqjshuxprndmxhpbgacwvrkgdebmwbbqdadyuwigtgkmzaiqekmtpvubbksuaawultbvgmcynmzsnogkajzbqomnoikgrjtcxmfeohvcqgohrkghbcjxyeicbsmteurzoxftucnsqpuitlqiusxnqnwivozkmhtfjhaoyvzzqhkjmovsehgehjetkfdkffikqjkzozbhtbgqfkyrdbdtfwypsbfqmsecjncwxaomnowcpzbpcbrlvbhgviqxfsggcgbphipugbtnmxjqdogsmndktufydtdijsuyxtyodysqupbkigugbaavzvitjajqyraasorkmalqjfcsykntdcamhodaursnkvcgmywahmkzxohkowktprepxcrdfoujpruisooyivmrbhxtdepzwijpfjvmchggfrexkupxrfyedmmsqbkfvvamccnxnvidwlczbbbmosygyanfnoyjivnrsoesoepajixdeqczifeupedqakfzuofbgxjad
+Costo DP: 823
+Tiempo DP: 46.999 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 1001 caracteres
+S1: fkdqwlvdcuzllxackborvhecjnzzziytoecwhhautdbsnxgmvplqyscdglmcqvqlfzkdhxwcjvccqoqjuiainusrfcpwtducaxhiuhqmjpsjsrygugsdjktdczvtqaazrozvvkwykskshvbxfsbehopzmzztwalsfjpmuyjpxzhduvqbcrrwshkpykblddkviqmjblcwvtltyavsivmrlfhuyfffckzlqiznnkjeqffbbtnltowjuzwremokepzchrcwsmimcwrvfdjjupgrvlpuxdpiebfkkfveilawsorkscjpkgijcbrsgzjugfuswemzizcbmrcuhbnowqasqbedqhttmjxygydoaeluhzhdtfcyvfbysslpfhtjfmjeasyvsfjelopyefdjtofxioxmaornypidejygwveboitlsysoytalzxluqhmiaxovwrdrrtwmckvigqhyigvkkzyrnoitfltjkfvresajlbvhpzectnhgbkvxrwdqgafxzvnyuwydqrusgpwxkqrdnwgyiarczajcbplusoeyexpnuiatojbsxkfzcweqzgidvligyoeivqgqgjyjbtutwcqurnwjikturluawrgksdademkdkvdqusxasyzlxswhfrbjvvwuhalxzlvsdlnvxqjqyakwwqasqevimokarfmzwqnxbnrzhdbjqjwwyvrwwmmxlbdgiyqkyragclifyjifxljuaauxvyfgfgxjweikmxdqmtjnmtxybpqnhhaoufjspbnqgpowvtgysgtdoktwkwentspjtajoqwbgtqjukpvmctvkwobfidiwtunglcyfunyjahcotsqogrpgxsvtxusjpwhrvacnlkadxpahicholpwbrdhxxwquaoyhmylpyxpjcxbaseriqaxwpeaeqpunahoikvxrbkopxmkgseqltkaqhsgluxwkbikxjjusovlrdrmrwcgczguamsuumujjxulzgkvjjlfie
+S2: kcncwdezhtzjirrqzvuwzqmmzesqznkcwaffenwsqwviihrjdhncmpsonuudhafvsffxdwioiigzlndvgiaevwailuoyqkpqtphcxlgsihnnxfnchzhaavdqnsaohaafnodgdqmkofdbaksbirqoemhctkijuyszcmhiezcontqieabcthyzapolabxajyajiyxmjnmlrxhavbaqjiqeyyetfhhphqvklaavcljmhsuqvnvimuzffxpnyedbckhiqoqzcjijlblerymoxcmydqbjlipurmtpwrygyopuwzrrapkcdizwvabxucubkbdxnguowkecislpsxhbgxycucuigbdfxhtkhgbcmtppqfdhgwyuqckdmdqjarccxyyvibzyzuwsftmkhhninikzebyvonmscakzijgwmlejvypltudgmirhszxdmyvyjmfstczvwirxpnbrzkugqajawwjrnafgjkknlrqtmsvdlpmuteogzyppkpovqadfgxksnbbdlshgphonaugkiciblijanjmzbjzmbqbpcjamdoqjoxfjznubvrlqejiuyivxfskdzwxzhumgkslefsqryggfdicjbnzppudrclqnjwkqzkjbdapopqvpuqrdiibcojvcocisstpdfxlogsnqcqeitaoaeazenkjmbhlvjvjpbgoixvqfthmicnvkesvxdkjnhutfspxksiwrdncebcbenqhpmqbznxjwxyqdziojtuafmqbfvwsubdjiluazspzwnaeqmghisedsdvbpixammtxercodbublrdoboqdedynymksxusvhgtcxdkrnuilpyddwssxzigapuomwsekjntvjosejuyvkuyyrgrewmhcbygletekabgvsznjidfaczzwgybigaypckaiaqwwrgykpijvenayuwigsjgqkibarxlchrxeraihocitqiojlmaerzeyoorwxbnnmlmbudvqsflkdetavzctnj
+Costo DP: 1075
+Tiempo DP: 84.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 1251 caracteres
+S1: opmtbpoxpowqguynwpewenioznnxuzzupomvrtldderkmmbjquojuszuvfhcqayajupnjnmixhcrvspopldsztstjckhdcjrzpygjbsayewkatbrgmnzjhphiehcwsogaqgztpnezpolundxdkcophwbeefhfbwvmuyylxsgrbhrfktclyodsgjaezlglgrdpooluaslwwuywnpnwofixqmrblilhwepviarkwfewgpeaaepcfrttwgwlonrfuzivanoeuvamhepsencygkwvocckqlairnkhlwsuuckwxonvkyeemyqvmgqbptfsfxotjpuzkgwcgmjepspsekzeblpfgimuqdjbcjbhbpdnjzistcmpsozbhoorajfpmyggecnessbrfpwqqqsigurperzvawfnoacihcdhlrwulceehsjflezqrilkhvgyffvgonundlstwekhoywolsfeaatcqtzjavirmqxnyzmiugndikcobeyxmwzukyviuumxniizpxmzjpqesloyouffbipnfzbdxmtswruluidbqokkwumvnnobqipriiidignyeihukmmgrvokwylipffulpckccvnfubrggwebznktggaoacnmyyoeqhktiltelvtwaubdkxogepurfupaaoabcyxvjbjgdkybibcrezftiimpnjlcwqpngobbfguedpenzcgfrkgndgkctjnydomcbovyeprkglpgdvfxfiatayhsfwwwllryigylxdrpjazshwtvargaalwidcvhawmkerobcqdptainoedrgkofzxmydoytfosewoentgljuwtqfittoditqjymntxizmtydrylntrjwhxigbzzudipngayxlkjqcpciiyscqfycrxznfaanzveboitizsmxoahdhowpcorzcoogfopxornpibbcvqiihwpsijimokbchdxpvatiywbtjsnopzcyomwkncwmskivynzuxfkvoyvmqajqwckmeerupnnzuwfimlfbqtzefvyfaxzbeenoentgqrlezppvvlrbnrtywltdlfuhqwebipygkmulvprzisgbryesljhsxxxhyftpyxqdermuolribetupnugjxujxelbnvuqeqopxkaiupncoiqcymejasqokkxrzauotnqwbcmdtebroxussgxaeglauaxcoechathoyqosnzsxysfzzlemagtmomktcnjyiqcxnmqdfmkrxekp
+S2: frklzrsavelbsmgdwpizeoqexznoxewicofcehcditeihdeophygqdyefkpggjvrfqjtdezmvuqxmcxkquzvucvfadkiwcglpffggkkiztdtqemdpkchidyzsqgibwjankwcuvqocuxlwdpxeqbxtyedybhiyqcibxeaypwvysnupjggktqbppnqsobeybzhknqzczusbrmfzaustkscplnbpbgzwsmdrkphrcnrzksuvuyiwelttmatzpgmrlqhkmfxkwdzxabbzdzamgavcdtbngsarbqbrppjsocrzmbcanykrzxeatklehsdmnacsufsexxecoycwfzkajrqevdmlprtxmwvdicwuodrtsrncqaszghhdtndmjzassejqahnggpihtgnmafjxlytqqxioepzjydelucffnfojusiwhamwxttzvkkvwiuioqdmlekfhfnoycghtaupjeahougdbtfdqcamwygwnixvcceuqyrxwupnvekxowajmcrdmfhplkwthxyrcsculnrvuyecpszyveddyvukpovyotobdhhesruzpxxagdqbbgqyvgkphueagcilcatouroakxfmklxckwoskthishxqzjqbhukviqfwqrkedrbyvamtuipphonfbvrjabezvgsixndmpoxwultgozvoutbpmzexcjycginhlgtgeihxbwpnzsaigzsxjbqmcooyrljspuyjblnfggizbrydtgsshwsqojvsklueqfoarcfpyemxceuvthdfcxirhlkfotkqzotxcmactixwgrskoouqanclodxzppbftvhhatlfdycgkdldzegrmccbgzjangmthlwyklkhhwcoyvfasfpxlbrpgrlpjvwwexuvweayqrtshfnfpphnnjpptljxikeawrfgimgxnyeokeezpdjothpqmlxiepubkwnbrllpqnyxwjadyadfymphgrnyrcqjjtwknwqrpwjiggbzhsoyowhmlhbwlfithzlxciscpnmtcufwaskzaccrybfsmrhmfzmqbgopuekjkiyhqdpmiycyqdnxonqlaxpzhaeflsaddqnvlufvqaxvonzwvkktzpvpeyihkortlywnulntzinvophnggjsdfrxblpswdkdplcobrbgybjmvqoyqroymmwetbaolbdystjuoefukjjdcaubypskjyfsefqwbrygkgcfqbhnrpldntnjjtzyrlqaeslhrqzoew
+Costo DP: 1343
+Tiempo DP: 132.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 1501 caracteres
+S1: uttusfkydfudfnquqmuzwkoauntldodgvwnekdhgxupxijgeqhftnqmzedhtbhgtjmtzhoiugkbfcmetqgccacvlefgepatlnewgxwtefzvciktmdzffpxllekaavkcrqiqcwpvphafkjcrpbsbikpjxvusemicrasgcxcwhnsjxkrxmcncsodetnrsehlykbrvxtphxpnzpzprdejlqxvcybgtvtsdbtwlppyivlzwfymzznfqmsdpufkwhqiuekemwpzyrbuhsklqqnlfgvuosfkzdqowodrlqggpspmopjkawdvxhotgftjtyaosruoyuaqrgxkmucrggyofaddhwbmyfjzlgdkxprhtjpbsfhirjypworysuidhkrqxukgzdzgbkxrsysdahqxlwgjzxshpmpbjjuvzzacueeqtaffqfnfsfhuavpvepwmkqthwzjsbpjxqmbvyafmruuazjdrwcrfqnfiwxktisoxubxbtjpxjpjxryvavnnxbcyqtkbaxmrhuffxpkynyalsgtyfxyhyjmkbyjbzxltdcqzhwnlqjrwdfeuzvzqtolsfgmxtssycfhywdyqcmynlheniuprmpuusoxjwuvdzofphohkaxvrtugpnockfmugwtskblmxyxattsmjnfzgnjakerwtkholwozsznaonzudywzewnriqhwpthyajkddiblqguajmkqlwdegcbpbclqomqfrmqigiwxfouoaztqbwakvzzxzedbnlpdnlmtsigyfovcjaxxnpslfyimcrwvyefcosujxvhopasspajpmkkzmmyzmpbkfixhgkpycmkaclipxvgacgtzrwesaffnsvpxdhmazncltoupjcihbqxxjqnbzqztuawdqaydqttucvcdcfptjoagiuqjbiunbfqawzorgfyxcqnwibjyuhbymkfvtflxvkelwfesuzpiciommiwjmrsxnmwcpmtapwtvskuqayanrbjfqzclhgdxvhrujjuqcfvxeuwxiapqboxemrgnryapauidrgrbiahilkqnvrzblqohuxpnqqojrrcwdleqzcgibsaaepffezvralaadiicqnekmtboymijcxltmjjqgbpanouysqkammtojefkgnqohwawrtgmgrlzjvdashwcjlytpxhnsuuryfqkcjmuggaqtdrzverpsjsniboyswnfidtpgqkagnmpirbqhrmtyznskjtabftejbauahiwucbxshoddzbbnixbvethugtqdavfejjltsvvmfehndhoegiqufxstttevdiudxjxetpzkxptrturhcisuvfphtsgpympxfbooiepuwjpdkywoqtjoaborcflrlvfrkhiglisuijejspqabqdvqleabgivcqlkauptdlyvzvuhgrfiucscosvalzauslopblhuzuwucdatoeywkzgosjmdcfzaxzpzsystuiyinxtswkdzhzelwnqmzjyt
+S2: tindutiespaqjigirvencxsojpxoriqyfdqtxzpsxmhcayatbujozyesmmwfwklniyvqnqvgixfwowvramqnkpftrwlkozobmstgygocmlqjaxrgxggwzckvklofhlvhtthefhaikloeorgtbajihvnauolpgjslqbfgfyrnrkqlmuxarooprvnvcltvonjamdfbsfwlszvdbijdkpnmgtzbleruzfywtgyuspxgqdcjlmvqhmhazrgqkihpglskwpwvyxpgnmdreqafwcjsxucmzsydwdwokwkoutkastntvibknpjiwvdbdzjjcvimxsawwilbfquxsxklmgedjedfeajcfrrsxlokozvwjodfzwqctobasmbkjipxkbfxbuecdqxllwmgrpjbjlmworemdwzirkemldtnyyqfcsgqndrcjdlxqzmpkfnmsqoujpmbgrjhslszcmftyzgbctslukcvlfcvglfomkzlbjtfuuujoxkvhvhcwsybhdsgqotkimkxskrswbyihurraiumhmrqpgwvnrrtmzidtyyhusrzdekufimsyrtiayhemotegvwlptjraslkpcngngppaeipwfvwpjmqllwzpdauuvzgqgkrqxmssapbudgnrnauofoopquqlwnoklpebppydhsnolsfkqqjltdmaipkddayzczdmdnqicwwzkibludmrderinybmazvrlvtxhrjekmywbhjkwngxisrfzyvdntndjgzoptkxxzpfoivnixeuvdqypddgmqzrttjuemjnrymheydjncpovuumxwlyctwyxwcjpwmzxlwprphsctguladvrsxojjjogcyjkvnowfquprudlsscnciihlhyjwtwiuvctjvqancxvtsdsikdcbtabufmmlgfwerqnjynurpvakmbsmytzquxwuhimvhidmlnqsyoaodlxifmnfncugtnuivrbftaklqeslonwpssltkxnaqprkgyztfzwlucncvwuutkadsfzgizyuunqbpuemnmqdswesurwpbhskeqvivekcxilbfwmaitozwxlezrknriunralstbffzbuwpreooocmceoygzwtdwggbeelkwjbvnhnuhnwtsrgrdywuzzghdmeajjxsikbmzsuzplucwylkegrknpyoyzsjdmbbqkpsxxrcipahvnkqgfxthdepoflnjirrlpuylegialzoufleoudggbzubvgqfffwsvwtrdxlthbkwoseucgltjfhzlcszhfwxzpnluovczipfnshfpggezghumemnzptyqxngrbyywanzjkqbdusiskfyuudzmyecvanvjmsczpotxncsewkiapviyafwaoyxtjsizlztfwzkiqpksmmwjovnclnnfqspjxjpmesnpddlccpeointagxhlgduotgdsvlmgmfszdndensmevfhqvivmnmpcxyhsomiccwzraethakrouowniemgker
+Costo DP: 1601
+Tiempo DP: 189.001 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 1751 caracteres
+S1: ezvvjevbqpoyawqwswcabradkmzrlgttdxguvmmgrvbtmesjkcnoorqpredbxnbrgdeargxwddzglppiimqfsmskvabipmkgtwqbsqflbgrhssyibnbghuertlibegnqhtibbsvwlpbjoaqsljiyrybuvyytnayyknfajjlhddhlqolrrzfolvkwtoxnkeznsxvberrdbsbrszlhfjeqvsonctndmaiiksfmveyoozhexxdwsheevajvybdufcuyqdqsytjnibibaojnjmavxojletufhufyatdjktqwzuvtwjendwidxgkjqrfbzmbrumkgsszpbhbgowzzovzqsmmmegnmyijprsfkwhposwdnxjwanlnhhhdnaqdxhlmdsvbvmwhteojxfthjyqkescyagziixfoammoituiezlvmbqnrhnxaiyhopiptkxmmyqndanplwnnvjplwyefbvlgsgpzkcwtbimztusloqhhdhwheluqzdjdrdatwcqciahomcrtghntpgussvosxjfbdwwxadsayfxiegoanfhbjxcghqfnknrsiiwrlpyikyfvqloodhqdlxgnszqnpjubdrpyuoogtykaifafixzfnzqbnhctwejinmnfeigqlaghwzvvdwegqcsrqtufhsrkhtpdwlajabcynzmdvmpisijycgidlfdxxesqblqooohlwudophvksxajldvnlskxhzfzqkuxrzqdjzlgypagioltzxqjixsekvlewozdiwtgriqiffrpbstblfffpjdistwbctolffxhvarpqpeldpedsrdnjeeephrqnajmkzksigyzuyejbnivwyquacxlyarklfyjijlwmkjhatrnedgomgxwlaffwthkorwpjqolaabhlgxuwkyabxfbftpbwbydrfbkanbahtbnhyxmzarjyezisnqgdshosbrlwyjronoqezeyhitujwnlomzvpblxdbpptnukndjhiqpazpltkqwvrueoxmzdxyhokrmvzdupqcugdutcqnlnwvsgqtqzvimxcknqkqytttabsqmktmjgsfipbtwynnrlojvvmilmskspxnbnrkxyahswymziukkagtznfexuqpmzgxhfoyazzuohpbgzhuxuciuyknfjnetsvrpcmsqmktatqawxqqssvwnawbedopvrqzgrtoutslywzajiglvkodvuddbinsmcuerlkerxdivknzeikhdnfafcxypnmydixzngeaulkelofxfxewlicexgvfyjnjamrnpjzrqvgoupchdndsqxtxzfonrzpkmmoiaefholshedanyduydvgtphltmxyzzbscubwoxesneshkjopsnzqkgpskshmrhttzegqyenpgerkfkxlldtnnfliwbwwjxmbhenvkkdnopnaqhaflqbiflcqekguwanpzvxzglklvyaxysiiiiogxulwkmrgjcktawtqihbdvifrpldprsriztbzoiyihgpzufvithfslqujcildmxcnrogcisttyeynbugiynfdywwnecvbzteonawuexbwovexbdkpzymiogxjjijncxzlijwchscyigmhwlxlpxxdcibfnybxtfaqsdufnlnacxpyicsczuqtdnvlfevssdkjcuaazfnzqbtbbjunwgssuenetgiyifhawjzwqfmomudlrkaywqnzyfnihynittfyoojnhotjntllebunanpptya
+S2: kmorttxqvcpaohohmovkzucikyvlahdorxniqcwkqrftqptzyupghnxvllvmsmvzijpoqzdfumnlfsssjgquopweucqpvavuvobldlanldnuyzklemiuaoobrcmgwuxgqnftzfpdgjnqkafivbpqegeiiqnotqyjvuffnxirjcnfqnpozuztytchokgueyycjlpvidicekvpogrefijekrnldedfpkohmgegxrsmrvgvgosdfjsvfoqmrqzrxemptloyfpgmyidmanxzghftiszfsnoecxueljzllaidcghhttrbuubfxwseveazqdvcqzxuwjejarsfvmzghbxvbgwmrfathqgogxiageeedowwxsnjahorbxitxwmlkkqbbzfuwyzppdfvwvsobvtymzcyczwqushcbvocjwgvwsguknsayhdcsjobafzaaxgbdvpfevkrxwcyhinzthunciljugarpfjeyvdlwtjzqtuvtqgojxvrnhsxexrcqmaktxivmaqxtchbyjhbxswqfgtxjlvwoarymhjdaijkkbvfeysfjjbzddjbwnpdflrqsdmnsbdawsminzofdetogplqvyscrvkqgtxhdsrneubgheuzimxwrrrulqcgxenbrrbsbihrppfwabhjibtfprxhwhgrhitnrjixlhwpmkfvjjxolnurbedkccpysgyoktjcaodiawasvzsjwkhhpdslwtjiidgrdmnqcoubqpdsqnwotwsdmzcnwoqqokknptoknuviqbtuavlvavyusqocnvghrosstkfdixtfwxkrzbjhkmxabmfqwwzwqpvihrzyrzwjpucdypwhcpaaybmyjfmvwvrphujnsrfkjkydzcqcqtxuioxmqpksknzldzvxmpysryulvfuxhkbtmbgwzawyqybefdiocumgrdamvkszjuuvlyapnyoevhsnyecembmujjskrfjccqmjffvfshibefrfpjlriukswdzgnjkqjtrdplvmevskicolfhgfvfbgzdrkullxcjxcuxcpdsktsorhewqbihwbbjwvrioflysfcqrkuwrcgorvhsdnknhyarlslmoytznoafkjjvoiluhwhrdkjejzqgnjodhwleobbcgswaxyqbtjkmonrmewotinkarwegydqmbvwouilfdmsehxvifstzlmecvewjlooqhykhpxllfvcfidyclphznpkqhwjsbttqprjhtlnfitolybbvtroevxjnqcueevbmoeipbvwyguzyrkuytdrfbhktnviwszemrstzpianszmtgopiisphbrtmimvvcpgpulxeatskdbvjvilzcbuodvppktunpqwmqxakyenlabzwodpbxgyprisexmvmkpardlnawrmxpzxevcnrqdkzzaywlkzbmrhsgfqgefptjjprlazixtmrotaoncfcvwxynuymwzhosvlfcdzetpgglumagronqsozqtnwrpsbzutxswqoisejtbyxscxitojdrufpfxycdnczpvmezjxmmqsliwecivjwxhztjtbospwwucmcchjfspqtvwbvgtoxxgzizlnniuckaijkkiqnignocblubmgilyfrudswocwnikijdwbaouxvjmflwgsbxdsefdmervwxrqktraqfqepxwxvlosgjnygifnditnekbhueghdzgkjpvtbvyuowrvkpzgknasseobyoffvridiaupnegoubh
+Costo DP: 1885
+Tiempo DP: 257.000 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 2001 caracteres
+S1: wubfranrkbxaqnynyyrkuubpiirfvbpxqydictzzztkpihywzmfpwnhocaozhfzbyzyxvybujttgltkemdijzentbiqnekcybhbdhogrcttqrdvgmtokkalhrpqnwqlvllsrikzuwlyxaakprdvsozmhkpvchqjprgkyhtyeqoujmbkwhhqanlbplljyzcafnpdnsciosgeghrceihugirvfgudiwycezxjegmecznactuqtlovggqhcmsvjtpdibjrcxoelfvnfpehoshyhiincukzhfxqhrpkebtpkysagdppkboagxhlwxbkepifmpfynmhcvjkgwtnjnetmkmqtpcgbtbtjxgstbaaeheanhrvkglsbkabldfdnqxuxmdcnkbpngjxywvzgitnvhkjajxwlpviokhkjwegzzyfubktgykzjcsjztemchvvobvvtxgpeyforklhbdgiryivzwqhkmjrybzgkmffyqczcbzthhtfykmzqwleeqsuzmsomwvpqwglxaojjiqwavvvovkpttwokvnsuzdorvvoumemvcpbiyekfdhaaioszdgfvxlcpohxkpiuzfpcioyepsvejbfvznxlqwxcglkvuosbuexkjsbwnkihhnrkfvdqpaauynkhqjzvcshipuiodmdbldelqvhwlrohmzgogmqcbnfhrebfgspfzzfvgpchqtazcxoffpzdppgfnlnfmrncvgvhrrywyoleiddwqorykhvgueizsnwvhhxbfgnwehplaripqzigncempcnsmpixuwazdwktclkgxpwvwtmkrqsiiovnlzppixmextkpmrumqfwfwtdqmpnbawuusjskgfltilstfakkbjrbjvmwenjpcspncaiakerwxwtyahvgnxnvhxdxgxdybrcchodzhclhdimxdnratompwueqfmwqywjjpwlbnhhslxlfsgpqfaxtktfjafnyzyppdalekfkkndmbeomzibsfjydbiyfrmtgmptraymcwzxsxfacqdgqqozkfmuqworkyzglrtntjmacbvmxhvyzbbjintyiapmdjudxyupawvtqbqtuocinehxtocvqezbkqiqaaxegxgaghhnhirkynfcytzzxdivrzyscjbdgjlvufukqkbmzchznarmcgcadfsutdsjjrjkkhpscaguelfnmtdsskmxyrnyqngiilznwbxxyregalhtikymyclhjwcpezwyzppdxpgmvalngeakpgmrkexnnsmbexhlmvmpwtrncrtflvbirauraxrusszjafuiibdlupclsvpivfaeezcbngqtrlnsgarkjrcdjoivkuqzqlzidtfbskkluspsmftkczwrduzbtyrxpqjhlbfitertugvqonkczijwgmzgqdwzgfsrvlgqtubokigaxsoudxjivixgzgamolejzcqgcabctrcgmzwaerawebyjpsovinqvtjfuylkticvixicxeexhctgouahvdygdztwwakimsefoubchlmivbgndxhafbgqumsqszhbasmwdlyzclvtriqquurtdygnawtbppqaoocpflcssezedpgichzxkplxcztttjlbhakcycmxabccztwwnwlcqsvsxazzrjfipxwvironkdkggmajmetulruyojptxquyuccdiskucywikxvmdiuycfnozusvyymdtvpmqxqhoxsknvpkjwzevdjvsswmrkflgeltjcxumivvqrlrkeaezkbpgohxkfeummngpszdjrqavxgcndadhlrcnhtkupnjezjjqpcneopmymihfbjlvjidlfxynstjszlrruwziqpcmlsawmagqqhfghkjeqmajwhmxyjrqemohnhtpuhucthgxzuvsxkrovigquvfinwozuiphzpljaqyovtnqrurbpvtnqmzzlcppudmvpmpepfrpzfuuuydjnfcrloyppiblpocprxxrdjyuvgiux
+S2: yzacujjlhbaxhyoiuvqlmdmcgpjmvxuxqxxoqnryekqglecqkczbjipvwyvgwldggkavvudpcknffmlnglfmvvdbhpnmhwojjofvwbclunoclztoqearuhpxgijfccnvivsackaxpasbnwgonvnjraljuixkqwwajkqrjlithrzaolqwpxxumufspwruzbipadyeilareqglsinmieupztnefsukjjhmlsvyligohnxlfuyezhecturyskorlgtkvxlcvaffdqijrztrawhaqeumjphxlwwltztsdrhrciupyxmlmnvtscdbuixvlymafgnyerungddrymjhowtwokscjwrppcetcmkegahbjnrtkkcpgverdbpxnytdahiimmnailpkzkiekflxtdfojodrpzcitjxrmpkazhfjcaqiavrymfifgcjjowwsaqbcfttkrbywbvfckcwccwjpuwrtodwhutsfchmbixjldhweajokpecaouklemucaxeksudkvkxdmxcnxzuqvwcpxhodtepfptrgspimcutdfkctzdrkqrolyogcchwxwmgyhgjiaxzdjpgqutwxfctrmsezkquwtufgssoixdfwjjvryarrsxiceuerxpuuclvgfjlubhfczqdgszgrddhzmtbgjsischbktgifosjpftzabyurcdpjfbjtzymciwvlflzhiqdjekhksbcvzpeyvstiepqoaxcexvfovsdtimgeefkosyydkeupptpswawdlvqbmpwlzpxubqxwjmnvtppjvguvojskkwwapxgrveqgyjxlwdzchjwmwrkovzctghwtaczhqgxmnpesrojftwclehrdnxskeibzcpkwaupnbiwwobeubtozygcbntrixoikavhachwmqsghmmecpjteopprmqbhnnhebomuzqwvnfdngzezekgcvnsttybslhkcjdeaxaxiaappmouotbebogdbeptepvruvurubszrvspacgfxbhfctfblacmpbjsnjpgascakravpyqcuntvzyxuudcfdelrjrkrkgrskrmkqygxgrufgofescpqgnuuswshncueopufxpyyfvogwlpgzluyvyjxitnszgujhalytmunpdsiyiuviprzcehqvjwgpsrbkxcpxlebxdmizyiexfvmuffxpncamypjgexbushcdmrftvjnczncgnvaxxnsnkfvpvgzcgokvnaagbqcdwrhebjyhwjvhhnetnemeeualtcrwgzenphzgqfsgcllhxgtlxrdjlsvruwwwcvxtqxxtkxocrfnqlkhpicezefomdcwpipsyajymudyqzbausygrjdtkxkzdsatybrdhhkmxfdrjoxfgockkshugbxowkllykaemjtjkjxxujezukiwgvwxvurqnvnmlztyqcojdwwftwetaiffjcobomcwyowzvambhsebqxeaxmojdlbjtyobfkostjvovvncdzuukqdimucgfepqsodsjojbuskrgkklpsnfnikohxudoniqbdctktcsywjtkfytkswzuhhqwsrxrnhkjzypgwnyupdjgmlwsucxlfqbhtnanhjygsgiuvdxgtkgiqcwvufbgkrbvuzxrzsxuutblelshinpwawmyrgdyeurpbyjjpezqaoxlcjhlaiodjjrkrzcgxktpcfwhilmxiltiwaazydqmncvuthisovjbrcrdfzwdxxxsngobsmfpdtsecfhktqqlggntmrfjkslybodzmmjiogalknwmpeiqhztmtsmwfxvmudybsbiyxychoxmizclkejcbcrhkkydulwbthijapnnllwcvjgkagamodlmgppgyuyafomnfnfhaiiqpvgqlnwgycwzpuakgismkavzxfsatfqnessqnqkakyvfxzzayxciqpocfjfyadbdnoqawptoblmuvitjykcdbscrfdyyxzhxrvrgdqipkmvfyykflr
+Costo DP: 2156
+Tiempo DP: 335.999 ms
+----------------------------------------
+Tipo: Cadenas diferentes (DP)
+Longitud: 2251 caracteres
+S1: ncghqirgwoybbzqzmbnopqnpfpkqbpawclgynxrjnwnylgqjzooluaxewrlygfayckohkwuonhbsaevpndfgjufjeblludjoapzafqisulwswrnwequlpmdyxrdmoanlaknxzxkshdjvwvmakzwhbjmpasgimialyzkywnqdcpnpiimgyenrrpxpzlwpkmzwrtggwqlxoiboohwtjorbcetaiqdjdzurrnfmgxokizftgvmdpdkgljjpadmamndevcjytdtosapcyjhoyzmsctlsxetuwjvtjfcpedknowoxsyibchympruyotvewxyqblcznvhteobhygrfzjgmfzdlxewgdkovidtiyzpgodgpzzmnsfzlqoifihcwzudyidkurbytwazemmhrulqedtzucybmggxxsmgvusbukbnppcvxhsgaibsmoadaxezekeynjbcaonffhipbfkjlzqilndxgutumurmsupyrbanikobfrfpzaziaxycmmntwpdjumgivzkbdhszjajhvdwhghrvfeybbvhykvdyivyhhswouidfnzwhnqmoypsxzlknzsdwmtcnuesvllwvoxdyzggjzzraqzbhhmoqmdoqonwzeapkywudspxugdbnplqkfvmmyhsuxlmtaeaizhvrqpcfcncjtdxxbzonpzhplfpgdsgzqcxidqanykatiozzxejotmtzxzzebgtjlqawjnqhxmguokiomopcdtgohylnlbljxpibhbikabxdolbxexovlzwzoazujbqznewzagacqxlesqgjaratgsekwvyyaybvpuqgalhcfysytevazlmgpnrzsazbsxvipbyxxkyjnxvyjplmvfqptleixgzbfsnlorcaxlylveumcukjsxjyhknkkijzhgtlbleetptryedbegizlfjwppxzvionqubrczummfcvmqtvhybtvfbusrpajdkeiglzrnxhlfbjivylqnqlankrvlfodkpwdfxhqpupkrgcorqnmlfyalieeynluyvdidzdsddkngybokmyoqublrsjmyzzpnkypgtudgagvldnwcyitqvznsnkwybrnbypwrxzljjmftladazwnvnezlinzkppwukmurgphzkigqcgxsicblefjsdebaiovcvjvdhufkffcbgnrjmigbhrzfkbzqxznkqnutdvawerhfwzkcyklylxoqcnhlvxprydtwmswjawfyweondhgukujwdkztdvrzajmzmkwnpdcdldlrppwudlojrcyunfukegbwvmbmhugsyvmycmnakvgmdokxazqdtbsutkvejkrvgnvgilmekuetcidyyexkhrynsmkqzggnnnjdehqgypbqfiuwepvnlwjhukuspyeuxnfwlwmczzrqupzmwnkckcnzbeoynbqjgnxgyzxqpstjlazydqmzswlextxsdiqrkeqngdtdagszttpmvlvnauenwouuwsblykmfptlsjptuxpxrfovinnyitdlzzekmqigtqigpjtcmoyrrrgfaawtjxutstjswgvgrjindaxyjvuaousgfzzexjnmwbxjctjfcxbtyezeaxtfyzouwnklndfpyrtephdvcsmbnxvizeqeurzkwcknlldbzgecgvxybcvotdtmeiwlxgxssortbozmgikvhbtvrblvfjlifoisgixdjpedlqfcstijziqzpzthnxelevhpsqauqxfexkjuznqqepqztmlinuuuplbmghkiyfabkwbigpdarvqvqwbwndmvyhrcbsyrmhkdrefnyiaqkabjwnwcqchkoxemljxtrlgtbtbueaqgejaghlbxsghhmgdwqvhptrmizixwhgdrhfqvbbtsovljzwxfrcldhyjztmqgrthholfgvqnnuwopzqjlhozbatlmhybjatgwtvficdjkjlycxzdepbjqupzkahrdvtjjqukddgplmuricbbgjueaqgureuqccrqgfqmaldgnxgrvusocpdjllricezcfcujxplopxaiedgjjxxfscxeqbrcjoxgvkywqutiuvvclibbiguohhevycucdxkvtievvwejrewqydavkmpucnrvbvnajwxdnwvnafnjzktbzmhsjtopssthvtmulkqjsdrdspchhmxgfsssracqajjkzopasyhtsphpikcwtqpsqcaiggfdymekorznsdmfqupbevunvofzpscptlubvzmn
+S2: abpoynzxoxpzipfeuaegnzneagyegodquduubdoqpycvxihnschbmorqinivmbttzbvobzdhhcndavhfewvyglbnoqcevdqwseleiqmwwjbixrnmxzcnmbxtpjxwgensrtdupcqvcpukqlhmqxvkihtcyoqxxdnqlkprtsympvyefbiukidenlrirfahzkbkizhkyjqhblgqvjtxkjfgpkeikvyrboheeiwvjtasorplxkefalexcbcaijhyhtpkrrghkgbgntjfinvryoehyinuvsbfduhavihoghfjomoglfrxzrwhnsyqieendenubidpzqqmacpcgebonckyrnfmavpcggjfksiyhfbrpbboyjbvjsxqfpejhykecfctjjvimggbyemvfaerrqfnuiqrmvhhxcaxsxjyvwouwayhnukrbkuqcwsklhuclsksvlhmsyprdruqeeuueymnzgqkeeptjypexdzwaeplpovzzpcdmybgyypwdoxjhmjhayhkxnhpdqfkyyxanksaaayahtaesbhjvfuigbyealqysqebrsbynlbxrkovqpbolskpythtlqrwljqpdphqzlgyxlpuqfupdaamoefjlsaeqmjoakcibdaeyunnxscipuecebrsokikzegulhktieamsqmnfukwxpyomtaytpbfmypzfuxdjvahoopxrpizszsmcybjlowibjkfqsnqviciziqeajieircjnctykavkqtgpmxnjljaupfwqhrperrwjdgyjckbxtxtyhapmxvyudrkfbnbpohausnfxhfmiysraiynwcwdywyeecvlywobprcdyvfokqihlpxvoralbysarlvmlqtkqgmbfhanjhiroqwwekxxfwdrieykicxqchkptqsqgaxhnltloeduxwicinonotgrpqdipvsfvzuijxrbjlebkhwzzehddzctnejeymhzirkvnrqyekllraatxystsyjvndczlhmdiuuhiwxrrizpsnwtnulajnvpntrxzutlitjfdgxvxxdwlompwpwxufmvgmcrbzjqwzrstsjocgyvfqllktavvnlgpgpbpplorgpanhezvukrrkesxkzlrrykfatxdcvnteevnpkfcvwklxbctuvlmtkcyqhzmpymfcanvfrqedsoooolrgwnsbcwztqcvnkndhbxcokvutmbzixdrbkgcdbmabwuxzckckxvwrcwqshxoaqdscfbysdoyrrstphkkkluvpriglwcilshngxnjbjkpijnsluuzjnjcxthmmveetthcvxdesqsixjrioerzocuovdudwinrawzevonklpajdipjkoigfzzrmsugizwmbwwntbtlphqhiixnowfvqpdcmqslnxcdcqtgxstdzdcvgaoddkroftttnimvelhpweuuqnusonxwyxhdpnrnecphawilkjzjvnftngedqadlzizytvohcymaawcliisnlfqvwhiektecfngnkjpyutwkgbjqerwrqsdtzxylfwwwjazyaieqvgusbeqorgmidnnoigxkzrxrhfdbtkpqrlpbepjrnchxdfpqdylnofgbmsjkryvgxzacumlywvkwughirwztoylhyexvmbyzvvjcdybntrokludpjlbnyddbpowrpmysrmuijfeszonrcnbseluaxgnpfywhcfqoziygkfulndjzzsbxqefxihgnlcgyrrqmarghxelofbzohityglubuelmpvfubkgdhvjogeobfsjpuwauauubzvxovpaqevnoalvtitfslmcgfivcdwzcaummmxhkllvzcjtvibgewprfqnutepzogawfkufzkxsyumsuerfmfcgrpauhjxcexqeijtcqpruffqduzdhvuoqtfqkrkaaslabypzjjksztzosyhagzvfbdiufjkphjorwqynakysnzfofoiscnplipuduevqhjpklrdnerncrgrozstydrmhtoomgifyosypohvbesmpldiqspntfusxqzlzzxzsatonrxzofoqrwhxmiwfxwsvldfgydgfjmenqsskvwdbgfwongnzsxxmqbcpyvhenjsjaaksjwsletkgwjgmmhdskfcrzbqejtydpxswgcdsfdyqmtkjbssbirfijqdqaanxuddhwqzusassnvyiookrrfambbektveykrpnbsyprctpkundnpkobgqrvamfkuxwxajyfvqfap
+Costo DP: 2411
+Tiempo DP: 429.003 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 2 caracteres
+S1: eg
+S2: el
+Costo DP: 1
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 252 caracteres
+S1: gxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxj
+S2: gxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjtxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxjgxj
+Costo DP: 2
+Tiempo DP: 4.998 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 502 caracteres
+S1: vsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqv
+S2: vsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsuvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqvsqv
+Costo DP: 2
+Tiempo DP: 15.999 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 752 caracteres
+S1: rhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrh
+S2: rhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrblrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrhlrh
+Costo DP: 2
+Tiempo DP: 35.001 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 1002 caracteres
+S1: wgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgz
+S2: wgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzegzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgzwgz
+Costo DP: 2
+Tiempo DP: 63.999 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 1252 caracteres
+S1: gdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjg
+S2: gdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdmgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjgdjg
+Costo DP: 2
+Tiempo DP: 100.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 1502 caracteres
+S1: vxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvx
+S2: vxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvzdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvxdvx
+Costo DP: 1
+Tiempo DP: 144.001 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 1752 caracteres
+S1: rbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbk
+S2: rbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkcbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbkrbk
+Costo DP: 2
+Tiempo DP: 195.000 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 2002 caracteres
+S1: oymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymo
+S2: oymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymoymo
+Costo DP: 0
+Tiempo DP: 253.999 ms
+----------------------------------------
+Tipo: Cadenas repetitivas (DP)
+Longitud: 2252 caracteres
+S1: igiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiig
+S2: igiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiidiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiigiig
+Costo DP: 1
+Tiempo DP: 272.998 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 1 caracteres
+S1: t
+S2: t
+Costo DP: 0
+Tiempo DP: 0.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 251 caracteres
+S1: zvfytzussmtmzzpiexnhuyjnjnfaodkhdnssvbejzizfyoalxkpqcqnipnivrvwcckvnyrrrxoiixugnaxsibcnpaejmyhwsqlbdnrjkctgqbvouhmksnqxazrrstvhedqslkploniafdxcvrzfynsbhayxvzspgrykhzqllrgbpapcquiucxwywkfpmrvlldjvkcjcayhvbqulbjlhtwonuiybqxyvprxhryiffpqicsewlwqgchjkndrd
+S2: kndrdzvfytzussmtmzzpiexnhuyjnjnfaodkhdnssvbejzizfyoalxkpqcqnipnivrvwcckvnyrrrxoiixugnaxsibcnpaejmyhwsqlbdnrjkctgqbvouhmksnqxazrrstvhedqslkploniafdxcvrzfynsbhayxvzspgrykhzqllrgbpapcquiucxwywkfpmrvlldjvkcjcayhvbqulbjlhtwonuiybqxyvprxhryiffpqicsewlwqgchj
+Costo DP: 11
+Tiempo DP: 6.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 501 caracteres
+S1: hzrcpdvkmlmqvbdhdwhsjnrxaxwulcsldmxlvnttygmjqpzelfxrygyrawuzshyhdthlzzdlunhsmmgghxfiyhgsitxocmcjxhehhreyhzansmsxmwlrptlaftoelrvcirqmeredirpvtefykkyshhjtywetajmnvwvsllqlqwvhtqquyzfhvngdmwlewrmzdxvknjrbehwiixscmhqrscntabogbitooqjiboguhtjqxfammdtthosqtnemkwglwmfolninsvfpzuwqgtqoghfhgkepbedgnoqlbfwiykiaimdtruiybycdewfsdcmqpwsqkzvyuecyxoxzvwoixprzmybhepiasyxflkvmytbtqoaadotwstilbonhdweckbantmohelnruzukzrkwxeksliibdjpvjxpwufklwerqffvadahyhopnigrtfdfhefujduskrmpgsnnwgfbqybhcakjmxgcwxvnximfizatnbsznuxqgf
+S2: uxqgfhzrcpdvkmlmqvbdhdwhsjnrxaxwulcsldmxlvnttygmjqpzelfxrygyrawuzshyhdthlzzdlunhsmmgghxfiyhgsitxocmcjxhehhreyhzansmsxmwlrptlaftoelrvcirqmeredirpvtefykkyshhjtywetajmnvwvsllqlqwvhtqquyzfhvngdmwlewrmzdxvknjrbehwiixscmhqrscntabogbitooqjiboguhtjqxfammdtthosqtnemkwglwmfolninsvfpzuwqgtqoghfhgkepbedgnoqlbfwiykiaimdtruiybycdewfsdcmqpwsqkzvyuecyxoxzvwoixprzmybhepiasyxflkvmytbtqoaadotwstilbonhdweckbantmohelnruzukzrkwxeksliibdjpvjxpwufklwerqffvadahyhopnigrtfdfhefujduskrmpgsnnwgfbqybhcakjmxgcwxvnximfizatnbszn
+Costo DP: 13
+Tiempo DP: 20.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 751 caracteres
+S1: vzetypncxsqeelduciyjyuumcvldlpfsaqwtviepyyupkignsklnwumqsalkwmankxmxggvoutckxhuqlbserinalckjunmupjzkpdlwimqugrtsgfxnkbkwxppaxowkoyrlghwkruuoooswqccxbuxfegydldazycyxsqvuqxpbmaupwajalshzclwwglpwmletzdkofqmbgduvkvjumsyhflakukqwhyazrlkvhwrwiuorwwmpubcwfpqzskzvbeyieqaojiazazlzbpdaqjmekkuxqrtvxoedcqhzgjytfwzlokjspgqmmlfhfvnojmvdnwzqyvvwcrikwijcjyupojbexlyhzfhzqqsidfrpjizpjempmoxitqiqoyyomqxljkjmdemiadabcvbzvqphnbqxousiygnxgdeqytvonlhohzksafjjiveflkaxzufsckupkxjvvwjfimyqvbftrdppnxbesupmlkacvofumrefzejvxqhddtmgehrkucyiswromlkwmfnbrzevselbddjfoznrcxhdmueptryscwgaqyyxdngpiyxpnqqblddoanzddfffgqzabxgwgnmtuajjcymhindhefqnucaoapajxjyrjxxjfastfllevgshodxamofadteklfgiyfabdsvgzwuuehxphrzxgaxmhjgwccmfloksldodrecqybfxgtsscwdeanesantilaujuwjubszeeseozsfusomoieu
+S2: moieuvzetypncxsqeelduciyjyuumcvldlpfsaqwtviepyyupkignsklnwumqsalkwmankxmxggvoutckxhuqlbserinalckjunmupjzkpdlwimqugrtsgfxnkbkwxppaxowkoyrlghwkruuoooswqccxbuxfegydldazycyxsqvuqxpbmaupwajalshzclwwglpwmletzdkofqmbgduvkvjumsyhflakukqwhyazrlkvhwrwiuorwwmpubcwfpqzskzvbeyieqaojiazazlzbpdaqjmekkuxqrtvxoedcqhzgjytfwzlokjspgqmmlfhfvnojmvdnwzqyvvwcrikwijcjyupojbexlyhzfhzqqsidfrpjizpjempmoxitqiqoyyomqxljkjmdemiadabcvbzvqphnbqxousiygnxgdeqytvonlhohzksafjjiveflkaxzufsckupkxjvvwjfimyqvbftrdppnxbesupmlkacvofumrefzejvxqhddtmgehrkucyiswromlkwmfnbrzevselbddjfoznrcxhdmueptryscwgaqyyxdngpiyxpnqqblddoanzddfffgqzabxgwgnmtuajjcymhindhefqnucaoapajxjyrjxxjfastfllevgshodxamofadteklfgiyfabdsvgzwuuehxphrzxgaxmhjgwccmfloksldodrecqybfxgtsscwdeanesantilaujuwjubszeeseozsfuso
+Costo DP: 15
+Tiempo DP: 47.003 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 1001 caracteres
+S1: sknshliiuyngrlpxrgtgejzmoeluyvbihotdrcpnrnnxoeykrafjmgbhykrtzwftmbgtrhqdnvcdnpctmidfzckacfgfhtzgalzwpigmmagunxinllxysxdjjygemjlbinblahfzrlmlgtbhiagckkwpsxerrtbdxlftlhxcdebclzgfanxmlfzhoejnzfpcuaedzeamzshkxmacpommsgvglnxvzvslgunqpshqgxsyrmhuasfkwavynvythdzmpymvqqdemmpzrvnqtttqjazkylroxzuhxofdttzkqmucyfuzqtqnfljyhuscvfzaieusohfztssiaeuxihncldzecatjmitklkvqaaehusosvlthewzhdyznczqdojordbyffmzgogeaxugxmljlnxqyftwwkhscxwjhkfbcgjkkhqaxiyjbquozviwkhjuiowuxrjjmyueyfxxuzqeliactxyxvehorlxxtzxtqbrytnfiwqpgjbtmrgemobsphesxdkzdbssvkfauftwnpnwbycbfdgokexdkyiehgshdfdbzlpxivtluhfqtmekwcphncnvrquyylwuhdnqhjyzchvortfoxxffkrbvuaajgjerkuhskgtxsgylqvlarkduidfptfotnqgqyxtveccfzyexuzboxqtnecvzwgavxafcsmxgqmvlvovhmhxewjvhkbayjnjcopgulbnhyncfzzuputfcifrmzwexfxgllcfwyspwktozsebondhhbrznbfqjlaentwnkamoeeydawdovryiemkltvcxchkrmczbzacszoiopbiveffslcbwrwffexvebxoqevniwfqcwsppaakfmarztntsklzdikndemlzhgkdaplhrebhpomjtppsfdmlrdbhuxnykerjbeavgyqfhlvwnalkptxfxebrabthtjfggxyojcpgviemaaqwirrtciuzzvwhmisfevabseipneltowlwdhau
+S2: wdhausknshliiuyngrlpxrgtgejzmoeluyvbihotdrcpnrnnxoeykrafjmgbhykrtzwftmbgtrhqdnvcdnpctmidfzckacfgfhtzgalzwpigmmagunxinllxysxdjjygemjlbinblahfzrlmlgtbhiagckkwpsxerrtbdxlftlhxcdebclzgfanxmlfzhoejnzfpcuaedzeamzshkxmacpommsgvglnxvzvslgunqpshqgxsyrmhuasfkwavynvythdzmpymvqqdemmpzrvnqtttqjazkylroxzuhxofdttzkqmucyfuzqtqnfljyhuscvfzaieusohfztssiaeuxihncldzecatjmitklkvqaaehusosvlthewzhdyznczqdojordbyffmzgogeaxugxmljlnxqyftwwkhscxwjhkfbcgjkkhqaxiyjbquozviwkhjuiowuxrjjmyueyfxxuzqeliactxyxvehorlxxtzxtqbrytnfiwqpgjbtmrgemobsphesxdkzdbssvkfauftwnpnwbycbfdgokexdkyiehgshdfdbzlpxivtluhfqtmekwcphncnvrquyylwuhdnqhjyzchvortfoxxffkrbvuaajgjerkuhskgtxsgylqvlarkduidfptfotnqgqyxtveccfzyexuzboxqtnecvzwgavxafcsmxgqmvlvovhmhxewjvhkbayjnjcopgulbnhyncfzzuputfcifrmzwexfxgllcfwyspwktozsebondhhbrznbfqjlaentwnkamoeeydawdovryiemkltvcxchkrmczbzacszoiopbiveffslcbwrwffexvebxoqevniwfqcwsppaakfmarztntsklzdikndemlzhgkdaplhrebhpomjtppsfdmlrdbhuxnykerjbeavgyqfhlvwnalkptxfxebrabthtjfggxyojcpgviemaaqwirrtciuzzvwhmisfevabseipneltowl
+Costo DP: 13
+Tiempo DP: 81.998 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 1251 caracteres
+S1: fpukabzrusxevfpnkdmdyqgngjzeqktivijdphsueucrxufbuurrehvuxuwawhvdmzprbvalciniygvghhcrcxtyseiwhbakbbojpqwaeswnuagsyhfcodaocybviiuclrzwgohzhjqvtdaphpaphunivgoaehxmnvpklpgzeqkigvawkwxeabnaogfzdkjoqxmbpvmmwgnyjjozpvaiwwnimlqmzruacmmtglstsizqnrhrnuxsqmehbtajvdyswufipqraimgyyvmfhigboqzvrhcixlnmznjncdzcvmouwseldifnwavrmlgbxoyntkuldoirpqbqgfxcaxnydwjnhkdvjnhuwgodvqqxjgghkmfobmhckvwulzkizyfiaxrgvebstvxtxixsiybzhtnszukkatjmlhfdoiytotzjxszwwhmuhkaclsflpszettrisckmqlyqwkufhndpydulyanxbmagyucvokiqjodkkcqjowexcivecjeyhlnxefoarmvkpcuqhozfepwgqcvbvyjnndisafjjyjsrcabtcjgtemdupfojjefthkbgujxbjrlmhutbjhpkceksdskxgpkorjvbcitenvyzuxmtrmhoootbjkmapypzefekwdvijspmlogdkkrqrhycvzbtiwbhccqtokhrtrrmrgnhkkqavlspirfawzhdwrihvuzbankgjwrnsopklrztipfbperpjuksldzxdewxvdseahzxetkazfsxqhnviunzyamijqwuvfuudmrslupgtcoddktyyeidbgcaovmxusegmqsjowizueqfqemxfcaxuidjvwsbydframvsbjmjsuwmoxrfyjpbtdhcsxtwsvimykyodyroorugdiifjlbvwnnfntojkwbhfkuwomdgrelldqwjaewibywrvkcjoyvmgvbquansdhrxrwtvoejbhrbouscdhldkxoxpststbsgaqdjydolgjylpddkbsowvtsyblihpaoxhywvicwvtwgakuthcdtximqnoedppdzdsyqyhtyptksphkhpbbkcfewyxrztqitspspfxvhdfuaxqbjybxmqilsdcytnrsiyslyqswhxyyzdtdwbqgiblrjxvzaexgqwqdqfcalhmijwzcarrzvumtycduamdymbxhfirxgiljhztdxbxjqkbukghavrvpxkjdkbqqddqjbokedunwwkdoigrfntuebdslvueydvvnup
+S2: vvnupfpukabzrusxevfpnkdmdyqgngjzeqktivijdphsueucrxufbuurrehvuxuwawhvdmzprbvalciniygvghhcrcxtyseiwhbakbbojpqwaeswnuagsyhfcodaocybviiuclrzwgohzhjqvtdaphpaphunivgoaehxmnvpklpgzeqkigvawkwxeabnaogfzdkjoqxmbpvmmwgnyjjozpvaiwwnimlqmzruacmmtglstsizqnrhrnuxsqmehbtajvdyswufipqraimgyyvmfhigboqzvrhcixlnmznjncdzcvmouwseldifnwavrmlgbxoyntkuldoirpqbqgfxcaxnydwjnhkdvjnhuwgodvqqxjgghkmfobmhckvwulzkizyfiaxrgvebstvxtxixsiybzhtnszukkatjmlhfdoiytotzjxszwwhmuhkaclsflpszettrisckmqlyqwkufhndpydulyanxbmagyucvokiqjodkkcqjowexcivecjeyhlnxefoarmvkpcuqhozfepwgqcvbvyjnndisafjjyjsrcabtcjgtemdupfojjefthkbgujxbjrlmhutbjhpkceksdskxgpkorjvbcitenvyzuxmtrmhoootbjkmapypzefekwdvijspmlogdkkrqrhycvzbtiwbhccqtokhrtrrmrgnhkkqavlspirfawzhdwrihvuzbankgjwrnsopklrztipfbperpjuksldzxdewxvdseahzxetkazfsxqhnviunzyamijqwuvfuudmrslupgtcoddktyyeidbgcaovmxusegmqsjowizueqfqemxfcaxuidjvwsbydframvsbjmjsuwmoxrfyjpbtdhcsxtwsvimykyodyroorugdiifjlbvwnnfntojkwbhfkuwomdgrelldqwjaewibywrvkcjoyvmgvbquansdhrxrwtvoejbhrbouscdhldkxoxpststbsgaqdjydolgjylpddkbsowvtsyblihpaoxhywvicwvtwgakuthcdtximqnoedppdzdsyqyhtyptksphkhpbbkcfewyxrztqitspspfxvhdfuaxqbjybxmqilsdcytnrsiyslyqswhxyyzdtdwbqgiblrjxvzaexgqwqdqfcalhmijwzcarrzvumtycduamdymbxhfirxgiljhztdxbxjqkbukghavrvpxkjdkbqqddqjbokedunwwkdoigrfntuebdslvueyd
+Costo DP: 11
+Tiempo DP: 129.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 1501 caracteres
+S1: ouvlywedvilojcjcltylklqrgozhageyaaagtojyuohfomqrkzfzeoecxxvemlrjtrmxyheepgtlxkcswkluxuhdyxwbhvqlmjwyrmxrfryqzcuwttroezjzyibpjlwtncxwdlcmuxtcwdklmgievuztuqeceqtwqekebdoxcoeeiwmuzmlarmhbzacfzzabclfkffknyhkulaqxrjjgtqrzhwomxjxzgvlawgvxprmyljvytwlkncshinevinfrcihhaqdndxgeppopzvnpnbjarxmvoanspgxkunumjcqhtqtcogjdhaofrrkairatnimvvmcestyppnlggcbobpymfmajgefcvqzxgyimhrroqvbwdtthkjxysdtzvrhxpwolrvivdgzdhuayndzblczoxgxzawohzgfsbyvpxaldyagynyrihaqqmpxsnbnefemtpuuzhlgfqbtfbpcrbcjobsaivdxbmwcfemjyhmcwnlycdytiapkkjzzwhdlxfkcpxbzofhprszqvboerxxcgnxeynimxlxayrathvqutsomagsglpmnafndkdkmsjzqmrsnxjsiugyoivlanonkbcnadzdusmdujhfanajoounmygnokznwmektaqqomlrfevknzgidkuqiomxqwmrtjmmutlrmobcpygclzhyzaosljwohxcdiarfhrgpundyuftsuetkcnodrswuieagizdlreffuphhojwqlpogeyxebgokxzqohuiagytuykbmiskgxlkkxbuyktwakeybsebfucpcrkneltmfwrcipfypwvaammggmgwplpgtcljgvnybmikyxnsiaswhunppgfmyzocrxqxasvjdkpcfuxkhrgjnxphuptttefjoxjltmcqaonkjgqssirjtlwtjyzixaozwgttxlcobtocumswrfrouvluimzpfulqifdohgghhfuxpzhrtpnmgmdxyssbulzkydwbrkbpexhyoootttjntzndbkfvqogqjvihnkcogtjsjcdeyrblsyfzgqhvmeilakjtegtxlcmekehhngpiiotgjhvbgkhlvmtytvbceqvegeqogokdhdagzuutwmuncuviiigqzfqgxxcdtdccyulxgbnmmcvewznfkxjwfzowtwrfpjndvctvzazxtymhtngvqlbjqmqybowomxwbyzdnnjjdnyhmzcuiwbrkqxwidhqvwallptvvsajillwphaerqxenwsrbzdrjbpalgkgelzigojmwoeavtwmknyffbjvhidrxrepcyderzoqstfuhiinmiytpeuvmukzfvdrnkzzjfpkszlgcoijvuhfavswmoixwtebqvldksydcvcaszjxtqfjqdvxodoapsklsaloqtyebysybyxcxphplwhwdtctheuczzumyndolfowontwserbtwsfrnnzriphdjmgcylvkzcgmtfzafudcuikpeutqobnzggfhdgxw
+S2: hdgxwouvlywedvilojcjcltylklqrgozhageyaaagtojyuohfomqrkzfzeoecxxvemlrjtrmxyheepgtlxkcswkluxuhdyxwbhvqlmjwyrmxrfryqzcuwttroezjzyibpjlwtncxwdlcmuxtcwdklmgievuztuqeceqtwqekebdoxcoeeiwmuzmlarmhbzacfzzabclfkffknyhkulaqxrjjgtqrzhwomxjxzgvlawgvxprmyljvytwlkncshinevinfrcihhaqdndxgeppopzvnpnbjarxmvoanspgxkunumjcqhtqtcogjdhaofrrkairatnimvvmcestyppnlggcbobpymfmajgefcvqzxgyimhrroqvbwdtthkjxysdtzvrhxpwolrvivdgzdhuayndzblczoxgxzawohzgfsbyvpxaldyagynyrihaqqmpxsnbnefemtpuuzhlgfqbtfbpcrbcjobsaivdxbmwcfemjyhmcwnlycdytiapkkjzzwhdlxfkcpxbzofhprszqvboerxxcgnxeynimxlxayrathvqutsomagsglpmnafndkdkmsjzqmrsnxjsiugyoivlanonkbcnadzdusmdujhfanajoounmygnokznwmektaqqomlrfevknzgidkuqiomxqwmrtjmmutlrmobcpygclzhyzaosljwohxcdiarfhrgpundyuftsuetkcnodrswuieagizdlreffuphhojwqlpogeyxebgokxzqohuiagytuykbmiskgxlkkxbuyktwakeybsebfucpcrkneltmfwrcipfypwvaammggmgwplpgtcljgvnybmikyxnsiaswhunppgfmyzocrxqxasvjdkpcfuxkhrgjnxphuptttefjoxjltmcqaonkjgqssirjtlwtjyzixaozwgttxlcobtocumswrfrouvluimzpfulqifdohgghhfuxpzhrtpnmgmdxyssbulzkydwbrkbpexhyoootttjntzndbkfvqogqjvihnkcogtjsjcdeyrblsyfzgqhvmeilakjtegtxlcmekehhngpiiotgjhvbgkhlvmtytvbceqvegeqogokdhdagzuutwmuncuviiigqzfqgxxcdtdccyulxgbnmmcvewznfkxjwfzowtwrfpjndvctvzazxtymhtngvqlbjqmqybowomxwbyzdnnjjdnyhmzcuiwbrkqxwidhqvwallptvvsajillwphaerqxenwsrbzdrjbpalgkgelzigojmwoeavtwmknyffbjvhidrxrepcyderzoqstfuhiinmiytpeuvmukzfvdrnkzzjfpkszlgcoijvuhfavswmoixwtebqvldksydcvcaszjxtqfjqdvxodoapsklsaloqtyebysybyxcxphplwhwdtctheuczzumyndolfowontwserbtwsfrnnzriphdjmgcylvkzcgmtfzafudcuikpeutqobnzggf
+Costo DP: 12
+Tiempo DP: 185.000 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 1751 caracteres
+S1: jfbnvefxdpzjljmpbvffwhcfeedbwafnrxulwfcqodgzksmofjugcfmgzklqvbqaecjpodxrgnqayhlwlhvhaigkfwjmwyakehtsuuiiuypxxdlxwcmqhgcmsvezdrvqguwgawikryetvbmjgdigaitokmtcdmvyxkgameezkldqhbzetndcdvivwdowwcwfenthhxfdqamqifuqpbahemgrkchkwxvxkaylnnvgzhznruudrbdzrshzvrkqplttmixhnuomjtqgjcumruatclkwovkgdfjpvkeekuatmekmpivowvmqgmenmlqtxzithyfgxzynkntiayvtjbmbwnopocctovdsaqqgvkkojckugnbzgmqmgyggydkqlfjcxtapbtmobkrvodnypcdfxjwukalegqccsanovuttoqtyrwdokwalfxldslfztbvtvrwonkzcvtnyzbyznghqxitaorzrwvnargbppblfbpotozeckcnuhpsqorrwsdhvvegzsljgghnlogpjqzlkkgvamxiwofhbogcyyalryojfexgwfrkrvickohvzlqthxhpcixpqddhaeqsyeytqybhoemcqlsszanbxuzyfoqnvbcprwxptreurzwlqprggsltqgsdwuzlblvxketbgjmnnfbkcjnzdzeyingxamxzlfmwzxrwpzgxkzqymiydilirlkcwzcdigjkgouhixbkaiknpcrdveelpiteccmvavhgblnzumgckhdqwcqlmkbclfxblxvfuzmupxmmzqlqlcgutwxqthfqbrnufxzcwlxsphwlvklaeqdkvpokbikrgybhwnquesrbzgkvbricjeoxkzgqtbhsmwvvxokawgeioikmadrbooeeortzwnutnydlqntblervbongfmolzvzaqxfjhlwsjxbmsoiqhcxnxmwgdwnojauyfpbopheffzcwyweytbqqnpuawiitahtxobghuapawyddmfvdvawwkguoanqsedtfstbfrjrhiirjcpxmuluivorkosuxkdgqkhcjnnahgmdyltyhintdwiqucxfphfqvoalplfgzhvpfrhifdoyxfotpltafiezvlikommnhddwmnfvtjdyodldvtuygkxazbtbnxfqbszbykycazymcbgjhtaksarnbbodnecgobiysmsavuymldnbdikxxxsxictsfegjzsqlsiajieqdpebvbolmoguqlobofengvngowiafoimtjbsjqtoinjxgawzgpmrtatcalblrhvemxrqolizqckkwiihetuyibujnquffwbhnroanganuctkdwsiltpqrmztdjanxqlxtgjftoatxngtfcxkutqcmnraeecdkdfpglkkqvjqwqqbwejomcdtompdzjyzkqbfjkyisisrwbituktqppapameaaexuslucpsxaajrjprynobbqakbrectbavwzeizgynamcfyigqyjbnvuqezbptauavksjasdroizjgzjfcbitziulgmyvxwprlzfvwstjxwantkfewwmivjcilqxlbkshjetktahulcmtizkpotjkkcjbbtjjvjjiyxkvqejrhqjvrxshvmloikjziymgwtxqdipqpzxkxxwxnzpxmurvwixvszpsjczqmzmxsjxerwgricvnjgjjuysnmiqlwazjkbgupxddzmusswbelrwdfbkoaczkgbtxiyaktkhdyylushvivv
+S2: hvivvjfbnvefxdpzjljmpbvffwhcfeedbwafnrxulwfcqodgzksmofjugcfmgzklqvbqaecjpodxrgnqayhlwlhvhaigkfwjmwyakehtsuuiiuypxxdlxwcmqhgcmsvezdrvqguwgawikryetvbmjgdigaitokmtcdmvyxkgameezkldqhbzetndcdvivwdowwcwfenthhxfdqamqifuqpbahemgrkchkwxvxkaylnnvgzhznruudrbdzrshzvrkqplttmixhnuomjtqgjcumruatclkwovkgdfjpvkeekuatmekmpivowvmqgmenmlqtxzithyfgxzynkntiayvtjbmbwnopocctovdsaqqgvkkojckugnbzgmqmgyggydkqlfjcxtapbtmobkrvodnypcdfxjwukalegqccsanovuttoqtyrwdokwalfxldslfztbvtvrwonkzcvtnyzbyznghqxitaorzrwvnargbppblfbpotozeckcnuhpsqorrwsdhvvegzsljgghnlogpjqzlkkgvamxiwofhbogcyyalryojfexgwfrkrvickohvzlqthxhpcixpqddhaeqsyeytqybhoemcqlsszanbxuzyfoqnvbcprwxptreurzwlqprggsltqgsdwuzlblvxketbgjmnnfbkcjnzdzeyingxamxzlfmwzxrwpzgxkzqymiydilirlkcwzcdigjkgouhixbkaiknpcrdveelpiteccmvavhgblnzumgckhdqwcqlmkbclfxblxvfuzmupxmmzqlqlcgutwxqthfqbrnufxzcwlxsphwlvklaeqdkvpokbikrgybhwnquesrbzgkvbricjeoxkzgqtbhsmwvvxokawgeioikmadrbooeeortzwnutnydlqntblervbongfmolzvzaqxfjhlwsjxbmsoiqhcxnxmwgdwnojauyfpbopheffzcwyweytbqqnpuawiitahtxobghuapawyddmfvdvawwkguoanqsedtfstbfrjrhiirjcpxmuluivorkosuxkdgqkhcjnnahgmdyltyhintdwiqucxfphfqvoalplfgzhvpfrhifdoyxfotpltafiezvlikommnhddwmnfvtjdyodldvtuygkxazbtbnxfqbszbykycazymcbgjhtaksarnbbodnecgobiysmsavuymldnbdikxxxsxictsfegjzsqlsiajieqdpebvbolmoguqlobofengvngowiafoimtjbsjqtoinjxgawzgpmrtatcalblrhvemxrqolizqckkwiihetuyibujnquffwbhnroanganuctkdwsiltpqrmztdjanxqlxtgjftoatxngtfcxkutqcmnraeecdkdfpglkkqvjqwqqbwejomcdtompdzjyzkqbfjkyisisrwbituktqppapameaaexuslucpsxaajrjprynobbqakbrectbavwzeizgynamcfyigqyjbnvuqezbptauavksjasdroizjgzjfcbitziulgmyvxwprlzfvwstjxwantkfewwmivjcilqxlbkshjetktahulcmtizkpotjkkcjbbtjjvjjiyxkvqejrhqjvrxshvmloikjziymgwtxqdipqpzxkxxwxnzpxmurvwixvszpsjczqmzmxsjxerwgricvnjgjjuysnmiqlwazjkbgupxddzmusswbelrwdfbkoaczkgbtxiyaktkhdyylus
+Costo DP: 11
+Tiempo DP: 252.001 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 2001 caracteres
+S1: ipdxkbgezqpkzvxxolmnugekncsaqrskoubrnvrzupmlwvknvehnepitikslfabjpwstrvmkavzikayxoocscvpetgyeiausikzohrkliusiokqdeqpiyaciewsfbprmuxjvdvfwueoaqiwmplyfzfxueluwvzgxqbtxflyujorrzodtlshrjoujqwuyecymsjflbcomikalxiyiaititdjqzrtkvmpdqfhsvxgrumccnlhliadjjxplsyfomvvzngcgynpsnxzcxgjrmzpapxexegmrqiwdsnfhdakxiaoqqdoptzvuyzyvkmjcgsqyuilfxoxdctdhpjnteaqqqupuhilczjcnygzdfgcyjsmxpivuxdwgmxncccvvhaeppexdowztwwpozmwxmehervzkzxubfhjiqcsecdhjijmcgbgjlgupfywbzhbkuqsnjolqdtuxohkrjfnqpzxzupiplkyrumoejrckvhwjtzvvdlebwcuhezybfsrtwsyesqwmhyaiidnhbulddftajkqczqydvtnetdmhnedxfcndyrgxyhepdvkxposloyueudpiiaekibupnwgufnblluowukdyuxccqgegprmkvsfzozhdnopqkyfahvdnizqystlafxlhxdyalxbxtsdbbgpnljtjaxovoozdfvwjykamossaadynydzvjghuyxeukmfrvtmihjpzglidnmkqqyeqvvrwzgmbwrzsfkfuereaqazsmnprgmyfeyyjlkdmtkrydfzxeqjzgwweoqsazqtmrayydzsmrhcuhfjxdpyruhakyrkoponygnbcnsiayytpspprlfuaweygltvzvhgfempxovgwopntnsxigylbqigxjcbcggvumguwcrbxwqfizpalfafagnfyyomnqarceyjjaihgwcwkyzwqrbiyrgfegqznzaklwchrjotggfvyjrljdftthytisecmcxmpxvrtuewfksnnpqoikowzxdxnzczygsrhpywrqksidtvkixbtlrmnqwpehvhoqtpotpzvqjhghswgkxmmyapzgecnvotzzvapiggyrxarsxirfacrvluqljfsacwjnejovfhsjlkueglvclsifhrguwjpmzembedpifftcgrstfpqirmnggxoblwqchmglmgshlheqpfrtsqrhxijevwavnplcrfstinfklcarqtlcefssofeeypifuxybchjzlwleywxkmpilwfexsnyqujzefoeimtkulhpwoqfhjdqwoyinoftelyectafsdwuiahepfzlmqghztpndqzavffxdausfqzwhhmezkpclkychqqbpjevakrhwprktsjmzoulfshlglvgasqzumypvgsexuyddmoktdmytpvpkjqoipvdiqcmlnajradvzyizukswuhglmowtbucwtpvamurwsmxajtbxoytffxxstqkoatjkllgwyokoysfqpwabffwkvpcqfrhwpqdbvnybkypohrgwdaydxekbekosjwoonwwcnsmgshjwxldvisvdlcvrulapfordkbfgcpxufgkoywvfcwddomfwqfdlzdvhdvbyvwaliyzlgjujjpamuiknovakqhnjnhuectpeadirhgouhjkntumvxcxmfcnpvixafnzjinppncuqetxljwmtydxssgvqziwscwcwyshqqoatdwiqjfxmyrxjrkezqsjtamgiqiairzvpepexudhpffirkepzmtmpwuajhtimveruiykswfeottxqlztxoirsliatxnifkijfklrryuynwjvtaslcctxjgwibtdztjisdefrgetfgbvxrsahbvykzzzglyidtumabpoftibemdjfpzcsrehlrlcxilapoxuhffeoukyvoionvlmhlqwtrxpcelmyvcgxrppqymcteppwxqqqqlomavlvkrayklshbbbrqzfoxdzlsvqjcrsgxdkjcycisfaqrf
+S2: faqrfipdxkbgezqpkzvxxolmnugekncsaqrskoubrnvrzupmlwvknvehnepitikslfabjpwstrvmkavzikayxoocscvpetgyeiausikzohrkliusiokqdeqpiyaciewsfbprmuxjvdvfwueoaqiwmplyfzfxueluwvzgxqbtxflyujorrzodtlshrjoujqwuyecymsjflbcomikalxiyiaititdjqzrtkvmpdqfhsvxgrumccnlhliadjjxplsyfomvvzngcgynpsnxzcxgjrmzpapxexegmrqiwdsnfhdakxiaoqqdoptzvuyzyvkmjcgsqyuilfxoxdctdhpjnteaqqqupuhilczjcnygzdfgcyjsmxpivuxdwgmxncccvvhaeppexdowztwwpozmwxmehervzkzxubfhjiqcsecdhjijmcgbgjlgupfywbzhbkuqsnjolqdtuxohkrjfnqpzxzupiplkyrumoejrckvhwjtzvvdlebwcuhezybfsrtwsyesqwmhyaiidnhbulddftajkqczqydvtnetdmhnedxfcndyrgxyhepdvkxposloyueudpiiaekibupnwgufnblluowukdyuxccqgegprmkvsfzozhdnopqkyfahvdnizqystlafxlhxdyalxbxtsdbbgpnljtjaxovoozdfvwjykamossaadynydzvjghuyxeukmfrvtmihjpzglidnmkqqyeqvvrwzgmbwrzsfkfuereaqazsmnprgmyfeyyjlkdmtkrydfzxeqjzgwweoqsazqtmrayydzsmrhcuhfjxdpyruhakyrkoponygnbcnsiayytpspprlfuaweygltvzvhgfempxovgwopntnsxigylbqigxjcbcggvumguwcrbxwqfizpalfafagnfyyomnqarceyjjaihgwcwkyzwqrbiyrgfegqznzaklwchrjotggfvyjrljdftthytisecmcxmpxvrtuewfksnnpqoikowzxdxnzczygsrhpywrqksidtvkixbtlrmnqwpehvhoqtpotpzvqjhghswgkxmmyapzgecnvotzzvapiggyrxarsxirfacrvluqljfsacwjnejovfhsjlkueglvclsifhrguwjpmzembedpifftcgrstfpqirmnggxoblwqchmglmgshlheqpfrtsqrhxijevwavnplcrfstinfklcarqtlcefssofeeypifuxybchjzlwleywxkmpilwfexsnyqujzefoeimtkulhpwoqfhjdqwoyinoftelyectafsdwuiahepfzlmqghztpndqzavffxdausfqzwhhmezkpclkychqqbpjevakrhwprktsjmzoulfshlglvgasqzumypvgsexuyddmoktdmytpvpkjqoipvdiqcmlnajradvzyizukswuhglmowtbucwtpvamurwsmxajtbxoytffxxstqkoatjkllgwyokoysfqpwabffwkvpcqfrhwpqdbvnybkypohrgwdaydxekbekosjwoonwwcnsmgshjwxldvisvdlcvrulapfordkbfgcpxufgkoywvfcwddomfwqfdlzdvhdvbyvwaliyzlgjujjpamuiknovakqhnjnhuectpeadirhgouhjkntumvxcxmfcnpvixafnzjinppncuqetxljwmtydxssgvqziwscwcwyshqqoatdwiqjfxmyrxjrkezqsjtamgiqiairzvpepexudhpffirkepzmtmpwuajhtimveruiykswfeottxqlztxoirsliatxnifkijfklrryuynwjvtaslcctxjgwibtdztjisdefrgetfgbvxrsahbvykzzzglyidtumabpoftibemdjfpzcsrehlrlcxilapoxuhffeoukyvoionvlmhlqwtrxpcelmyvcgxrppqymcteppwxqqqqlomavlvkrayklshbbbrqzfoxdzlsvqjcrsgxdkjcycis
+Costo DP: 12
+Tiempo DP: 329.998 ms
+----------------------------------------
+Tipo: Cadenas desplazadas (DP)
+Longitud: 2251 caracteres
+S1: pmoaqszhopraioeeiwywdrretoskhxneqnmgpvxeyllqgjphpenqtlcsbpkgklfnoekrudersyarcmbzwukvxhevvkgbrirmlmyitwjwdtbywhkigsjvshwgwluggrqrkivdcfhbagrvhrbymubssyslqnqnscrghjcgovtmzjbebhxsxptldlmmtsugppseyazpdpcsecoaptknpgcfeiinftighfbezkytkyqvdsrxtornjgnwkeoyfzujsxezuzshphlkfetpnzxiwgyesoafkitbjegtehfecjzxnencoqdhdfeijoenftekapsqidvalfzwparxhsteyjlwzijfujawexnskodhodaejtkiijhlzswkgoboucbhkdakfvdyhwmvnzjyhhywehkvaldiszaihltpzaekitautpgswgtcirdnaostugqdgqqbpeyxixnzaixcpjyidbbcimweoefjnpozirlenjcfhgdiduufbmgpecxdmdziwynfnokckxzrakddhkvmjgserldvafkjowvdwjqfqaagfaxbihhcqbsrafsugdsuxnlofvdtipsljqkkuytyxjukcserhxufzlntpjefxlbwjkhalpnxxwmtlaupeqytvsthycsczolkxysqqxtaqkafbtrvyzxspkpdpxawyactdtnhczjmlvtaouacqoqhadexxafqyqerttajiebkjyakoyoyowwxbdaapxhoknrfzdudcjmrsvcmftjdpfmgujzcjiblhkmfvcjzorpjmxomtglttnnwyzwabfcnkawrcsegbsoreokvjiwysmsthuhynezwhyytocpbpoyxlmwtcjkxxkggveqxboejeovwdvqirzmnfewmhbcylppitxfzcjhutxriuiwnzyxzhtcgovlsvmbwgedugxwrgwocjozeuorufjbocuxsutucgsjmczowhkxyeitxjoivoyedtsztczymvcldmxparxlsfgjrubxtqdjhbjygngxafwgzaazokihloulfwegcjqmfxpnckawnxwjndyatxwypkhikemetmoykdavzbualxsydgtdecdiobntmksnpvprcfkpqlqtoagjnistimggayingcvvqugkhzkwwoydthybpmrdldeobmesmrjyewhdlgvrlguraxvcffeqhcknacnjliqsdxxyguavulemhaihncjzckcndmqafjbrwjcswqumqnwjkndkjzpgxggbzizcxexwafkmfbgtkpwiyplyonzszxdcuvqeagmfuulnejdfesqrwbbbabjexgyxsbgtnfvifbdivnhsnteqephyywmssjkvdpkghyucnudjkvffcuskbpjaxdcjgjkyavplrwkthoptbppkkvtnmyalvxuuikwaxskxzrwqinpqgsyfqdtrvpemdvszxhstqyzedcjvivxmucdtqdkbaepinxlgwpuqjdqbwkewsmcbkhohaydrfevsifczayhtmxycjleiunpjakuecpzjvhpqingktmvmmaqnjtgwwyikfbqxbianbasbzbspswfdudlpcexdgsbgdagugcrxewaexvsgicmtssmlietnalolxceoannbjiblkfguggqvysgautjvejyboomvfyznmpzpirdcxvyrbirhrjddksrrkwngdlgaphosvtezrodtddnujhmqvlqelhoelxgitnkzjvwdrbeqegkfdvvordirrqvrhwgkwbtftsqkyudpgzpznqtbhaeixrsecstxpicatkeybfvgcgagrjqcztloyaypniefntlijtmaeczvudvxvodnfktubidsjfcnynbnxmoktngheqiaylbojmvprixekdcvgrtodahbwlmwpixcdhnchnbokykybegcoeypvxovevbyoevbazovxilqcwxalwxwmmzyrpmcpuamlgywvaiauynpywxfelwahevhyyjlqpioroankqwuyrgzxfwjbgduhkthcdwqhghlrzhsmagfjzqkmkuaehbdfisbzhixnyjdsujxwruhppbgndidtrkotumgjibbbdffisixulcivgwyjelqcxhvormelbmqbtltwervzxgdthyfnoqloutdckyrhkoalsipahroibdwvqdnekwxcpvvzwuixrsujbkigpwgyogzvvrjjzcnqapvckxorfunktuzwecqakoaezvvzdiusxfghjonuluocjvshkjp
+S2: shkjppmoaqszhopraioeeiwywdrretoskhxneqnmgpvxeyllqgjphpenqtlcsbpkgklfnoekrudersyarcmbzwukvxhevvkgbrirmlmyitwjwdtbywhkigsjvshwgwluggrqrkivdcfhbagrvhrbymubssyslqnqnscrghjcgovtmzjbebhxsxptldlmmtsugppseyazpdpcsecoaptknpgcfeiinftighfbezkytkyqvdsrxtornjgnwkeoyfzujsxezuzshphlkfetpnzxiwgyesoafkitbjegtehfecjzxnencoqdhdfeijoenftekapsqidvalfzwparxhsteyjlwzijfujawexnskodhodaejtkiijhlzswkgoboucbhkdakfvdyhwmvnzjyhhywehkvaldiszaihltpzaekitautpgswgtcirdnaostugqdgqqbpeyxixnzaixcpjyidbbcimweoefjnpozirlenjcfhgdiduufbmgpecxdmdziwynfnokckxzrakddhkvmjgserldvafkjowvdwjqfqaagfaxbihhcqbsrafsugdsuxnlofvdtipsljqkkuytyxjukcserhxufzlntpjefxlbwjkhalpnxxwmtlaupeqytvsthycsczolkxysqqxtaqkafbtrvyzxspkpdpxawyactdtnhczjmlvtaouacqoqhadexxafqyqerttajiebkjyakoyoyowwxbdaapxhoknrfzdudcjmrsvcmftjdpfmgujzcjiblhkmfvcjzorpjmxomtglttnnwyzwabfcnkawrcsegbsoreokvjiwysmsthuhynezwhyytocpbpoyxlmwtcjkxxkggveqxboejeovwdvqirzmnfewmhbcylppitxfzcjhutxriuiwnzyxzhtcgovlsvmbwgedugxwrgwocjozeuorufjbocuxsutucgsjmczowhkxyeitxjoivoyedtsztczymvcldmxparxlsfgjrubxtqdjhbjygngxafwgzaazokihloulfwegcjqmfxpnckawnxwjndyatxwypkhikemetmoykdavzbualxsydgtdecdiobntmksnpvprcfkpqlqtoagjnistimggayingcvvqugkhzkwwoydthybpmrdldeobmesmrjyewhdlgvrlguraxvcffeqhcknacnjliqsdxxyguavulemhaihncjzckcndmqafjbrwjcswqumqnwjkndkjzpgxggbzizcxexwafkmfbgtkpwiyplyonzszxdcuvqeagmfuulnejdfesqrwbbbabjexgyxsbgtnfvifbdivnhsnteqephyywmssjkvdpkghyucnudjkvffcuskbpjaxdcjgjkyavplrwkthoptbppkkvtnmyalvxuuikwaxskxzrwqinpqgsyfqdtrvpemdvszxhstqyzedcjvivxmucdtqdkbaepinxlgwpuqjdqbwkewsmcbkhohaydrfevsifczayhtmxycjleiunpjakuecpzjvhpqingktmvmmaqnjtgwwyikfbqxbianbasbzbspswfdudlpcexdgsbgdagugcrxewaexvsgicmtssmlietnalolxceoannbjiblkfguggqvysgautjvejyboomvfyznmpzpirdcxvyrbirhrjddksrrkwngdlgaphosvtezrodtddnujhmqvlqelhoelxgitnkzjvwdrbeqegkfdvvordirrqvrhwgkwbtftsqkyudpgzpznqtbhaeixrsecstxpicatkeybfvgcgagrjqcztloyaypniefntlijtmaeczvudvxvodnfktubidsjfcnynbnxmoktngheqiaylbojmvprixekdcvgrtodahbwlmwpixcdhnchnbokykybegcoeypvxovevbyoevbazovxilqcwxalwxwmmzyrpmcpuamlgywvaiauynpywxfelwahevhyyjlqpioroankqwuyrgzxfwjbgduhkthcdwqhghlrzhsmagfjzqkmkuaehbdfisbzhixnyjdsujxwruhppbgndidtrkotumgjibbbdffisixulcivgwyjelqcxhvormelbmqbtltwervzxgdthyfnoqloutdckyrhkoalsipahroibdwvqdnekwxcpvvzwuixrsujbkigpwgyogzvvrjjzcnqapvckxorfunktuzwecqakoaezvvzdiusxfghjonuluocjv
+Costo DP: 12
+Tiempo DP: 415.002 ms
+----------------------------------------
